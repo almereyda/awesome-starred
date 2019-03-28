@@ -1003,6 +1003,7 @@
 
 ## Go 
 
+- [qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [contact-form](https://github.com/jmoiron/contact-form) - server that implements an email contact form for an otherwise static website
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [cosgo](https://github.com/aerth/cosgo) - :pencil: Experimental Contact Form Server. Saves to local .mbox file... Option for GPG, SendGrid. Easy Heroku deployment.
