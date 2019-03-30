@@ -33,6 +33,7 @@
   - [FreeMarker](#freemarker)
   - [Go](#go)
   - [Groovy](#groovy)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
@@ -1020,6 +1021,7 @@
 
 ## Go 
 
+- [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [contact-form](https://github.com/jmoiron/contact-form) - server that implements an email contact form for an otherwise static website
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -1312,6 +1314,10 @@
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
 - [taiga-importer-api-client](https://github.com/taigaio/taiga-importer-api-client) - Taiga Importer API Client
 - [buildstep](https://github.com/progrium/buildstep) - Buildstep uses Docker and Buildpacks to build applications like Heroku
+
+## HCL 
+
+- [terraform](https://github.com/geopoiesis/terraform) - 🌺 Terraform templates to bootstrap Geopoiesis
 
 ## HTML 
 
@@ -1736,6 +1742,7 @@
 
 ## Java 
 
+- [atlas](https://github.com/osmlab/atlas) - OSM in memory
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [HypnosMusicPlayer](https://github.com/JoshuaD84/HypnosMusicPlayer) - A Lightweight, Clean, and Powerful Music Player and Library.
 - [JDeSurvey](https://github.com/JD-Software/JDeSurvey) - JD eSurvey is an open source enterprise survey web application written in Java and based on the Spring Framework. Check out the tutorial videos to find out more about the application features.
@@ -1916,6 +1923,11 @@
 
 ## JavaScript 
 
+- [graphql-geojson-demo](https://github.com/ghengeveld/graphql-geojson-demo) - Demo GraphQL server for graphql-geojson
+- [graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
+- [pp-viz](https://github.com/johnymontana/pp-viz) - Visualizing the ICIJ Paradise Papers / Panama Papers / Offshore Leaks data
+- [geowiki](https://github.com/bs1180/geowiki) - 
+- [Client.js](https://github.com/chrdebru/Client.js) - A JavaScript client for Triple Pattern Fragments interfaces.
 - [armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
 - [visual-idea-clustering](https://github.com/luka1220/visual-idea-clustering) - Application to visually organize ideas in an 2D-space
 - [UserInterface](https://github.com/Symatem/UserInterface) - 
@@ -3240,7 +3252,7 @@
 - [kinto.js](https://github.com/Kinto/kinto.js) - An Offline-First JavaScript Client for Kinto.
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Menubar IPFS Application
 - [ipscend](https://github.com/ipfs-shipyard/ipscend) - 🚀  Publish all your Web pages to IPFS, track released versions and more!
-- [firefox-scrapbook](https://github.com/danny0838/firefox-scrapbook) - ScrapBook X - the Firefox add-on that inherits from ScrapBook by Gomita and ScrapBook Plus by haselnuss
+- [firefox-scrapbook](https://github.com/danny0838/firefox-scrapbook) - ScrapBook X – a Firefox add-on that inherits from ScrapBook by Gomita and ScrapBook Plus by haselnuss
 - [Scrapbook-for-SingleFile](https://github.com/gildas-lormeau/Scrapbook-for-SingleFile) - PageArchiver (previously called "Scrapbook for SingleFile") is a Chrome extension that helps to archive pages for offline reading
 - [accountdown](https://github.com/substack/accountdown) - manage accounts with leveldb
 - [township-media](https://github.com/kvnneff/township-media) - A Township plugin that adds routes and methods for managing media uploads
@@ -6518,6 +6530,7 @@
 
 ## Shell 
 
+- [appsync-elasticsearch-geosearch](https://github.com/techjacker/appsync-elasticsearch-geosearch) - Example Geo Search API built on AWS Appysnc & Elasticsearch
 - [dockerized-kiwix-server](https://github.com/yangboz/dockerized-kiwix-server) - Your own wikipedia server in a box.
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
 - [orchestration](https://github.com/webitel/orchestration) - Orchestrate webitel containers
@@ -7004,6 +7017,7 @@
 
 ## TypeScript 
 
+- [graphql-to-sparql.js](https://github.com/rubensworks/graphql-to-sparql.js) - Converts GraphQL queries to SPARQL queries
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [engraved](https://github.com/PzYon/engraved) - Store information snippets (URLs, code, notes, etc.). Add keywords to find and access them from everywhere.
 - [fluid-outliner](https://github.com/fluid-notion/fluid-outliner) - Open source web based outliner built with a strong focus on simplicity and ease of use
