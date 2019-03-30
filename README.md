@@ -399,7 +399,6 @@
 - [bundy](https://github.com/bundy-dns/bundy) - an authoritative DNS server
 - [lizardfs](https://github.com/lizardfs/lizardfs) - LizardFS is an Open Source Distributed File System licenced under GPLv3.
 - [forestdb](https://github.com/couchbase/forestdb) - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie
-- [leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
 - [monarch](https://github.com/digitalbazaar/monarch) - The Modular Networking Architecture - high-performance libraries for creating REST-based, JSON Web Services
 - [NFD](https://github.com/named-data/NFD) - Named Data Networking Forwarding Daemon
 - [Hyperbolic-Graph-Generator](https://github.com/named-data/Hyperbolic-Graph-Generator) - A set of tools to generate synthetic graphs embedded into a hyperbolic space and to test the greedy routing.
@@ -424,6 +423,15 @@
 
 ## CSS 
 
+- [FirePress_London](https://github.com/firepress-org/FirePress_London) - FirePress_London is free Ghost Theme. Find more themes here ==&gt;
+- [FirePress_Steam](https://github.com/firepress-org/FirePress_Steam) - FirePress_Steam is free Ghost Theme. Find more themes here ==&gt;
+- [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
+- [austere](https://github.com/zutrinken/austere) - Ghost Theme (WIP)
+- [kava](https://github.com/zutrinken/kava) - Ghost Theme
+- [Scriptor-Ghost-Theme](https://github.com/JustGoodThemes/Scriptor-Ghost-Theme) - Scriptor is a minimal, clean, modern & responsive Ghost theme for writers.
+- [abc](https://github.com/juliancwirko/abc) - Free theme for your Ghost blog
+- [Steam](https://github.com/epistrephein/Steam) - A clean and minimal theme for Ghost.
+- [mnml-ghost-theme](https://github.com/curiositry/mnml-ghost-theme) - A minimal, responsive, fast ghost blog theme with great typography. Comes with Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.
 - [website](https://github.com/arso-project/website) - 
 - [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [newman](https://github.com/matthiaseisen/newman) - Form mailing for static websites
@@ -1298,6 +1306,13 @@
 
 ## HTML 
 
+- [clean-blog](https://github.com/chadly/clean-blog) - Ghost 2.0 Theme
+- [pale-ghost](https://github.com/nahuelsanchez/pale-ghost) - A blank, dev ready, Ghost theme.
+- [biron-ghost-theme](https://github.com/bironthemes/biron-ghost-theme) - Biron Free Ghost Theme
+- [cusca](https://github.com/wdiazux/cusca) - A ghost theme
+- [MoaningMyrtle](https://github.com/gregrickaby/MoaningMyrtle) - A custom Ghost theme with Webpack, Bootstrap, and BrowserSync.
+- [undefined-ghost-theme](https://github.com/curiositry/undefined-ghost-theme) - A minimal starter theme for the Ghost blogging platform.
+- [frontier-ghost-theme](https://github.com/jamesfacts/frontier-ghost-theme) - A minimal Ghost starter theme, featuring Webpack, Browsersync, and Bootstrap.
 - [markbook](https://github.com/mark-book/markbook) - book mark &lt;--&gt;  mark book -- insane social bookmarking for the solid platform
 - [solid-bookmark](https://github.com/melvincarvalho/solid-bookmark) - solid bookmarks
 - [CooperativeProjects](https://github.com/WebCivics/CooperativeProjects) - Dev work on a collaborative project management application.
@@ -1397,7 +1412,7 @@
 - [mplexviz-ngraph](https://github.com/DennisSchwartz/mplexviz-ngraph) - A BioJS visualisation component for the mplexnet Multilayer Network model using ngraph
 - [3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [MatrixDepot.jl](https://github.com/JuliaMatrices/MatrixDepot.jl) - An Extensible Test Matrix Collection for Julia
-- [freewall](https://github.com/kombai/freewall) - Freewall is a cross-browser and responsive jQuery plugin to help you create many types of grid layouts  for desktop, mobile, and tablet...
+- [freewall](https://github.com/kombai/freewall) - Freewall is a cross-browser and responsive jQuery plugin to help you create grid, image and masonry layouts  for desktop, mobile, and tablet...
 - [mongabay-conservationviz](https://github.com/mongabay/mongabay-conservationviz) - Reusable visualizations for MongaBay.com
 - [openreblock](https://github.com/open-reblock/openreblock) - 
 - [webconcepts](https://github.com/dret/webconcepts) - Web Concepts: Concepts that matter for the the Web.
@@ -1883,6 +1898,8 @@
 
 ## JavaScript 
 
+- [ghost-theme-next](https://github.com/microud/ghost-theme-next) - Elegant theme for Ghost.
+- [ghost-theme-casperion](https://github.com/sandrokeil/ghost-theme-casperion) - Casperion is a free Ghost theme. Casperion is based upon original Ghost theme Casper with some minor modifications and extensions.
 - [EasyScreenCast](https://github.com/EasyScreenCast/EasyScreenCast) - This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
 - [webpack-visualizer](https://github.com/chrisbateman/webpack-visualizer) - Visualize your Webpack bundle
 - [vf-graphql](https://github.com/valueflows/vf-graphql) - Reference GraphQL implementation of the ValueFlows spec
@@ -1899,7 +1916,7 @@
 - [fromscratch](https://github.com/Kilian/fromscratch) - Autosaving Scratchpad. A simple but smart note-taking app
 - [fontlet-explorer](https://github.com/fontlet/fontlet-explorer) - ⚡️Latest and greatest FLOSS fonts on the desktop.
 - [spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
-- [web](https://github.com/standardnotes/web) - Free, open-source, and completely encrypted. This is your notes app for life. | https://standardnotes.org
+- [web](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app. | https://standardnotes.org
 - [desktop](https://github.com/standardnotes/desktop) - A simple and private notes app. Mac, PC, & Linux app | https://standardnotes.org
 - [calculist](https://github.com/calculist/calculist) - the open source thinking tool for problem solvers
 - [calculist-web](https://github.com/calculist/calculist-web) - source code for app.calculist.io
@@ -2765,7 +2782,7 @@
 - [conways-game-of-life](https://github.com/dobbs/conways-game-of-life) - 
 - [activity-stream](https://github.com/mozilla/activity-stream) - A refreshed "new tab page" for Firefox
 - [glslify](https://github.com/glslify/glslify) - :sparkles: A node.js-style module system for GLSL!
-- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind plot.ly and Dash
+- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [wq.app](https://github.com/wq/wq.app) - 💻📱 wq's app library, a JavaScript+Python toolkit for building robust offline-capable progressive web apps for citizen science, mobile crowdsourcing, and VGI.  Powered by HTML5, jQuery Mobile, localForage, Mustache, Leaflet, and d3.js.
 - [sauvagesdemarue-mobile](https://github.com/NaturalSolutions/sauvagesdemarue-mobile) - 
 - [cascobay](https://github.com/cascobay/cascobay) - Interactive map of citizen science water quality data of Casco Bay, ME.
@@ -3794,6 +3811,7 @@
 - [metamaps](https://github.com/metamaps/metamaps) - A deployable web platform for collaborative conversation, ideation & sense-making. Use it for free at
 - [transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
 - [osm-tasking-manager2](https://github.com/hotosm/osm-tasking-manager2) - Designed and built for Humanitarian OpenStreetMap Team collaborative emergency/disaster mapping, the OSM Tasking Manager 2.0 divides an area into individual squares that can be rapidly mapped by thousands of volunteers.
+- [leveldown](https://github.com/Level/leveldown) - Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store.
 - [scrollback](https://github.com/scrollback/scrollback) - Embeddable cross-platform chat for communities
 - [dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 - [couchadaptor](https://github.com/wshallum/couchadaptor) - CouchDB sync adaptor for TiddlyWiki 5. Use at own risk.
@@ -4054,7 +4072,6 @@
 - [harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
 - [kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
 - [flask_user_map](https://github.com/kartoza/flask_user_map) - A simple flask for creating user community maps
-- [geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [tilestream](https://github.com/cutting-room-floor/tilestream) - A high-performance map tile server powered by MBTiles files
 - [dspace-app-apollong](https://github.com/apollo-ng/dspace-app-apollong) - DSpace aims to enable people to find, collect, edit, structure and share any kind of information in a real-time, massive-collaboration, augmented-reality-environment (like wikipedia), based on a very common ground: The map of the area, where people actually are, around their Geolocation.
 - [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
@@ -4362,6 +4379,7 @@
 
 ## Others 
 
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [tryton](https://github.com/openlabs/tryton) - Tryton Dockerfile
 - [information](https://github.com/solid/information) - Documentation, guidelines, discussion, and best practices for the Solid community.
 - [MineTime](https://github.com/marcoancona/MineTime) - MineTime public repository for issue tracking
@@ -4941,6 +4959,7 @@
 
 ## PHP 
 
+- [criticalmaps-web](https://github.com/criticalmaps/criticalmaps-web) - Critical Maps Website
 - [Hari](https://github.com/assemblee-virtuelle/Hari) - Projet d'implémentation du protocole ActivityPub pour Symfony
 - [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website
 - [disposable-mailbox](https://github.com/synox/disposable-mailbox) - self-hosted disposable email service (php) using catch-all and imap
@@ -4965,7 +4984,7 @@
 - [invoiceneko](https://github.com/poowf/invoiceneko) - An Open Sourced Invoice System developed for anyone who needs to generate out an invoice and manage clients
 - [uzerp](https://github.com/uzerpllp/uzerp) - uzERP - Open Source Business Management
 - [reibach](https://github.com/reibach/reibach) - ... to make a big haul
-- [accounting](https://github.com/albrecht-net/accounting) - 
+- [accounting](https://github.com/albrecht-net/accounting) - Webbasierte Buchhaltungsapplikation zur doppelteln Buchführung
 - [own-my-money](https://github.com/nioc/own-my-money) - A simple way to stay on top of your banking from any web browser
 - [mangoO-Microfinance](https://github.com/mangoO-Microfinance/mangoO-Microfinance) - A lightweight, yet powerfull solution for microfinance institutions based on web technologies
 - [flidado](https://github.com/logout128/flidado) - Flicker Data Downloader - tool for downloading all photos from all sets of single (authenticated) user on Flickr
@@ -5022,7 +5041,7 @@
 - [Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Open source image sharing web application
 - [omeka-s](https://github.com/omeka/omeka-s) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata.
 - [foodcoopshop](https://github.com/foodcoopshop/foodcoopshop) - Open source software for foodcoops
-- [emojione](https://github.com/emojione/emojione) - The world's largest independent emoji font.
+- [emojione](https://github.com/joypixels/emojione) - The world's largest independent emoji font.
 - [livehelperchat](https://github.com/LiveHelperChat/livehelperchat) - Live Helper Chat - live support for your website. Featuring web and desktop clients. Compatible Windows, Linux, Mac. Desktop client powered by QT. Supports Telegram, Twilio, Facebook messenger.
 - [project-open-data-dashboard](https://github.com/GSA/project-open-data-dashboard) - Project Open Data Dashboard
 - [TinyAnalytics](https://github.com/josephernest/TinyAnalytics) - TinyAnalytics is a lightweight analytics tool (unique visitors count, etc.)
@@ -5997,6 +6016,7 @@
 - [trellorss-gae](https://github.com/naiyt/trellorss-gae) - Google App Engine Trello RSS implementation
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [fabgis](https://github.com/timlinux/fabgis) - Fabric scripts for busy FOSGGIS professionals
+- [geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 - [refuge.io](https://github.com/refuge/refuge.io) - main refuge project website
 - [bigcouch](https://github.com/cloudant/bigcouch) - Putting the 'C' back in CouchDB
 - [Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
@@ -6886,6 +6906,7 @@
 
 ## Swift 
 
+- [criticalmaps-ios](https://github.com/criticalmaps/criticalmaps-ios) - 🚲 Critical Maps iOS App
 - [seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [Nimbus](https://github.com/ethanal/Nimbus) - Not maintained. A private file sharer and URL shortener (like Cloudapp and TinyURL).
 - [cleartext-mac](https://github.com/mortenjust/cleartext-mac) - A text editor that will help you write clearer and simpler
