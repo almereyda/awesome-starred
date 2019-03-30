@@ -1315,6 +1315,9 @@
 
 ## HTML 
 
+- [remotestorage-widget](https://github.com/remotestorage/remotestorage-widget) - ⬡ Connect widget for remoteStorage.js
+- [startbootstrap-landing-page](https://github.com/BlackrockDigital/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
+- [theatlasofdata.earth](https://github.com/theatlasofdata/theatlasofdata.earth) - How flows of data reveal the ecosystems of our planet
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise: A flexible (but, simple to use) topic maps-based personal knowledge management application
 - [product-management-cribsheets](https://github.com/bjpcjp/product-management-cribsheets) - Various tools
 - [mindmapping](https://github.com/opentecture/mindmapping) - Mindmapping with Three.js
@@ -1913,6 +1916,7 @@
 
 ## JavaScript 
 
+- [armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
 - [visual-idea-clustering](https://github.com/luka1220/visual-idea-clustering) - Application to visually organize ideas in an 2D-space
 - [UserInterface](https://github.com/Symatem/UserInterface) - 
 - [notes](https://github.com/will-hanlen/notes) - An online note taking application
@@ -3236,7 +3240,7 @@
 - [kinto.js](https://github.com/Kinto/kinto.js) - An Offline-First JavaScript Client for Kinto.
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Menubar IPFS Application
 - [ipscend](https://github.com/ipfs-shipyard/ipscend) - 🚀  Publish all your Web pages to IPFS, track released versions and more!
-- [firefox-scrapbook](https://github.com/danny0838/firefox-scrapbook) - ScrapBook X - the Firefox addon that inherits from ScrapBook by Gomita and ScrapBook Plus by haselnuss
+- [firefox-scrapbook](https://github.com/danny0838/firefox-scrapbook) - ScrapBook X - the Firefox add-on that inherits from ScrapBook by Gomita and ScrapBook Plus by haselnuss
 - [Scrapbook-for-SingleFile](https://github.com/gildas-lormeau/Scrapbook-for-SingleFile) - PageArchiver (previously called "Scrapbook for SingleFile") is a Chrome extension that helps to archive pages for offline reading
 - [accountdown](https://github.com/substack/accountdown) - manage accounts with leveldb
 - [township-media](https://github.com/kvnneff/township-media) - A Township plugin that adds routes and methods for managing media uploads
@@ -5397,6 +5401,7 @@
 
 ## Python 
 
+- [solar-time-vs-standard-time](https://github.com/stefano-maggiolo/solar-time-vs-standard-time) - Tools and data to create a map of differences between solar time and standard time.
 - [VectorCloud](https://github.com/rmountjoy92/VectorCloud) - A web interface for Anki Vector
 - [Kunteksto](https://github.com/DataInsightsInc/Kunteksto) - The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation.
 - [grafit](https://github.com/grafit-io/grafit) - grafit.io - shared knowledge
@@ -6382,7 +6387,7 @@
 - [webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
 - [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
-- [sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go - an open source marketplace platform, also available with SaaS model.
+- [sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is an open source marketplace platform, also available with SaaS model. See also Sharetribe Flex, a headless marketplace solution. https://www.sharetribe.com
 - [lumen](https://github.com/stephenreid321/lumen) - Open-source group discussion platform. Written in Ruby (Padrino), hosted via DigitalOcean/dokku. No longer in active development
 - [allourideas.org](https://github.com/allourideas/allourideas.org) - allourideas allows groups to collect and priorize information in an open, democratic, and efficient process.
 - [libertree](https://github.com/Libertree/libertree) - Libertree is free, libre, open-source software for creating your own social network.
@@ -6999,6 +7004,7 @@
 
 ## TypeScript 
 
+- [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [engraved](https://github.com/PzYon/engraved) - Store information snippets (URLs, code, notes, etc.). Add keywords to find and access them from everywhere.
 - [fluid-outliner](https://github.com/fluid-notion/fluid-outliner) - Open source web based outliner built with a strong focus on simplicity and ease of use
 - [trips-editor](https://github.com/shinima/trips-editor) - 🎨 A simple SVG editor which focuses on editing polygons/polylines and attaching semantic data to them.
