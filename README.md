@@ -52,6 +52,7 @@
   - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
+  - [Objective-C++](#objective-c++)
   - [Objective-J](#objective-j)
   - [Opa](#opa)
   - [Others](#others)
@@ -116,6 +117,7 @@
 
 ## C 
 
+- [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [zsync2](https://github.com/AppImage/zsync2) - Rewrite of https://github.com/AppImage/zsync-curl, using modern C++, providing both a library and standalone tools.
 - [moolticute](https://github.com/mooltipass/moolticute) - Mooltipass crossplatform daemon/tools
 - [dsniff](https://github.com/tecknicaltom/dsniff) - dsniff is a collection of tools for network auditing and penetration testing.
@@ -289,6 +291,10 @@
 
 ## C++ 
 
+- [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
+- [nanonote](https://github.com/agateau/nanonote) - A minimalist note taking application
+- [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
+- [QtConceptMap](https://github.com/richelbilderbeek/QtConceptMap) - C++14 concept map widget class using Qt
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The timeseries visualization tool that you deserve
 - [olive](https://github.com/olive-editor/olive) - Professional open-source NLE video editor
 - [LAN-Share](https://github.com/abdularis/LAN-Share) - Cross platform LAN File transfer application built with Qt C++ framework
@@ -423,6 +429,7 @@
 
 ## CSS 
 
+- [wikipediaViewer](https://github.com/pieguyatx/wikipediaViewer) - Exercise in using APIs. Searches Wikipedia and displays relevant articles to help inspire other thoughts from free-association. Demonstrates HTML/CSS/JavaScript, jQuery, jQuery UI (draggable), and jQuery/AJAX API requests.
 - [FirePress_London](https://github.com/firepress-org/FirePress_London) - FirePress_London is free Ghost Theme. Find more themes here ==&gt;
 - [FirePress_Steam](https://github.com/firepress-org/FirePress_Steam) - FirePress_Steam is free Ghost Theme. Find more themes here ==&gt;
 - [bleak](https://github.com/zutrinken/bleak) - Ghost Theme
@@ -740,6 +747,7 @@
 
 ## Clojure 
 
+- [leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
 - [meins](https://github.com/matthiasn/meins) - a personal and smart journal
 - [clojure-wiki](https://github.com/ericclack/clojure-wiki) - A simple, personal wiki engine -- with Markdown, [[wiki links]], tags, search, page history, change log, and CouchDB storage
 - [pronoun.is](https://github.com/witch-house/pronoun.is) - Show people how to use pronouns!
@@ -960,6 +968,7 @@
 
 ## Elm 
 
+- [cotoami](https://github.com/cotoami/cotoami) - Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.
 - [diffuse](https://github.com/icidasset/diffuse) - A music player which connects to your cloud/distributed storage.
 - [graph-editor](https://github.com/jhrcek/graph-editor) - Simple editor for creating graphs implemented purely in Elm.
 - [client](https://github.com/gingko/client) - Gingko desktop client. Written in Elm, running in Electron.
@@ -1306,6 +1315,11 @@
 
 ## HTML 
 
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise: A flexible (but, simple to use) topic maps-based personal knowledge management application
+- [product-management-cribsheets](https://github.com/bjpcjp/product-management-cribsheets) - Various tools
+- [mindmapping](https://github.com/opentecture/mindmapping) - Mindmapping with Three.js
+- [tiled-maps](https://github.com/perliedman/tiled-maps) - A short, free and open introduction to the concept of tiled maps
+- [disastermap](https://github.com/aejolene/disastermap) - Proof of concept map for disaster response and archaeology. For Keeping History Above Water conference, 2017
 - [clean-blog](https://github.com/chadly/clean-blog) - Ghost 2.0 Theme
 - [pale-ghost](https://github.com/nahuelsanchez/pale-ghost) - A blank, dev ready, Ghost theme.
 - [biron-ghost-theme](https://github.com/bironthemes/biron-ghost-theme) - Biron Free Ghost Theme
@@ -1719,6 +1733,7 @@
 
 ## Java 
 
+- [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [HypnosMusicPlayer](https://github.com/JoshuaD84/HypnosMusicPlayer) - A Lightweight, Clean, and Powerful Music Player and Library.
 - [JDeSurvey](https://github.com/JD-Software/JDeSurvey) - JD eSurvey is an open source enterprise survey web application written in Java and based on the Spring Framework. Check out the tutorial videos to find out more about the application features.
 - [sakai](https://github.com/sakaiproject/sakai) - Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software suite developed by a diverse and global adopter community.
@@ -1898,6 +1913,17 @@
 
 ## JavaScript 
 
+- [visual-idea-clustering](https://github.com/luka1220/visual-idea-clustering) - Application to visually organize ideas in an 2D-space
+- [UserInterface](https://github.com/Symatem/UserInterface) - 
+- [notes](https://github.com/will-hanlen/notes) - An online note taking application
+- [sorter](https://github.com/vitogit/sorter) - Sorter is a webapp to organize ideas, tasks and information using bullet points and hashtags.
+- [leovue](https://github.com/kaleguy/leovue) - Use the LEO outlining editor to create a Vue.js webapp.
+- [openeo-processes](https://github.com/Open-EO/openeo-processes) - Repository for openEO process descriptions
+- [modallogic](https://github.com/rkirsling/modallogic) - Modal Logic Playground
+- [Map-georeferencer](https://github.com/Viglino/Map-georeferencer) - A proof of concept to georeference maps with Openlayers (ol).
+- [CognitiveCanvas-Mapping](https://github.com/CognitiveCanvas/CognitiveCanvas-Mapping) - Collaborative concept map build on webstrates.
+- [Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
+- [conceptMap](https://github.com/eliceio/conceptMap) - 
 - [ghost-theme-next](https://github.com/microud/ghost-theme-next) - Elegant theme for Ghost.
 - [ghost-theme-casperion](https://github.com/sandrokeil/ghost-theme-casperion) - Casperion is a free Ghost theme. Casperion is based upon original Ghost theme Casper with some minor modifications and extensions.
 - [EasyScreenCast](https://github.com/EasyScreenCast/EasyScreenCast) - This extension simplifies the use of the video recording function integrated in gnome shell, allows quickly to change the various settings of the desktop recording.
@@ -4251,6 +4277,7 @@
 
 ## Jupyter Notebook 
 
+- [textbook-concept-map](https://github.com/patrick-miller/textbook-concept-map) - Build a concept map from textbooks using DBpedia Spotlight
 - [pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [networkx-neo4j](https://github.com/neo4j-graph-analytics/networkx-neo4j) - NetworkX API for Neo4j Graph Algorithms.
 - [visJS2jupyter](https://github.com/ucsd-ccbb/visJS2jupyter) - visJS2jupyter is a tool to bring the interactivity of networks created with vis.js into jupyter notebook cells
@@ -4369,6 +4396,10 @@
 - [libdime](https://github.com/lavabit/libdime) - The DIME resolver library and command line utilities.
 - [refugees](https://github.com/finngaida/refugees) - An app created for refugees and helpers in Hamburg for Jugend Hackt Nord 2015
 
+## Objective-C++ 
+
+- [OpenOutliner](https://github.com/davidchisnall/OpenOutliner) - Outliner application inspired by OmniOutliner 3
+
 ## Objective-J 
 
 - [Archipel](https://github.com/ArchipelProject/Archipel) - XMPP Based Orchestrator
@@ -4379,6 +4410,12 @@
 
 ## Others 
 
+- [mindforger-repository](https://github.com/dvorka/mindforger-repository) - MindForger documentation repository.
+- [Documentation](https://github.com/Symatem/Documentation) - 
+- [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools) - Problem solving and idea generation tools
+- [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
+- [diagram-tools-js](https://github.com/christabor/diagram-tools-js) - A list of front-end (javascript/*script) tools for creating diagrams and data visualizations.
+- [accounting-database](https://github.com/albrecht-net/accounting-database) - Databasetemplates for the albrecht-net/accounting repo
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [tryton](https://github.com/openlabs/tryton) - Tryton Dockerfile
 - [information](https://github.com/solid/information) - Documentation, guidelines, discussion, and best practices for the Solid community.
@@ -5300,6 +5337,7 @@
 
 ## Perl 
 
+- [iai-concept-map](https://github.com/iainstitute/iai-concept-map) - A SKOS concept map for the IA Institute
 - [slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 - [ikistrap](https://github.com/gsliepen/ikistrap) - Bootstrap 4 theme for ikiwiki.
 - [oddmuse](https://github.com/kensanata/oddmuse) - A simple wiki engine written in Perl. No database required.
@@ -5359,6 +5397,19 @@
 
 ## Python 
 
+- [VectorCloud](https://github.com/rmountjoy92/VectorCloud) - A web interface for Anki Vector
+- [Kunteksto](https://github.com/DataInsightsInc/Kunteksto) - The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation.
+- [grafit](https://github.com/grafit-io/grafit) - grafit.io - shared knowledge
+- [topic-db](https://github.com/brettkromkamp/topic-db) - TopicDB: A topic map-based semantic graph library (using PostgreSQL for persistence) implemented in Python
+- [sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) - A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄
+- [kmol-editor](https://github.com/KmolYuan/kmol-editor) - A light text editor using tree project to edit text-based files. Python scripting support.
+- [TreeNote](https://github.com/TreeNote/TreeNote) - An intuitive outliner for personal knowledge and task management
+- [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
+- [ankiplugins](https://github.com/dae/ankiplugins) - Plugins for Anki on the desktop
+- [oclapi](https://github.com/OpenConceptLab/oclapi) - Open Concept Lab REST API
+- [ocl_web](https://github.com/OpenConceptLab/ocl_web) - Django web client for terminology management via the OCL API.
+- [syntrax](https://github.com/kevinpt/syntrax) - Railroad syntax diagram generator
+- [building-ontologies-from-concept-maps](https://github.com/cadmiumkitty/building-ontologies-from-concept-maps) - Demo code from Semantic Web London August 2016 - Patterns in Building Ontologies from Concept Maps and other Artefacts
 - [trytond](https://github.com/tryton/trytond) - Mirror of trytond
 - [proteus](https://github.com/tryton/proteus) - Mirror of Proteus
 - [bridgy-fed](https://github.com/snarfed/bridgy-fed) - Bridges the IndieWeb to federated social networks: ActivityPub, OStatus, etc.
@@ -6090,6 +6141,7 @@
 
 ## Ruby 
 
+- [NoteIn](https://github.com/notein/NoteIn) - Federated Note Sharing (WIP)
 - [ruby-server](https://github.com/standardfile/ruby-server) - Standard File server. Used for running your own Standard Notes server | https://standardnotes.org
 - [listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters. https://listed.standardnotes.org
 - [open-review-toolkit](https://github.com/open-review-toolkit/open-review-toolkit) - Open Review Toolkit: Better books, Higher sales, Increased access to knowledge
@@ -6461,6 +6513,7 @@
 
 ## Shell 
 
+- [dockerized-kiwix-server](https://github.com/yangboz/dockerized-kiwix-server) - Your own wikipedia server in a box.
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
 - [orchestration](https://github.com/webitel/orchestration) - Orchestrate webitel containers
 - [Membership_Management_System](https://github.com/CRASHSpace/Membership_Management_System) - Managing members is hard. Let's strive to make it suck less.
@@ -6946,6 +6999,9 @@
 
 ## TypeScript 
 
+- [engraved](https://github.com/PzYon/engraved) - Store information snippets (URLs, code, notes, etc.). Add keywords to find and access them from everywhere.
+- [fluid-outliner](https://github.com/fluid-notion/fluid-outliner) - Open source web based outliner built with a strong focus on simplicity and ease of use
+- [trips-editor](https://github.com/shinima/trips-editor) - 🎨 A simple SVG editor which focuses on editing polygons/polylines and attaching semantic data to them.
 - [webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
 - [outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
 - [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
@@ -7066,6 +7122,8 @@
 
 ## Vue 
 
+- [openeo-web-editor](https://github.com/Open-EO/openeo-web-editor) - A web-based editor for interactive usage of the OpenEO API (proof-of-concept).
+- [openeo-hub](https://github.com/Open-EO/openeo-hub) - Source code for openEO Hub, a centralized platform to explore openEO back-end providers.
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
 - [functions-ui](https://github.com/iron-io/functions-ui) - User interface for IronFunctions - http://github.com/iron-io/functions
 - [vue-form-builder](https://github.com/sethsandaru/vue-form-builder) - Vue form builder with drag & drop
