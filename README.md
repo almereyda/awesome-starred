@@ -1168,7 +1168,7 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes
 - [dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
-- [watchtower](https://github.com/containerized/watchtower) - Automatically update running Docker containers
+- [watchtower](https://github.com/containrrr/watchtower) - Automatically update running Docker containers
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -1926,6 +1926,7 @@
 
 ## JavaScript 
 
+- [GoGoCartoJs](https://github.com/pixelhumain/GoGoCartoJs) - Javascript component to create terrific cartography !
 - [osm-meta-util](https://github.com/osmlab/osm-meta-util) - Utility for downloading and processing OSM metadata
 - [data-mapper](https://github.com/osmlab/data-mapper) - A map tool to help review and add external data into OpenStreetMap
 - [fieldnotes](https://github.com/osmlab/fieldnotes) - A simple map app to report notes from the field.
@@ -5035,6 +5036,9 @@
 
 ## PHP 
 
+- [GoGoCarto](https://github.com/pixelhumain/GoGoCarto) - Collaborative geo directory application
+- [cococarto](https://github.com/pixelhumain/cococarto) - module utilisant gogoCarto
+- [fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
 - [criticalmaps-web](https://github.com/criticalmaps/criticalmaps-web) - Critical Maps Website
 - [Hari](https://github.com/assemblee-virtuelle/Hari) - Projet d'implémentation du protocole ActivityPub pour Symfony
 - [prefix.cc](https://github.com/cygri/prefix.cc) - Source code to the prefix.cc website
