@@ -292,6 +292,7 @@
 
 ## C++ 
 
+- [osm-wayback](https://github.com/osmlab/osm-wayback) - Embedding OSM object histories from planet-history into GeoJSON objects for historical OSM-QA-Tiles with libosmium and RocksDB
 - [construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [nanonote](https://github.com/agateau/nanonote) - A minimalist note taking application
@@ -1925,6 +1926,18 @@
 
 ## JavaScript 
 
+- [osm-meta-util](https://github.com/osmlab/osm-meta-util) - Utility for downloading and processing OSM metadata
+- [data-mapper](https://github.com/osmlab/data-mapper) - A map tool to help review and add external data into OpenStreetMap
+- [fieldnotes](https://github.com/osmlab/fieldnotes) - A simple map app to report notes from the field.
+- [observe-tools](https://github.com/osmlab/observe-tools) - Tools to help with osmlab/field-data-collection surveys
+- [field-data-coordinator](https://github.com/osmlab/field-data-coordinator) - 
+- [osm-deep-history](https://github.com/osmlab/osm-deep-history) - A simple page to show the history of OSM objects.
+- [learnoverpass](https://github.com/osmlab/learnoverpass) - LearnOverpass is the definitive, one stop learning resource for the overpass API.
+- [osmose-request](https://github.com/osmlab/osmose-request) - Request the Osmose API from Javascript, with promises :)
+- [leaflet-nectarivore](https://github.com/osmlab/leaflet-nectarivore) - Leaflet plugin to create layers based on remote services (Overpass, Osmose, etc.)
+- [osm-request](https://github.com/osmlab/osm-request) - JS library for OpenStreetMap API communication
+- [osm-community-index](https://github.com/osmlab/osm-community-index) - :speech_balloon: An index of community resources for OpenStreetMap
+- [maproulette3](https://github.com/osmlab/maproulette3) - MapRoulette, the micro-tasking tool for OpenStreetMap
 - [selfcaretech](https://github.com/jenniferlynparsons/selfcaretech) - A repository of self-care resources
 - [graphql-geojson-demo](https://github.com/ghengeveld/graphql-geojson-demo) - Demo GraphQL server for graphql-geojson
 - [graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
@@ -4429,6 +4442,12 @@
 
 ## Others 
 
+- [osm-diversity](https://github.com/osmlab/osm-diversity) - A place to start engaging communities to make OSM more diverse
+- [welcome](https://github.com/osmlab/welcome) - A webapp designed to make it easier to welcome new mappers to OpenStreetMap.
+- [osm-planning](https://github.com/osmlab/osm-planning) - General OSM tools planning and wishlist
+- [osm-tagging](https://github.com/osmlab/osm-tagging) - A place to discuss next actions for all things tagging
+- [osm-data-model](https://github.com/osmlab/osm-data-model) - For discussions about the OSM data model and how to improve it
+- [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) - 😎 Curated list of awesome OpenSteetMap projects
 - [CarnetDocumentation](https://github.com/PhieF/CarnetDocumentation) - 
 - [mindforger-repository](https://github.com/dvorka/mindforger-repository) - MindForger documentation repository.
 - [Documentation](https://github.com/Symatem/Documentation) - 
@@ -5357,6 +5376,7 @@
 
 ## Perl 
 
+- [openstreetmap-upcoming-features](https://github.com/osmlab/openstreetmap-upcoming-features) - A repo to work on a regular email about upcoming OSM features
 - [iai-concept-map](https://github.com/iainstitute/iai-concept-map) - A SKOS concept map for the IA Institute
 - [slimserver](https://github.com/Logitech/slimserver) - Server for Logitech Squeezebox players. This server is also called Logitech Media Server
 - [ikistrap](https://github.com/gsliepen/ikistrap) - Bootstrap 4 theme for ikiwiki.
