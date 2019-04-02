@@ -292,6 +292,7 @@
 
 ## C++ 
 
+- [construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
 - [nanonote](https://github.com/agateau/nanonote) - A minimalist note taking application
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
@@ -943,6 +944,7 @@
 - [px-dev](https://github.com/portworx/px-dev) - PX-Developer is scale-out storage for containers. Run Cassandra, Jenkins, or any application in Docker, with enterprise storage functionality on commodity servers
 - [alpine-node](https://github.com/mhart/alpine-node) - Minimal Node.js Docker Images built on Alpine Linux
 - [docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [apk-cache](https://github.com/vektorcloud/apk-cache) - Simple apk package cache for Alpine Linux
 - [docker-nuxeo](https://github.com/nuxeo/docker-nuxeo) - Simple Docker image to run Nuxeo
 - [ghost](https://github.com/docker-library/ghost) - Docker Official Image packaging for Ghost
@@ -1165,7 +1167,7 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [fission](https://github.com/fission/fission) - Fast Serverless Functions for Kubernetes
 - [dray](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows.
-- [watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers
+- [watchtower](https://github.com/containerized/watchtower) - Automatically update running Docker containers
 - [nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [terraform-provisioner-ansible](https://github.com/jonmorehouse/terraform-provisioner-ansible) - A provisioner for bootstrapping terraform resources with ansible
 - [kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
@@ -1570,7 +1572,7 @@
 - [hopper.pw](https://github.com/asmaps/hopper.pw) - Free and open source dynamic DNS
 - [yourfirstpr.github.io](https://github.com/yourfirstpr/yourfirstpr.github.io) - :sparkles: the homepage of @yourfirstpr
 - [webappsec](https://github.com/w3c/webappsec) - Web Application Security Working Group repo
-- [data-model-spec](https://github.com/rdfjs/data-model-spec) - RDF/JS Data model specification: A specification of a low level interface definition representing RDF data independent of a serialized format in a JavaScript environment.
+- [data-model-spec](https://github.com/rdfjs/data-model-spec) - RDF/JS: Data model specification – A specification of a low level interface definition representing RDF data independent of a serialized format in a JavaScript environment.
 - [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - A list of security/hacking tools that have been collected from the internet. Suggestions are welcomed.
 - [fxtest-dashboard](https://github.com/mozilla/fxtest-dashboard) - GitHub dashboard for Firefox Test Engineering
 - [Mining-the-Social-Web-2nd-Edition](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition) - The official online compendium for Mining the Social Web, 2nd Edition (O'Reilly, 2013)
@@ -1923,6 +1925,7 @@
 
 ## JavaScript 
 
+- [selfcaretech](https://github.com/jenniferlynparsons/selfcaretech) - A repository of self-care resources
 - [graphql-geojson-demo](https://github.com/ghengeveld/graphql-geojson-demo) - Demo GraphQL server for graphql-geojson
 - [graphql-geojson](https://github.com/ghengeveld/graphql-geojson) - GraphQL schema object types for GeoJSON
 - [pp-viz](https://github.com/johnymontana/pp-viz) - Visualizing the ICIJ Paradise Papers / Panama Papers / Offshore Leaks data
@@ -2434,7 +2437,7 @@
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [paella](https://github.com/polimediaupv/paella) - Paella standalone html 5 multistream player
 - [readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your browser bookmarks with your selfhosted server (e.g. Nextcloud) - Chrome / Firefox / Opera / Vivaldi
+- [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [hexo-generator-search](https://github.com/wzpan/hexo-generator-search) - A plugin to generate search data for Hexo.
 - [npm-wpxml2md](https://github.com/akabekobeko/npm-wpxml2md) - Convert the WordPress XML file to Markdown files.
 - [gitlab-letsencrypt](https://github.com/rolodato/gitlab-letsencrypt) - Easily generate a Let's Encrypt certificate for GitLab Pages
@@ -2450,7 +2453,7 @@
 - [wordpress-to-markdown](https://github.com/ytechie/wordpress-to-markdown) - Wordpress Export XML converter that outputs Markdown posts
 - [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [wikidata-cli](https://github.com/maxlath/wikidata-cli) - read and edit Wikidata from the command line
-- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (March 2019)
+- [nodebestpractices](https://github.com/i0natan/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (April 2019)
 - [TW5-Gatekeeper](https://github.com/OokTech/TW5-Gatekeeper) - A plugin that pushes changes from the filesystem to the wiki in TiddlyWik5
 - [hex-grid](https://github.com/substack/hex-grid) - tile hexagons in a grid layout
 - [charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -4019,7 +4022,7 @@
 - [fulcrum](https://github.com/fulcrum-agile/fulcrum) - An agile project planning tool
 - [kerouac](https://github.com/jaredhanson/kerouac) - Poetic static site generator for Node.js.
 - [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
-- [backgrid](https://github.com/cloudflare/backgrid) - Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.
+- [backgrid](https://github.com/cloudflarearchive/backgrid) - Finally, an easily stylable semantic HTML data grid widget with a Javascript API that doesn't suck.
 - [component](https://github.com/componentjs/component) - frontend package manager and build tool for modular web applications
 - [pinitto.me](https://github.com/pinittome/pinitto.me) - Main repo for pinitto.me open source corkboard
 - [all-your-github-are-belong-to-us](https://github.com/parkr/all-your-github-are-belong-to-us) - :octocat: Save all your GitHub data to one place, private & public. A Webhook.
@@ -4426,6 +4429,7 @@
 
 ## Others 
 
+- [CarnetDocumentation](https://github.com/PhieF/CarnetDocumentation) - 
 - [mindforger-repository](https://github.com/dvorka/mindforger-repository) - MindForger documentation repository.
 - [Documentation](https://github.com/Symatem/Documentation) - 
 - [awesome-ideation-tools](https://github.com/zazaalaza/awesome-ideation-tools) - Problem solving and idea generation tools
@@ -5413,6 +5417,8 @@
 
 ## Python 
 
+- [lab](https://github.com/Uberspace/lab) - The Uberlab provides various tutorials - written by you! - on how to run software and tools on Uberspace 7.
+- [pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [solar-time-vs-standard-time](https://github.com/stefano-maggiolo/solar-time-vs-standard-time) - Tools and data to create a map of differences between solar time and standard time.
 - [VectorCloud](https://github.com/rmountjoy92/VectorCloud) - A web interface for Anki Vector
 - [Kunteksto](https://github.com/DataInsightsInc/Kunteksto) - The tool to translate your CSV data files into RDF, XML and JSON with full semantics and syntactic validation.
@@ -6158,6 +6164,7 @@
 
 ## Ruby 
 
+- [vuxi](https://github.com/leahneukirchen/vuxi) - a minimalist static Wiki compiler
 - [NoteIn](https://github.com/notein/NoteIn) - Federated Note Sharing (WIP)
 - [ruby-server](https://github.com/standardfile/ruby-server) - Standard File server. Used for running your own Standard Notes server | https://standardnotes.org
 - [listed](https://github.com/standardnotes/listed) - Create an online publication with automatic email newsletters. https://listed.standardnotes.org
@@ -6530,6 +6537,7 @@
 
 ## Shell 
 
+- [docker-letsencrypt-dns](https://github.com/adferrand/docker-letsencrypt-dns) - Docker with Certbot + Lexicon to provide Let's Encrypt SSL certificates validated by DNS challenges
 - [appsync-elasticsearch-geosearch](https://github.com/techjacker/appsync-elasticsearch-geosearch) - Example Geo Search API built on AWS Appysnc & Elasticsearch
 - [dockerized-kiwix-server](https://github.com/yangboz/dockerized-kiwix-server) - Your own wikipedia server in a box.
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
@@ -6665,7 +6673,6 @@
 - [B2G](https://github.com/mozilla-b2g/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
 - [docker-borgbackup](https://github.com/silvio/docker-borgbackup) - borgbackup in docker
 - [s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-- [docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers.
 - [docker-mailman](https://github.com/macropin/docker-mailman) - All in one Mailman Docker image
 - [wiki-tls](https://github.com/dobbs/wiki-tls) - local federated wiki farm with TLS and security_type=friends
 - [docker](https://github.com/2600hz/docker) - 
