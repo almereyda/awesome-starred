@@ -272,7 +272,7 @@
 
 - [strans](https://github.com/Inventitech/strans) - Performs string manipulation tasks by learning from the provided example(s), instead of having to program them out explicitly.
 - [surveyproject](https://github.com/surveyproject/surveyproject) - Survey Project Webapplication - development, sources & releases
-- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [QRNGHuBerlinTest](https://github.com/SeppPenner/QRNGHuBerlinTest) - QRNGHuBerlinTest is a project written in C# 4.7. The software is used to connect to the HU Berlin quantum computer.
 - [Trinity_Matrix_Management_GUI](https://github.com/aminhusni/Trinity_Matrix_Management_GUI) - A management GUI for Matrix-Synapse server
 - [keepassrpc](https://github.com/kee-org/keepassrpc) - The KeePassRPC plugin that needs to be installed inside KeePass in order for Kee to be able to connect your browser to your passwords
@@ -991,6 +991,7 @@
 
 ## Elm 
 
+- [kanelm](https://github.com/huytd/kanelm) - Kanban board built with Elm
 - [cotoami](https://github.com/cotoami/cotoami) - Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.
 - [diffuse](https://github.com/icidasset/diffuse) - A music player which connects to your cloud/distributed storage.
 - [graph-editor](https://github.com/jhrcek/graph-editor) - Simple editor for creating graphs implemented purely in Elm.
@@ -1352,6 +1353,8 @@
 
 ## HTML 
 
+- [Cartello](https://github.com/FraMecca/Cartello) - kanban boards from flat markdown files
+- [s3-praxisleitfaden](https://github.com/S3-working-group/s3-praxisleitfaden) - The German translation of "S3 - A practical guide", see the website for the full text and download links
 - [feathericon](https://github.com/feathericon/feathericon) - simply generic vector icon collection - including sketch file, svg files, and font files.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [dependo](https://github.com/auchenberg/dependo) - Visualize your CommonJS or AMD module dependencies in a force directed graph report.
@@ -1778,6 +1781,7 @@
 
 ## Java 
 
+- [lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
 - [jigasi](https://github.com/jitsi/jigasi) - Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.
 - [atlas](https://github.com/osmlab/atlas) - OSM in memory
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
@@ -1960,6 +1964,8 @@
 
 ## JavaScript 
 
+- [factbox](https://github.com/factbox/factbox) - :outbox_tray: Factbox core
+- [actionview-fe](https://github.com/lxerxa/actionview-fe) - ActionView front-end source code, based on Reactjs＋Redux.
 - [cp-dojos-service](https://github.com/CoderDojo/cp-dojos-service) - Community Platform - Dojos Core Service
 - [cp-events-service](https://github.com/CoderDojo/cp-events-service) - This is the events service, a backend repository of the CoderDojo Zen Community Platform project.
 - [community-platform](https://github.com/CoderDojo/community-platform) - Zen, the CoderDojo Community Platform!
@@ -2272,7 +2278,7 @@
 - [passman](https://github.com/nextcloud/passman) - 🔐 Open source password manager with Nextcloud integration
 - [server](https://github.com/turtl/server) - The new Turtl server
 - [botapadd](https://github.com/padagraph/botapadd) - 
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer (Wow That's Fantastic)🔥
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [openvpn-config-splitter](https://github.com/rexxars/openvpn-config-splitter) - Splits OpenVPN (.ovpn) files into separate files for private key and user+ca certificates
 - [wiki-desktop](https://github.com/rynomad/wiki-desktop) - federated wiki for the desktop
 - [patternlab-node](https://github.com/pattern-lab/patternlab-node) - The Node version of Pattern Lab
@@ -2381,7 +2387,7 @@
 - [store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [kubeframework](https://github.com/imperavi/kubeframework) - Kube UI Framework CSS & JS
 - [custom-elements-everywhere](https://github.com/webcomponents/custom-elements-everywhere) - Custom Element + Framework Interoperability Tests.
-- [hybrids](https://github.com/hybridsjs/hybrids) - 👾 UI library for creating Web Components with simple and functional API
+- [hybrids](https://github.com/hybridsjs/hybrids) - 👾 Web Components from plain objects and pure functions!
 - [hexo-theme-doc](https://github.com/zalando-incubator/hexo-theme-doc) - A documentation theme for the Hexo blog framework
 - [geojson-merge](https://github.com/mapbox/geojson-merge) - Merge multiple GeoJSON files into one FeatureCollection.
 - [geocoder](https://github.com/emanuelfeld/geocoder) - Web app interface for geocoding addresses in CSV files.
@@ -3493,11 +3499,11 @@
 - [relog](https://github.com/opendatacity/relog) - Besucherstromanalyse per re:publica W-LAN
 - [tileit](https://github.com/ffalt/tileit) - a node js slippy maps tile server
 - [splitflap](https://github.com/opendatacity/splitflap) - split flap display for re:publica 2015
-- [fxa-oauth-console](https://github.com/mozilla/fxa-oauth-console) - Firefox Accounts OAuth Credential Management Dashboard
+- [fxa-oauth-console](https://github.com/mozilla/fxa-oauth-console) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [fxa-auth-db-server](https://github.com/mozilla/fxa-auth-db-server) - database layer for Firefox Accounts server
 - [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [fxa-profile-server](https://github.com/mozilla/fxa-profile-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
-- [fxa](https://github.com/mozilla/fxa) - Top-level repository for Firefox Accounts
+- [fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
 - [annotator-pouchdb](https://github.com/BigBlueHat/annotator-pouchdb) - Annotator PouchDB Storage Plugin
 - [pillow-notes](https://github.com/BigBlueHat/pillow-notes) - Markdown-y soft note taking on CouchDB
 - [IONIC_PouchDb](https://github.com/sitepoint-editors/IONIC_PouchDb) - Mobile App Using IONIC & PouchDb
@@ -3662,7 +3668,7 @@
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) - Create an isomorphic React app in less than 5 minutes
 - [emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [fxa-content-server](https://github.com/mozilla/fxa-content-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
-- [fxa-auth-db-mysql](https://github.com/mozilla/fxa-auth-db-mysql) - MySql backend for the fxa-auth-db-server
+- [fxa-auth-db-mysql](https://github.com/mozilla/fxa-auth-db-mysql) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [wiki-plugin-datscript](https://github.com/maxogden/wiki-plugin-datscript) - a federated wiki plugin for datscript
 - [whatiscode](https://github.com/BloombergMedia/whatiscode) - Paul Ford’s “What Is Code?”
 - [assembl](https://github.com/assembl/assembl) - Assembl is an online debate and synthesis platform
@@ -4547,6 +4553,7 @@
 
 ## Others 
 
+- [awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [awesome-flow](https://github.com/dustinspecker/awesome-flow) - A list of awesome Flow integrations, tools, tutorials, etc.
 - [icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
@@ -5156,6 +5163,8 @@
 
 ## PHP 
 
+- [kanboard-plugin-wiki](https://github.com/funktechno/kanboard-plugin-wiki) - Wiki plugin for kanboard.net to document projects
+- [actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
 - [GoGoCarto](https://github.com/pixelhumain/GoGoCarto) - Collaborative geo directory application
 - [cococarto](https://github.com/pixelhumain/cococarto) - module utilisant gogoCarto
 - [fossjobs](https://github.com/fossjobs/fossjobs) - fossjobs.net based on jobberbase
@@ -6321,6 +6330,7 @@
 
 ## Ruby 
 
+- [kanban](https://github.com/factbox/kanban) - :pushpin: Manageable user stories plugin in Kanban
 - [ifme](https://github.com/ifmeorg/ifme) - Open source app to share mental health experiences with loved ones
 - [geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 - [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
@@ -6597,6 +6607,8 @@
 
 ## Rust 
 
+- [cardboard](https://github.com/machisuji/cardboard) - A decentralized, kanban-style collaboration tool which lets you organize tasks into customizable cards based on plain, versioned text files.
+- [kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [genet](https://github.com/genet-app/genet) - Graphical network analyzer powered by web technologies
 - [kronograph](https://github.com/gganley/kronograph) - I'm getting tired of Toggl
 - [rebalance-app](https://github.com/dashed/rebalance-app) - 💸 Optimal lazy portfolio rebalancing calculator (in Rust)
@@ -7193,6 +7205,7 @@
 
 ## TypeScript 
 
+- [yes-we-kanban](https://github.com/oailloud/yes-we-kanban) - A simple Kanban board integrated with Gitlab !
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
 - [rough-diagram](https://github.com/pyrocat101/rough-diagram) - Hand-drawn diagram based on rough.js.
 - [ontodia](https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library
@@ -7326,6 +7339,7 @@
 
 ## Vue 
 
+- [better.co.at](https://github.com/better-co/better.co.at) - 
 - [vue-calendar-heatmap](https://github.com/WildCodeSchool/vue-calendar-heatmap) - A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph
 - [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Is a pack of more than 480 beautiful open source Eva icons as Vue components
 - [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components
