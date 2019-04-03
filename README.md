@@ -118,6 +118,7 @@
 
 ## C 
 
+- [umurmur](https://github.com/umurmur/umurmur) - Minimalistic Murmur
 - [seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [zsync2](https://github.com/AppImage/zsync2) - Rewrite of https://github.com/AppImage/zsync-curl, using modern C++, providing both a library and standalone tools.
 - [moolticute](https://github.com/mooltipass/moolticute) - Mooltipass crossplatform daemon/tools
@@ -292,6 +293,9 @@
 
 ## C++ 
 
+- [mumsi](https://github.com/mrscotty/mumsi) - SIP to Mumble gateway/bridge using PJSUA stack.
+- [mumble](https://github.com/mumble-voip/mumble) - Mumble VoIP Client/Server
+- [nheko](https://github.com/Nheko-Reborn/nheko) - Fork of nheko Matrix Client
 - [osm-wayback](https://github.com/osmlab/osm-wayback) - Embedding OSM object histories from planet-history into GeoJSON objects for historical OSM-QA-Tiles with libosmium and RocksDB
 - [construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [QtSemanticNotes](https://github.com/YoukaiCat/QtSemanticNotes) - QtSemanticNotes is a personal knowledge base, personal wiki or just note taking application that features automatic linking, tree view and tags. Inspired by WikidPad and Zim.
@@ -1024,6 +1028,7 @@
 
 ## Go 
 
+- [grumble](https://github.com/mumble-voip/grumble) - Alternative Mumble server
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
 - [contact-form](https://github.com/jmoiron/contact-form) - server that implements an email contact form for an otherwise static website
@@ -1745,6 +1750,7 @@
 
 ## Java 
 
+- [jigasi](https://github.com/jitsi/jigasi) - Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.
 - [atlas](https://github.com/osmlab/atlas) - OSM in memory
 - [archi](https://github.com/archimatetool/archi) - Archi: ArchiMate Modelling Tool
 - [HypnosMusicPlayer](https://github.com/JoshuaD84/HypnosMusicPlayer) - A Lightweight, Clean, and Powerful Music Player and Library.
@@ -1926,6 +1932,7 @@
 
 ## JavaScript 
 
+- [mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [GoGoCartoJs](https://github.com/pixelhumain/GoGoCartoJs) - Javascript component to create terrific cartography !
 - [osm-meta-util](https://github.com/osmlab/osm-meta-util) - Utility for downloading and processing OSM metadata
 - [data-mapper](https://github.com/osmlab/data-mapper) - A map tool to help review and add external data into OpenStreetMap
@@ -4337,6 +4344,7 @@
 
 ## Kotlin 
 
+- [jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure
 - [neo4j-graphql](https://github.com/neo4j-graphql/neo4j-graphql) - GraphQL bindings for Neo4j, generates and runs Cypher
 - [aaf4k](https://github.com/6234456/aaf4k) - a common financial reporting API
 - [SurvivalManual](https://github.com/ligi/SurvivalManual) - Libre Survival Manual for Android with offline in mind
@@ -5441,6 +5449,8 @@
 
 ## Python 
 
+- [python-olm](https://github.com/poljar/python-olm) - python bindings for the Olm C library
+- [matrix-nio](https://github.com/poljar/matrix-nio) - A Python Matrix client library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles
 - [lab](https://github.com/Uberspace/lab) - The Uberlab provides various tutorials - written by you! - on how to run software and tools on Uberspace 7.
 - [pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [solar-time-vs-standard-time](https://github.com/stefano-maggiolo/solar-time-vs-standard-time) - Tools and data to create a map of differences between solar time and standard time.
@@ -6188,6 +6198,7 @@
 
 ## Ruby 
 
+- [murmur-manager](https://github.com/cheald/murmur-manager) - Manage your Mumble/Murmur server via DBus and Ice in Ruby.
 - [vuxi](https://github.com/leahneukirchen/vuxi) - a minimalist static Wiki compiler
 - [NoteIn](https://github.com/notein/NoteIn) - Federated Note Sharing (WIP)
 - [ruby-server](https://github.com/standardfile/ruby-server) - Standard File server. Used for running your own Standard Notes server | https://standardnotes.org
@@ -6561,6 +6572,7 @@
 
 ## Shell 
 
+- [docker-images](https://github.com/sudoforge/docker-images) - Easy-to-use Docker images for projects without official images, or non-ideal ones.
 - [docker-letsencrypt-dns](https://github.com/adferrand/docker-letsencrypt-dns) - Docker with Certbot + Lexicon to provide Let's Encrypt SSL certificates validated by DNS challenges
 - [appsync-elasticsearch-geosearch](https://github.com/techjacker/appsync-elasticsearch-geosearch) - Example Geo Search API built on AWS Appysnc & Elasticsearch
 - [dockerized-kiwix-server](https://github.com/yangboz/dockerized-kiwix-server) - Your own wikipedia server in a box.
