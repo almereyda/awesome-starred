@@ -4451,6 +4451,12 @@
 
 ## Others 
 
+- [websites](https://github.com/learn-anything/websites) - Awesome Websites
+- [forums](https://github.com/learn-anything/forums) - Awesome Forums
+- [command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
+- [research-papers](https://github.com/learn-anything/research-papers) - Awesome Research Papers
+- [cheat-sheets](https://github.com/learn-anything/cheat-sheets) - Awesome Cheat Sheets
+- [curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
 - [osm-diversity](https://github.com/osmlab/osm-diversity) - A place to start engaging communities to make OSM more diverse
 - [welcome](https://github.com/osmlab/welcome) - A webapp designed to make it easier to welcome new mappers to OpenStreetMap.
 - [osm-planning](https://github.com/osmlab/osm-planning) - General OSM tools planning and wishlist
