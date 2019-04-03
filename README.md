@@ -31,6 +31,7 @@
   - [Elm](#elm)
   - [Erlang](#erlang)
   - [FreeMarker](#freemarker)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
@@ -293,6 +294,9 @@
 
 ## C++ 
 
+- [fastnetmon](https://github.com/pavel-odintsov/fastnetmon) - FastNetMon community - very fast DDoS analyzer with sflow/netflow/mirror support
+- [SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
+- [nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
 - [mumsi](https://github.com/mrscotty/mumsi) - SIP to Mumble gateway/bridge using PJSUA stack.
 - [mumble](https://github.com/mumble-voip/mumble) - Mumble VoIP Client/Server
 - [nheko](https://github.com/Nheko-Reborn/nheko) - Fork of nheko Matrix Client
@@ -436,6 +440,15 @@
 
 ## CSS 
 
+- [kanca](https://github.com/hellowin/kanca) - Facebook Group Analytics
+- [LibreICONS](https://github.com/DiemenDesign/LibreICONS) - SVG Icon Symbols with an MIT License.
+- [vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
+- [boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+- [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
+- [easyflow](https://github.com/londomloto/easyflow) - Web based workflow desiner (GUI)
+- [seapig](https://github.com/yasumichi/seapig) - SeaPig is converter from markdown to html with marked.js and highlight.js.
+- [architecture](https://github.com/nypl-spacetime/architecture) - NYC Space/Time Directory Architecture Diagram
+- [interactive-architecture](https://github.com/nypl-spacetime/interactive-architecture) - Interactive architecture diagrams with SVG
 - [wikipediaViewer](https://github.com/pieguyatx/wikipediaViewer) - Exercise in using APIs. Searches Wikipedia and displays relevant articles to help inspire other thoughts from free-association. Demonstrates HTML/CSS/JavaScript, jQuery, jQuery UI (draggable), and jQuery/AJAX API requests.
 - [FirePress_London](https://github.com/firepress-org/FirePress_London) - FirePress_London is free Ghost Theme. Find more themes here ==&gt;
 - [FirePress_Steam](https://github.com/firepress-org/FirePress_Steam) - FirePress_Steam is free Ghost Theme. Find more themes here ==&gt;
@@ -898,6 +911,7 @@
 
 ## Common Lisp 
 
+- [flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts
 - [wiki-backend](https://github.com/madnificent/wiki-backend) - Backend of a wiki based on mu.semte.ch
 - [mu-project](https://github.com/mu-semtech/mu-project) - Basis for constructing a new project on top of mu.semte.ch
 - [api](https://github.com/turtl/api) - (Deprecated) Turtl API. This is the server that responds to all client requests.
@@ -927,6 +941,7 @@
 
 ## Dart 
 
+- [delern](https://github.com/dasfoo/delern) - Spaced repetition learning system
 - [flutter-mobile](https://github.com/invoiceninja/flutter-mobile) - iOS/Android app for Invoice Ninja built with Flutter
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) - Access gateway.ipfs.io urls the way they were meant: from your locally running ipfs daemon
 - [jaded](https://github.com/dartist/jaded) - Port of node.js jade view engine for Dart
@@ -1026,8 +1041,15 @@
 
 - [screenshots](https://github.com/mozilla-services/screenshots) - Firefox Screenshots: the best way to take screenshots on the web.
 
+## GLSL 
+
+- [Mosaic](https://github.com/d3cod3/Mosaic) - Mosaic, an openFrameworks based Visual Patching Creative-Coding Platform
+
 ## Go 
 
+- [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
+- [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
+- [lollipops](https://github.com/pbnjay/lollipops) - Lollipop-style mutation diagrams for annotating genetic variations.
 - [grumble](https://github.com/mumble-voip/grumble) - Alternative Mumble server
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries
 - [qri](https://github.com/qri-io/qri) - you're invited to a data party!
@@ -1317,6 +1339,7 @@
 
 ## Groovy 
 
+- [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [HiveMind](https://github.com/moqui/HiveMind) - HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and content management (wiki). HiveMind is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.
 - [freeipa-pwd-portal](https://github.com/xetus-oss/freeipa-pwd-portal) - An external self-service password portal for communicating with a FreeIPA instance
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - Web UI for private docker registry v2
@@ -1329,6 +1352,10 @@
 
 ## HTML 
 
+- [feathericon](https://github.com/feathericon/feathericon) - simply generic vector icon collection - including sketch file, svg files, and font files.
+- [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [dependo](https://github.com/auchenberg/dependo) - Visualize your CommonJS or AMD module dependencies in a force directed graph report.
+- [Marknote](https://github.com/octalmage/Marknote) - Markdown Note Taking.
 - [remotestorage-widget](https://github.com/remotestorage/remotestorage-widget) - ⬡ Connect widget for remoteStorage.js
 - [startbootstrap-landing-page](https://github.com/BlackrockDigital/startbootstrap-landing-page) - A responsive, Bootstrap landing page template created by Start Bootstrap
 - [theatlasofdata.earth](https://github.com/theatlasofdata/theatlasofdata.earth) - How flows of data reveal the ecosystems of our planet
@@ -1724,6 +1751,7 @@
 
 ## Haskell 
 
+- [diagrams](https://github.com/diagrams/diagrams) - Embedded domain-specific language for declarative vector graphics (wrapper package)
 - [photoname](https://github.com/dino-/photoname) - Rename photo image files based on EXIF shoot date
 - [movie-monad](https://github.com/lettier/movie-monad) - :tv: A free and simple to use video player made with Haskell.
 - [penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
@@ -1932,6 +1960,74 @@
 
 ## JavaScript 
 
+- [cp-dojos-service](https://github.com/CoderDojo/cp-dojos-service) - Community Platform - Dojos Core Service
+- [cp-events-service](https://github.com/CoderDojo/cp-events-service) - This is the events service, a backend repository of the CoderDojo Zen Community Platform project.
+- [community-platform](https://github.com/CoderDojo/community-platform) - Zen, the CoderDojo Community Platform!
+- [action](https://github.com/ParabolInc/action) - Free online agile retrospective meeting tool
+- [Leaflet.Canvas-Flowmap-Layer](https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer) - A LeafletJS custom map layer for mapping the flow of objects, ideas, people, etc. with Bezier curves rendered on the HTML canvas.
+- [Canvas-Flowmap-Layer](https://github.com/sarahbellum/Canvas-Flowmap-Layer) - A map layer for mapping the flow of objects. Extends Esri JSAPI and renders on the HTML canvas.
+- [openlaw-client](https://github.com/openlawteam/openlaw-client) - Shared JavaScript libraries for the OpenLaw project
+- [FlowMap](https://github.com/Gooong/FlowMap) - Simple tools for visualizing geometries, flows and trajectories.
+- [semantic-commit](https://github.com/jeffersondanielss/semantic-commit) - :pencil: A rigid commit message format.
+- [ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - vvvv "clone" in javascript/webgl
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [dbCartajs](https://github.com/egaxegax/dbCartajs) - JavaScript HTML5 Canvas+SVG vector map and image viewer.
+- [svg-to-geojson](https://github.com/mapbox/svg-to-geojson) - Upload SVG, return GeoJSON.
+- [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - SVGs as components, also on the server side!
+- [gantt](https://github.com/d-band/gantt) - Gantt chart library using jsx support SVG, Canvas and SSR
+- [earthjs](https://github.com/earthjs/earthjs) - D3 Earth JS
+- [webicon](https://github.com/icons8/webicon) - Icon library
+- [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
+- [svg-patterns](https://github.com/derhuerst/svg-patterns) - SVG patterns for Data Visualization.
+- [egal](https://github.com/uclmr/egal) - easy drawing in jupyter
+- [ultide](https://github.com/ultide/ultide) - General purpose IDE and Flowchart editor
+- [wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
+- [muze](https://github.com/chartshq/muze) - Composable data visualisation library for web with a data-first approach
+- [geopattern](https://github.com/btmills/geopattern) - Generate beautiful SVG patterns
+- [vue-awesome](https://github.com/Justineo/vue-awesome) - Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.
+- [landscapeapp](https://github.com/cncf/landscapeapp) - 🌄Upstream landscape generation application
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [flownet_WEBGL](https://github.com/HugoRomat/flownet_WEBGL) - 
+- [flownet_SVG](https://github.com/HugoRomat/flownet_SVG) - 
+- [flow-view](https://github.com/fibo/flow-view) - is a visual editor for Dataflow programming
+- [causalloopdiagram](https://github.com/nocomplexity/causalloopdiagram) - causal loop diagram
+- [fractal](https://github.com/apnex/fractal) - Project Fractal is a prototype 'Diagram-as-Code' framework to render structured geometric recursive topological diagrams in SVG format
+- [OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [semita](https://github.com/yashag/semita) - A visual hierarchy representation tool
+- [dld4e-headless](https://github.com/bonndan/dld4e-headless) - server-side rendering of network and architecture diagrams
+- [topology-diagram](https://github.com/huang-qing/topology-diagram) - 基于 raphael.js 的 web端拓扑图展示
+- [netlistsvg](https://github.com/nturley/netlistsvg) - draws an SVG schematic from a JSON netlist
+- [colony](https://github.com/hughsk/colony) - :chart_with_upwards_trend: In-browser network graphs representing the links between your Node.js code and its dependencies.
+- [madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
+- [dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
+- [arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
+- [tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉
+- [Prairie](https://github.com/LionelGarcia/Prairie) - A visual programming environment for Python
+- [dataflow-editor-concept](https://github.com/ern0/dataflow-editor-concept) - Dataflow editor technical concept, using Raphaël.js/SVG
+- [chain](https://github.com/mimorisuzuko/chain) - A New Visual Programming Environment to Build JavaScript By Linking Blocks
+- [meemooapp](https://github.com/meemoo/meemooapp) - Creative apps to use, build, share, and hack in the browser.
+- [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+- [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) - :steam_locomotive: A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
+- [networkmap.js](https://github.com/otm/networkmap.js) - A network weathermap written in Javascript and SVG with editing capabilities.
+- [markvis](https://github.com/geekplux/markvis) - make visualization in markdown. 📊📈
+- [drawdown-svg-render](https://github.com/lyubo-slavilov/drawdown-svg-render) - 
+- [drawdown-parser](https://github.com/lyubo-slavilov/drawdown-parser) - 
+- [yuml2svg-playground](https://github.com/aduh95/yuml2svg-playground) - Demo of yuml2svg
+- [yuml2svg](https://github.com/aduh95/yuml2svg) - yUML SVG generator
+- [yuml-diagram](https://github.com/jaime-olivares/yuml-diagram) - UML diagramming package based on the yUML syntax
+- [uiflow](https://github.com/hirokidaichi/uiflow) - uiflow - the simplest way to write down your ui-flow diagram like markdown
+- [drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.
+- [markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [jquery-simple-flowchart](https://github.com/ahmadalfy/jquery-simple-flowchart) - jQuery plugin for building interactive flowchart
+- [flowpoints](https://github.com/mariusbrataas/flowpoints) - A developer-friendly library for creating flowcharts and diagrams.
+- [GooFlow](https://github.com/sdlddr/GooFlow) - 没想到吧，我又回来了：一个用来在WEB网页端设计流程图的UI组件，在线流程设计器，目前有Js原生、Vue和React三个版本。可用来设计各种流程图、逻辑流图，数据流图，或者是设计某个系统中需要走流程的功能应用。良好的用户体验使得操作界面很容易上手，技术开发人员和用户都可使用。 并且兼容主流浏览器(ie9--ie edge，chrome，firefox)。
+- [wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool - https://wireflow.co
+- [shenzhen-go](https://github.com/google/shenzhen-go) - Experimental visual Go environment
+- [jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [markdown-notes](https://github.com/nicbou/markdown-notes) - A note-taking application that supports Markdown, LaTeX and more. Not actively maintained.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [edinote](https://github.com/haeringer/edinote) - Note taking web application for self-hosting. Offers tagging & Markdown support; can be used as a simple alternative to Evernote.
 - [mumble-web](https://github.com/Johni0702/mumble-web) - An HTML5 Mumble client
 - [GoGoCartoJs](https://github.com/pixelhumain/GoGoCartoJs) - Javascript component to create terrific cartography !
 - [osm-meta-util](https://github.com/osmlab/osm-meta-util) - Utility for downloading and processing OSM metadata
@@ -3399,8 +3495,8 @@
 - [splitflap](https://github.com/opendatacity/splitflap) - split flap display for re:publica 2015
 - [fxa-oauth-console](https://github.com/mozilla/fxa-oauth-console) - Firefox Accounts OAuth Credential Management Dashboard
 - [fxa-auth-db-server](https://github.com/mozilla/fxa-auth-db-server) - database layer for Firefox Accounts server
-- [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - The Firefox Accounts authentication server.
-- [fxa-profile-server](https://github.com/mozilla/fxa-profile-server) - Firefox Accounts profile attached service.
+- [fxa-auth-server](https://github.com/mozilla/fxa-auth-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
+- [fxa-profile-server](https://github.com/mozilla/fxa-profile-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [fxa](https://github.com/mozilla/fxa) - Top-level repository for Firefox Accounts
 - [annotator-pouchdb](https://github.com/BigBlueHat/annotator-pouchdb) - Annotator PouchDB Storage Plugin
 - [pillow-notes](https://github.com/BigBlueHat/pillow-notes) - Markdown-y soft note taking on CouchDB
@@ -3565,7 +3661,7 @@
 - [grant](https://github.com/simov/grant) - OAuth Middleware for Express, Koa and Hapi
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) - Create an isomorphic React app in less than 5 minutes
 - [emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
-- [fxa-content-server](https://github.com/mozilla/fxa-content-server) - Firefox Accounts Content Server
+- [fxa-content-server](https://github.com/mozilla/fxa-content-server) - DEPRECATED - Migrated to https://github.com/mozilla/fxa
 - [fxa-auth-db-mysql](https://github.com/mozilla/fxa-auth-db-mysql) - MySql backend for the fxa-auth-db-server
 - [wiki-plugin-datscript](https://github.com/maxogden/wiki-plugin-datscript) - a federated wiki plugin for datscript
 - [whatiscode](https://github.com/BloombergMedia/whatiscode) - Paul Ford’s “What Is Code?”
@@ -4451,6 +4547,16 @@
 
 ## Others 
 
+- [awesome-flow](https://github.com/dustinspecker/awesome-flow) - A list of awesome Flow integrations, tools, tutorials, etc.
+- [icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
+- [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
+- [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+- [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+- [moneyflow](https://github.com/saireya/moneyflow) - Money Flow Diagram: 収入から支出に至る金銭の流れを図解したグラフ
+- [patterns](https://github.com/wilmerkrisp/patterns) - Complete catalog of all classical patterns in the Archimate language
+- [diagrams](https://github.com/mrbobbytables/diagrams) - Collection of Images and Diagrams made available for reuse
+- [affinity](https://github.com/ecceman/affinity) - Free 2D symbols for computer network diagrams
+- [yuml-design-patterns](https://github.com/stillerr/yuml-design-patterns) - Design patterns in yuml
 - [websites](https://github.com/learn-anything/websites) - Awesome Websites
 - [forums](https://github.com/learn-anything/forums) - Awesome Forums
 - [command-line-tools](https://github.com/learn-anything/command-line-tools) - Awesome Command Line Utilities
@@ -5455,6 +5561,17 @@
 
 ## Python 
 
+- [exabgp](https://github.com/Exa-Networks/exabgp) - The BGP swiss army knife of networking
+- [floweaver](https://github.com/ricklupton/floweaver) - View flow data as Sankey diagrams
+- [inkscape-open-symbols](https://github.com/Xaviju/inkscape-open-symbols) - Open source SVG symbol sets that can be used as Inkscape symbols
+- [data-flow-graph](https://github.com/macbre/data-flow-graph) - Uses your app logs to visualize how the data moves between the code, database, HTTP services, message queue, external storages etc.
+- [ArchitecturePlaybook](https://github.com/nocomplexity/ArchitecturePlaybook) - The Open Architecture Playbook. Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work!
+- [eddy](https://github.com/danielepantaleone/eddy) - A graphical editor for the specification and visualization of Graphol ontologies
+- [taiga-stats](https://github.com/erikw/taiga-stats) - Generate statistics from Taiga and produce burnup diagrams, CFDs, dependency graphs and more.
+- [Ascidia](https://github.com/Frimkron/Ascidia) - A command-line utility for rendering technical diagrams from ASCII art
+- [shaape](https://github.com/christiangoltz/shaape) - Shaape is an ascii art to image converter designed to be used with asciidoc.
+- [xpcc.io](https://github.com/roboterclubaachen/xpcc.io) - Website and documentation for the xpcc microcontroller framework
+- [mikidown](https://github.com/ShadowKyogre/mikidown) - A note taking application, featuring markdown syntax.
 - [python-olm](https://github.com/poljar/python-olm) - python bindings for the Olm C library
 - [matrix-nio](https://github.com/poljar/matrix-nio) - A Python Matrix client library, designed according to sans I/O (http://sans-io.readthedocs.io/) principles
 - [lab](https://github.com/Uberspace/lab) - The Uberlab provides various tutorials - written by you! - on how to run software and tools on Uberspace 7.
@@ -6204,6 +6321,10 @@
 
 ## Ruby 
 
+- [ifme](https://github.com/ifmeorg/ifme) - Open source app to share mental health experiences with loved ones
+- [geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+- [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
+- [cenit](https://github.com/cenit-io/cenit) - :rocket: Cenit IO - 100% open integration Platform (iPaaS)
 - [murmur-manager](https://github.com/cheald/murmur-manager) - Manage your Mumble/Murmur server via DBus and Ice in Ruby.
 - [vuxi](https://github.com/leahneukirchen/vuxi) - a minimalist static Wiki compiler
 - [NoteIn](https://github.com/notein/NoteIn) - Federated Note Sharing (WIP)
@@ -6539,6 +6660,7 @@
 
 ## Scala 
 
+- [openlaw-core](https://github.com/openlawteam/openlaw-core) - Shared libraries for the OpenLaw project
 - [orbeon-forms](https://github.com/orbeon/orbeon-forms) - Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime.
 - [semantic_forms](https://github.com/jmvanel/semantic_forms) - Form generators leveraging semantic web standards (RDF(S), OWL, SPARQL , ...
 - [time-admin](https://github.com/dodie/time-admin) - A simple web application for time tracking.
@@ -6578,6 +6700,9 @@
 
 ## Shell 
 
+- [small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
+- [LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
+- [ppvTimeline](https://github.com/davidhdz/ppvTimeline) - Venezuelan political parties cladogram
 - [docker-images](https://github.com/sudoforge/docker-images) - Easy-to-use Docker images for projects without official images, or non-ideal ones.
 - [docker-letsencrypt-dns](https://github.com/adferrand/docker-letsencrypt-dns) - Docker with Certbot + Lexicon to provide Let's Encrypt SSL certificates validated by DNS challenges
 - [appsync-elasticsearch-geosearch](https://github.com/techjacker/appsync-elasticsearch-geosearch) - Example Geo Search API built on AWS Appysnc & Elasticsearch
@@ -7038,6 +7163,8 @@
 
 ## TeX 
 
+- [Diagrammatic](https://github.com/gjoncas/Diagrammatic) - Philosophy diagrams in Ti𝑘Z
+- [dissertation](https://github.com/spanners/dissertation) - Undergrad dissertation studying the cognitive load a programmer experiences while using declarative vs. imperative paradigms for a given task
 - [cv-templating](https://github.com/victe/cv-templating) - Tools for automatic generation of curriculum vitae from data.
 - [fresh-themes](https://github.com/fresh-standard/fresh-themes) - Multiformat themes and skins for your technical résumé/CV.
 - [article-jws2018-ostrich](https://github.com/rdfostrich/article-jws2018-ostrich) - 📜 Article for the Journal of Web Semantics Special Issue on Managing the Evolution and Preservation of the Data Web
@@ -7066,6 +7193,14 @@
 
 ## TypeScript 
 
+- [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
+- [rough-diagram](https://github.com/pyrocat101/rough-diagram) - Hand-drawn diagram based on rough.js.
+- [ontodia](https://github.com/sputniq-space/ontodia) - Ontodia data diagraming library
+- [diagram](https://github.com/slothking-online/diagram) - JS tool for making node graphs. Inspired by dependency graph
+- [SVGFlowBox](https://github.com/asitparida/SVGFlowBox) - Lightweight SVG based event highlighting on flow paths
+- [psiagram](https://github.com/liamross/psiagram) - 🔱 A simple, feature-rich, and extensible diagram framework for JavaScript.
+- [graphql-editor](https://github.com/slothking-online/graphql-editor) - GraphQL Visual Node Editor
+- [Boost](https://github.com/BoostIO/Boost) - A Polished Notes App with Github Flavored Markdown
 - [graphql-to-sparql.js](https://github.com/rubensworks/graphql-to-sparql.js) - Converts GraphQL queries to SPARQL queries
 - [rough](https://github.com/pshihn/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [engraved](https://github.com/PzYon/engraved) - Store information snippets (URLs, code, notes, etc.). Add keywords to find and access them from everywhere.
@@ -7191,6 +7326,10 @@
 
 ## Vue 
 
+- [vue-calendar-heatmap](https://github.com/WildCodeSchool/vue-calendar-heatmap) - A lightweight calendar heatmap Vuejs component built on SVG, inspired by github's contribution calendar graph
+- [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) - Is a pack of more than 480 beautiful open source Eva icons as Vue components
+- [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components
+- [vue-blocks](https://github.com/ghostiam/vue-blocks) - Vue2 dataflow graph editor
 - [openeo-web-editor](https://github.com/Open-EO/openeo-web-editor) - A web-based editor for interactive usage of the OpenEO API (proof-of-concept).
 - [openeo-hub](https://github.com/Open-EO/openeo-hub) - Source code for openEO Hub, a centralized platform to explore openEO back-end providers.
 - [pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
