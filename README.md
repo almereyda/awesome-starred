@@ -440,6 +440,11 @@
 
 ## CSS 
 
+- [blog](https://github.com/eelcovisser/blog) - a blogging / wiki web app
+- [Nebula](https://github.com/kenlog/Nebula) - Modern theme for kanboard + syntax highlighting for Markdown code :dash:
+- [KanboardCSS](https://github.com/aljawaid/KanboardCSS) - Kanboard plugin theme for improved design
+- [Essential](https://github.com/kenlog/Essential) - Modern theme for kanboard
+- [Customizer](https://github.com/creecros/Customizer) - Kanboard - Customizer adds GUI for logo, favicon and themes
 - [kanca](https://github.com/hellowin/kanca) - Facebook Group Analytics
 - [LibreICONS](https://github.com/DiemenDesign/LibreICONS) - SVG Icon Symbols with an MIT License.
 - [vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
@@ -1048,6 +1053,7 @@
 
 ## Go 
 
+- [hugo-golunr](https://github.com/riesinger/hugo-golunr) - A hugo-lunr alternative written in go
 - [skydive](https://github.com/skydive-project/skydive) - An open source real-time network topology and protocols analyzer
 - [asciitosvg](https://github.com/asciitosvg/asciitosvg) - Create beautiful SVG renderings of ASCII diagrams.
 - [lollipops](https://github.com/pbnjay/lollipops) - Lollipop-style mutation diagrams for annotating genetic variations.
@@ -1353,6 +1359,10 @@
 
 ## HTML 
 
+- [travertin](https://github.com/zazuko/travertin) - Zazuko Travertin is a software to manage Archival Finding Aids using Linked Data technologies.
+- [trifid](https://github.com/zazuko/trifid) - Lightweight Linked Data Server and Proxy
+- [www.alod.ch](https://github.com/zazuko/www.alod.ch) - aLOD - Archival Linked Open Data
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation)
 - [Cartello](https://github.com/FraMecca/Cartello) - kanban boards from flat markdown files
 - [s3-praxisleitfaden](https://github.com/S3-working-group/s3-praxisleitfaden) - The German translation of "S3 - A practical guide", see the website for the full text and download links
 - [feathericon](https://github.com/feathericon/feathericon) - simply generic vector icon collection - including sketch file, svg files, and font files.
@@ -1781,6 +1791,8 @@
 
 ## Java 
 
+- [webdsl](https://github.com/webdsl/webdsl) - WebDSL compiler
+- [via](https://github.com/hypothesis/via) - Annotation-enabled web proxy
 - [lavagna](https://github.com/digitalfondue/lavagna) - Lavagna: issue tracker/project management tool
 - [jigasi](https://github.com/jitsi/jigasi) - Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences. Currently allows regular SIP clients to join meetings and provides transcription capabilities.
 - [atlas](https://github.com/osmlab/atlas) - OSM in memory
@@ -1964,6 +1976,27 @@
 
 ## JavaScript 
 
+- [barnard59-formats](https://github.com/zazuko/barnard59-formats) - Linked Data pipelines
+- [barnard59-base](https://github.com/zazuko/barnard59-base) - Linked Data pipelines
+- [hydra-box](https://github.com/zazuko/hydra-box) - Hydra Box - SPARQL to Linked Data APIs for Web developers
+- [barnard59-ui](https://github.com/zazuko/barnard59-ui) - [WIP] User interface for Zazuko Pipelines
+- [barnard59-main](https://github.com/zazuko/barnard59-main) - Linked Data pipelines
+- [YASGUI.YASR](https://github.com/OpenTriply/YASGUI.YASR) - Yet Another Sparql Resultset GUI
+- [YASGUI.YASQE](https://github.com/OpenTriply/YASGUI.YASQE) - Yet Another Sparql Editor
+- [zack-search](https://github.com/zazuko/zack-search) - A highly adaptable HTML5 only component which enables interactive access and to search data from a SPARQL endpoint.
+- [Backbone.Facetr](https://github.com/arillo/Backbone.Facetr) - A library to perform faceted search on Backbone collections
+- [itemsjs](https://github.com/itemsapi/itemsjs) - Full text, faceted, (almost) dependency free search engine in javascript
+- [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - A simple, customizable and pageable table with SSR support, based on vue2 and element-ui
+- [datatables-bulma](https://github.com/JDilleen/datatables-bulma) - DataTables styling for the Bulma CSS framework
+- [datatables.mark.js](https://github.com/julmot/datatables.mark.js) - A DataTables plugin for mark.js to highlight search terms in tables
+- [tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
+- [lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
+- [image-map](https://github.com/clarketm/image-map) - Responsive, dynamic image maps.
+- [hugo-lunr](https://github.com/dgrigg/hugo-lunr) - Node module for creating lunr.js search indexes for static Hugo sites
+- [hugo-lunr-indexer](https://github.com/clarketm/hugo-lunr-indexer) - Generate Lunr indexes for Hugo static sites by parsing front matter
+- [tablesorter](https://github.com/Mottie/tablesorter) - Github fork of Christian Bach's tablesorter plugin + awesomeness ~
+- [client-side-faceted-filtering](https://github.com/webdsl/client-side-faceted-filtering) - Simple javascript library enabling easy implementation of client-side faceted search, or actually faceted filtering of DOM content
+- [client](https://github.com/hypothesis/client) - The Hypothesis web-based annotation client.
 - [factbox](https://github.com/factbox/factbox) - :outbox_tray: Factbox core
 - [actionview-fe](https://github.com/lxerxa/actionview-fe) - ActionView front-end source code, based on Reactjs＋Redux.
 - [cp-dojos-service](https://github.com/CoderDojo/cp-dojos-service) - Community Platform - Dojos Core Service
@@ -2860,7 +2893,6 @@
 - [deploy](https://github.com/ttiny/deploy) - Git and Docker deployment tool.
 - [chaperone-docker](https://github.com/garywiz/chaperone-docker) - Docker base images which use the chaperone lightweight process manager.
 - [minio](https://github.com/jelastic-jps/minio) - Minio Cluster - S3 Compatible Object Storage
-- [webrecorder](https://github.com/webrecorder/webrecorder) - Web Archiving For All!
 - [mfcs](https://github.com/wvulibraries/mfcs) - Archival and Preservation Digital Asset Management System.
 - [damas-core](https://github.com/remyla/damas-core) - JSON storage service. RESTful, CRUD, multi-user.
 - [cf-fed-wiki](https://github.com/IBM-Cloud/cf-fed-wiki) - a version of federated wiki for Cloud Foundry
@@ -4553,6 +4585,8 @@
 
 ## Others 
 
+- [proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
+- [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [awesome-agile](https://github.com/lorabv/awesome-agile) - Awesome List of resources on Agile Software Development.
 - [awesome-flow](https://github.com/dustinspecker/awesome-flow) - A list of awesome Flow integrations, tools, tutorials, etc.
 - [icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
@@ -5163,6 +5197,10 @@
 
 ## PHP 
 
+- [VueDatatable](https://github.com/laravel-enso/VueDatatable) - Bulma themed, VueJS powered Datatable with server-side loading and JSON template setup
+- [kanboard-plugin-StarredProjects](https://github.com/biblibre/kanboard-plugin-StarredProjects) - 
+- [MinimizeSidebar](https://github.com/kenlog/MinimizeSidebar) - Minimize Sidebar for kanboard
+- [MetaMagik](https://github.com/creecros/MetaMagik) - Custom Fields for Kanboard - Plugin MetaMagik
 - [kanboard-plugin-wiki](https://github.com/funktechno/kanboard-plugin-wiki) - Wiki plugin for kanboard.net to document projects
 - [actionview](https://github.com/lxerxa/actionview) - An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.
 - [GoGoCarto](https://github.com/pixelhumain/GoGoCarto) - Collaborative geo directory application
@@ -5865,6 +5903,7 @@
 - [coucharchive](https://github.com/adrienverge/coucharchive) - Create and restore backups of a whole CouchDB server, with simple tar.gz files
 - [grafana-metronome](https://github.com/PowerDNS/grafana-metronome) - 
 - [electricitymap-contrib](https://github.com/tmrowco/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
+- [webrecorder](https://github.com/webrecorder/webrecorder) - Web Archiving For All!
 - [madam](https://github.com/eseifert/madam) - Media Asset Management for Python
 - [activae](https://github.com/manolodd/activae) - Activae is a web Digital Asset Management System. It's open source and was developed originally by CENATIC, the Spanish National Open Source Center. The project was discontinued and I recovered the source code to give it a second opportunity.
 - [alerta](https://github.com/alerta/alerta) - Alerta monitoring system
@@ -6330,6 +6369,8 @@
 
 ## Ruby 
 
+- [wax_tasks](https://github.com/mnyrop/wax_tasks) - ruby gem of rake tasks for wax 🐝
+- [wax](https://github.com/mnyrop/wax) - minimal exhibitions with jekyll 🐝
 - [kanban](https://github.com/factbox/kanban) - :pushpin: Manageable user stories plugin in Kanban
 - [ifme](https://github.com/ifmeorg/ifme) - Open source app to share mental health experiences with loved ones
 - [geo_pattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
@@ -6607,6 +6648,7 @@
 
 ## Rust 
 
+- [HugoToJSON](https://github.com/arranf/HugoToJSON) - A Rust utility to produce a JSON representation of the contents of a Hugo static site
 - [cardboard](https://github.com/machisuji/cardboard) - A decentralized, kanban-style collaboration tool which lets you organize tasks into customizable cards based on plain, versioned text files.
 - [kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
 - [genet](https://github.com/genet-app/genet) - Graphical network analyzer powered by web technologies
@@ -6712,6 +6754,7 @@
 
 ## Shell 
 
+- [couchdb-hastings-docker](https://github.com/kontrollanten/couchdb-hastings-docker) - CouchDB with geospatial index through hastings/easton
 - [small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
 - [LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [ppvTimeline](https://github.com/davidhdz/ppvTimeline) - Venezuelan political parties cladogram
@@ -7205,6 +7248,7 @@
 
 ## TypeScript 
 
+- [sensetw](https://github.com/SenseTW/sensetw) - gigantic repository
 - [yes-we-kanban](https://github.com/oailloud/yes-we-kanban) - A simple Kanban board integrated with Gitlab !
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x). Using inline svg.
 - [rough-diagram](https://github.com/pyrocat101/rough-diagram) - Hand-drawn diagram based on rough.js.
