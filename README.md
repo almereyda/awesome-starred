@@ -440,6 +440,10 @@
 
 ## CSS 
 
+- [hugo-project-doc](https://github.com/lrntct/hugo-project-doc) - Port of aksakalli's jekyll-doc-theme to Hugo
+- [jekyll-doc-theme](https://github.com/aksakalli/jekyll-doc-theme) - Jekyll theme for creating project documentation websites
+- [just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) - :mortar_board: Dark Wikipedia
 - [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [blog](https://github.com/eelcovisser/blog) - a blogging / wiki web app
 - [Nebula](https://github.com/kenlog/Nebula) - Modern theme for kanboard + syntax highlighting for Markdown code :dash:
