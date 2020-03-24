@@ -39,6 +39,7 @@
   - [Handlebars](#handlebars)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
+  - [Isabelle](#isabelle)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jsonnet](#jsonnet)
@@ -129,6 +130,8 @@
 
 ## C 
 
+- [c-toxcore](https://github.com/TokTok/c-toxcore) - The future of online communications.
+- [dbmail](https://github.com/dbmail/dbmail) - DBMail: fast and scalable email services
 - [homeworld](https://github.com/rcarmo/homeworld) - 
 - [exploitdb](https://github.com/offensive-security/exploitdb) - The official Exploit Database repository
 - [appimaged](https://github.com/AppImage/appimaged) - appimaged is a daemon that monitors the system and integrates AppImages.
@@ -294,6 +297,7 @@
 
 ## C# # 
 
+- [KGMap](https://github.com/SamRepository/KGMap) - KGMap Knowledge Graph Mapping is a Middelware for leveraging knowledge graphs by bridge between heterogeneous relational, social and linked data. It consists of three sub-models: the knowledge graph representation model, the sources metadata de-scription model, and the mapping model. KGMap maintains these models and defines different mapping cases. The main goal is to assist an expert identifying mapping candidates relying on an algorithm which calculate a similarity measure to determine relatedness between the sources metadata elements and knowledge graph schema elements. The implementation of the KGMap is a service-oriented middleware that relates entities about persons, organizations, and products from private enterprise CRM relational database with semi-structured Facebook social data and DBpedia dataset.
 - [Core2D](https://github.com/wieslawsoltes/Core2D) - A multi-platform data driven 2D diagram editor.
 - [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
@@ -321,6 +325,7 @@
 
 ## C++ 
 
+- [ventilator](https://github.com/jcl5m1/ventilator) - Low-Cost Open Source Ventilator or PAPR
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [symphytum](https://github.com/giowck/symphytum) - Symphytum Personal Database Software
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Firmware for the Keyboardio Model 01 and other keyboards with AVR or ARM MCUs.
@@ -823,6 +828,7 @@
 
 - [corona_cases](https://github.com/Bost/corona_cases) - 🦠 Coronavirus Informantion on Telegram Chatbot
 - [fc4-framework](https://github.com/FundingCircle/fc4-framework) - A Docs as Code tool that helps software creators and documentarians author software architecture diagrams using the C4 model for visualising software architecture.
+- [geopub](https://github.com/openEngiadina/geopub) - Content management system for open local knowledge. This is a mirror of our GitLab repository.
 - [code.etalab.gouv.fr](https://github.com/etalab/code.etalab.gouv.fr) - 🧢 Display public sector source code repositories
 - [leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
 - [meins](https://github.com/matthiasn/meins) - a personal and smart journal
@@ -852,6 +858,7 @@
 
 ## CoffeeScript 
 
+- [gitlab-github-migrate](https://github.com/wollzelle/gitlab-github-migrate) - Migrate repositories, wikis, issues and milestones from GitLab to GitHub
 - [kartograph.js](https://github.com/kartograph/kartograph.js) - UNMAINTAINED Open source JavaScript renderer for Kartograph SVG maps
 - [Sankey](https://github.com/tamc/Sankey) - A javascript library for drawing sankey / flow diagrams
 - [wiki-plugin-calculator](https://github.com/fedwiki/wiki-plugin-calculator) - 
@@ -1009,6 +1016,9 @@
 
 ## Dockerfile 
 
+- [docker](https://github.com/hiconvo/docker) - 
+- [docker-davmail](https://github.com/bokysan/docker-davmail) - Yet another Docker container for davmail
+- [convergence-omnibus-container](https://github.com/convergencelabs/convergence-omnibus-container) - The Omnibus (All-In-One) container distribution of Convergence
 - [docker-uxbox-backend](https://github.com/Monogramm/docker-uxbox-backend) - :whale: Docker image for UXBOX backend
 - [docker-uxbox-frontend](https://github.com/Monogramm/docker-uxbox-frontend) - :whale: Docker image for UXBOX frontend
 - [how-to](https://github.com/datamade/how-to) - 📚 Doing all sorts of things, the DataMade way
@@ -1125,6 +1135,10 @@
 
 ## Go 
 
+- [api](https://github.com/hiconvo/api) - 
+- [pluto](https://github.com/go-pluto/pluto) - A distributed IMAP server based on Conflict-free Replicated Data Types.
+- [MkDocsEditor-Backend](https://github.com/MkDocsEditor/MkDocsEditor-Backend) - Server backend for MkDocsEditor clients.
+- [note-maps](https://github.com/google/note-maps) - A personal knowledge base designed for use on mobile devices.
 - [nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.
 - [panther](https://github.com/panther-labs/panther) - Detect threats with log data and improve cloud security posture
@@ -1233,7 +1247,7 @@
 - [pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale!
 - [ssp-backend](https://github.com/SchweizerischeBundesbahnen/ssp-backend) - A selfservice portal for cloud services
 - [mokey](https://github.com/ubccr/mokey) - FreeIPA self-service account management portal
-- [shorturl](https://github.com/openmicroapps/shorturl) - Self hosted web app for shortening urls (URL shortener)
+- [shorturl](https://github.com/prologic/shorturl) - Self hosted web app for shortening urls (URL shortener)
 - [concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go and Elm.
 - [fider](https://github.com/getfider/fider) - Open platform to collect and prioritize product feedback
 - [plik](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ) in golang.
@@ -1379,7 +1393,7 @@
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [docker2aci](https://github.com/appc/docker2aci) - library and CLI tool to convert Docker images to ACIs
-- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API (mattermost not required!)
+- [matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
 - [linx-server](https://github.com/andreimarcu/linx-server) - Self-hosted file/code/media sharing website. Demo: https://demo.linx-server.net/
 - [fragmenta-cms](https://github.com/fragmenta/fragmenta-cms) - A user-friendly CMS written in Go (golang)
 - [skydock](https://github.com/crosbymichael/skydock) - Service discovery via DNS for docker
@@ -1415,7 +1429,7 @@
 - [goffee](https://github.com/goffee/goffee) - Global uptime monitoring via Tor
 - [machine](https://github.com/docker/machine) - Machine management for a container-centric world
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [swarm](https://github.com/docker/swarm) - Swarm: a Docker-native clustering system
+- [swarm](https://github.com/docker/swarm) - Swarm Classic: a container clustering system
 - [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [pt](https://github.com/fogleman/pt) - A path tracer written in Go.
 - [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -1470,6 +1484,7 @@
 
 ## HTML 
 
+- [TechnicalMap](https://github.com/yougg/TechnicalMap) - Technical knowledge map 技术类知识相关图谱
 - [web-budget](https://github.com/g0v-it/web-budget) - A web application to visualize data compliant with the Bubble Graph Ontology
 - [skf-flask](https://github.com/blabla1337/skf-flask) - Security Knowledge Framework (SKF) Python Flask / Angular project
 - [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -1546,6 +1561,7 @@
 - [slides-2019-w3c-data-ws-graphql-rdf](https://github.com/rubensworks/slides-2019-w3c-data-ws-graphql-rdf) - Slides for the W3C Workshop on Web Standardization for Graph Data 2019 on GraphQL to RDF
 - [Skrifa](https://github.com/Skrifa/Skrifa) - A simple word processor built with web technologies.
 - [BypassCors](https://github.com/chrishham/BypassCors) - Bypass CORS restrictions Client Side.
+- [Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool
 - [docs](https://github.com/formtools/docs) - The Form Tools documentation.
 - [conversational-form](https://github.com/space10-community/conversational-form) - Turning web forms into conversations
 - [nlchp-mapping-project](https://github.com/mattymecks/nlchp-mapping-project) - Interactive geoscatter plot/map for National Law Center on Homelessness & Poverty's campaign targeting local anti-panhandling laws
@@ -1947,8 +1963,15 @@
 
 - [cagette](https://github.com/CagetteNet/cagette) - Cagette.net, le logiciel libre des circuits courts
 
+## Isabelle 
+
+- [Algebra-of-spatio-temporal-information-generation](https://github.com/simonscheider/Algebra-of-spatio-temporal-information-generation) - Algebra of spatio-temporal-information-generation
+
 ## Java 
 
+- [james-project](https://github.com/apache/james-project) - Emails at the heart of your business logic!
+- [sms-backup-plus](https://github.com/jberkel/sms-backup-plus) - Backup Android SMS, MMS and call log to Gmail / Gcal / IMAP
+- [language_KnowledgeMap](https://github.com/cotrino/language_KnowledgeMap) - The name "KnowledgeMap" tries to use the metaphor of a cartographic map. If we represent all the different areas of knowledge as a bidimensional map, there will be shadowy unknown areas (fog of war) representing "ignorance" and some bright zones representing "knowledge".
 - [nivio](https://github.com/dedica-team/nivio) - Documentation of application landscapes for teams
 - [cytoscapeneo4j](https://github.com/corwur/cytoscapeneo4j) - Cytoscape plugin for neo4j
 - [marklogic-data-hub](https://github.com/marklogic/marklogic-data-hub) - The MarkLogic Data Hub: documentation ==&gt;
@@ -2152,6 +2175,36 @@
 
 ## JavaScript 
 
+- [web](https://github.com/hiconvo/web) - 
+- [openship](https://github.com/openshiporg/openship) - e-commerce automation
+- [bullet-train-frontend](https://github.com/BulletTrainHQ/bullet-train-frontend) - Website and mobile app for Bullet Train. Ship features with confidence using feature flags and remote config. Host yourself or use our hosted version at https://bullet-train.io/
+- [super-easy-forms](https://github.com/gkpty/super-easy-forms) - The easiest way to generate forms  for your static site
+- [chaskiq](https://github.com/chaskiq/chaskiq) - Open Source conversational Marketing alternative to Intercom, Drift, etc..
+- [opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
+- [spacedeck-open](https://github.com/spacedeck/spacedeck-open) - Spacedeck, a web based, real time, collaborative whiteboard application with rich media support
+- [auspice](https://github.com/nextstrain/auspice) - Web app for visualizing pathogen evolution
+- [pandoa](https://github.com/wirewirewirewire/pandoa) - The app informs you, if you had contact with an infected patient.
+- [nlfa](https://github.com/zont/nlfa) - nlaf is a utility for attempting to identify the licenses and author of modules in a node.js project.
+- [apollo-universal-starter-kit](https://github.com/sysgears/apollo-universal-starter-kit) - Apollo Universal Starter Kit is an SEO-friendly, fully-configured, modular starter application that helps developers to streamline web, server, and mobile development with cutting-edge technologies and ultimate code reuse.
+- [KanbanApp](https://github.com/iamkumaran/KanbanApp) - Kanban App with server and client using Node.js, Javascript, GraphQL, Express, Apollo, Vue, Vuex, Angular
+- [nextjs-graphql-auth](https://github.com/nreoch25/nextjs-graphql-auth) - Authentication system using NextJS, GraphQL, Apollo Client, Apollo Server, MongoDB, Nginx, Docker, Docker-Compose and Kubernetes
+- [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js Component providing PostgREST integration
+- [quarantine-hero](https://github.com/kenodressel/quarantine-hero) - 
+- [sharemycart](https://github.com/mrsimpson/sharemycart) - Fight Corona virus by collaborative isolation: Buy your groceries along with your neighbors
+- [webadmin](https://github.com/sophimail/webadmin) - SophiMail Webadmin and Dashboard
+- [imap-api](https://github.com/andris9/imap-api) - Self hosted application to access IMAP and SMTP accounts over REST
+- [haraka-plugin-wildduck](https://github.com/nodemailer/haraka-plugin-wildduck) - Wild Duck plugin for Haraka
+- [wildduck-mta](https://github.com/nodemailer/wildduck-mta) - Example MTA service for Wild Duck mail Server
+- [zonemta-wildduck](https://github.com/nodemailer/zonemta-wildduck) - Wild Duck MSA plugin for ZoneMTA
+- [zmta-webadmin](https://github.com/zone-eu/zmta-webadmin) - Web admin component for ZoneMTA
+- [wildduck](https://github.com/nodemailer/wildduck) - Opinionated email server
+- [resume-nation.github.io](https://github.com/resume-nation/resume-nation.github.io) - An open source progressive resume builder which works offline
+- [collaborative-text-editor](https://github.com/mountainflo/collaborative-text-editor) - Collaborative Text Editor with gRPC
+- [MkDocsEditor-Web](https://github.com/MkDocsEditor/MkDocsEditor-Web) - MkDocsEditor web client.
+- [codewriting](https://github.com/briandominick/codewriting) - Source for Codewriting (book) and the Codewriting/Code the Docs (site/blog)
+- [topographer](https://github.com/knowledge-map/topographer) - A project that can be used to construct knowledge map relationships
+- [cartographer](https://github.com/knowledge-map/cartographer) - Client-side knowledge graph renderer.
+- [rhizi](https://github.com/Rhizi/rhizi) - Connective intelligence
 - [agriculture-data](https://github.com/g0v/agriculture-data) - 超農域 data repo
 - [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠Useful projects and resources for COVID-19 (2019 novel Coronavirus)
 - [micro-frontends](https://github.com/neuland/micro-frontends) - extending the microservice paradigms to web development
@@ -2269,7 +2322,6 @@
 - [gathio](https://github.com/dariusk/gathio) - Self-destructing, shareable, no-registration event pages
 - [pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
 - [hylo-redux](https://github.com/Hylozoic/hylo-redux) - The Hylo.com frontend, written with React and Redux
-- [geopub](https://github.com/openEngiadina/geopub) - Content management system for open local knowledge. This is a mirror of our GitLab repository.
 - [shroom](https://github.com/ivanminutillo/shroom) - a p2p economic network app
 - [kanban-webcomponent](https://github.com/ivanminutillo/kanban-webcomponent) - A kanban web-component built with stenciljs, based on valueflows syntax
 - [vf-ui](https://github.com/valueflows/vf-ui) - UI components for rapid iteration of techno-social systems. Binds seamlessly to ValueFlows backends via GraphQL integration.
@@ -2279,7 +2331,6 @@
 - [geo.data.gouv.fr](https://github.com/etalab/geo.data.gouv.fr) - Trouvez facilement les données géographiques dont vous avez besoin
 - [cadastre.data.gouv.fr](https://github.com/etalab/cadastre.data.gouv.fr) - Données cadastrales ouvertes - le site
 - [card-mods](https://github.com/decko-commons/card-mods) - "Mods" (modules/modifications) of decko cards
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [data-fair-charts](https://github.com/koumoul-dev/data-fair-charts) - A simple charting application for data-fair. Also used as an example for the documentation and to bootstrap other applications.
 - [data-fair](https://github.com/koumoul-dev/data-fair) - Make your data Findable, Accessible, Interoperable, Reusable
 - [comobi](https://github.com/pixelhumain/comobi) - communecter mobile interface based on meteor
@@ -2333,7 +2384,7 @@
 - [d3-tube](https://github.com/stereobooster/d3-tube) - D3 implementation of tube map
 - [d3-geo-polygon](https://github.com/d3/d3-geo-polygon) - Clipping and geometric operations for spherical polygons.
 - [vbb-stops](https://github.com/de-stops/vbb-stops) - Prepares VBB stops as GTFS-compatible CSV for departure boards
-- [transport.rest](https://github.com/derhuerst/transport.rest) - Information about the *.transport.rest APIs.
+- [transport.rest](https://github.com/public-transport/transport.rest) - Information about the *.transport.rest APIs.
 - [vbb-map-routing](https://github.com/derhuerst/vbb-map-routing) - Use VBB interactively, using a map.
 - [awesome-vue](https://github.com/rmjordas/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
@@ -2555,7 +2606,6 @@
 - [vuerd-electron](https://github.com/vuerd/vuerd-electron) - desktop ERD app
 - [stretchly](https://github.com/hovancik/stretchly) - break time reminder app
 - [storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
-- [Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Swell](https://github.com/open-source-labs/Swell) - Swell: API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL, and gRPC.
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -2601,6 +2651,7 @@
 - [hot-dashboard](https://github.com/hotosm/hot-dashboard) - M&E Dashboard for Humanitarian OpenStreetMap Team. Work in Progress.
 - [hot-dashboard](https://github.com/ReliefApplications/hot-dashboard) - M&E Deshbaord for humanitarian OpenSreetMap Team
 - [MapCampaigner](https://github.com/hotosm/MapCampaigner) - Campaign management tool
+- [tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool for coordination of volunteers and organization of groups to map on OpenStreetMap
 - [Apply](https://github.com/0x21-consulting/Apply) - A Nonprofit Board Application System
 - [Thriver](https://github.com/0x21-consulting/Thriver) - Thriver, a Content Management System for Nonprofit Organizations
 - [gitlab-time-tracker-taskbar](https://github.com/kriskbx/gitlab-time-tracker-taskbar) - 🦊🕘 A crossplatform menubar/taskbar application for GitLabs time tracking feature. Currently in BETA!
@@ -2707,7 +2758,6 @@
 - [Zeitline](https://github.com/octree-gva/Zeitline) - A polylinear timeline with clustering, centred on interactions. — Doc and demo https://octree-gva.github.io/Zeitline/
 - [timeline-plus](https://github.com/yotamberk/timeline-plus) - Timeline - chronological visualization of your data
 - [Rick-and-Morty-Characters](https://github.com/Shmakov/Rick-and-Morty-Characters) - Rick and Morty Characters Timeline
-- [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [d3-timeline](https://github.com/pjbrof/d3-timeline) - d3js Timeline
 - [planner](https://github.com/michaelbironneau/planner) - Lightweight project planning for R&D teams
 - [visavail](https://github.com/flrs/visavail) - A D3.js Time Data Availability Visualization
@@ -4839,7 +4889,8 @@
 
 ## Jupyter Notebook 
 
-- [covid19-dashboard](https://github.com/machine-learning-apps/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
+- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+- [covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [pySankey](https://github.com/Pierre-Sassoulas/pySankey) - This is the maintened version of PySankey (pySankeyBeta on Pypi)
 - [notebooks](https://github.com/datacite/notebooks) - Jupyter notebooks using GraphQL APIs by FREYA partners
 - [solidata-backend](https://github.com/co-demos/solidata-backend) - Second draft of Solidata-backend (cloned from EIG repo)
@@ -4855,6 +4906,7 @@
 - [visJS2jupyter](https://github.com/ucsd-ccbb/visJS2jupyter) - visJS2jupyter is a tool to bring the interactivity of networks created with vis.js into jupyter notebook cells
 - [cypher_kernel](https://github.com/HelgeCPH/cypher_kernel) - An experimental Jupyter kernel wrapping the Cypher query language and Neo4j via a REPLWrapper around cypher-shell.
 - [py-gnucash](https://github.com/ihkihk/py-gnucash) - Python scripts for analysis of gnucash database
+- [data.rechtegewalt.info](https://github.com/dmedak/data.rechtegewalt.info) - Unified Monitoring of Right-Wing Violence in Germany
 - [cosmos](https://github.com/OpenGenus/cosmos) - Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter | Ask us anything at our forum |
 - [osmnx-examples](https://github.com/gboeing/osmnx-examples) - Examples, demos, and tutorials demonstrating the usage of OSMnx
 - [global-emissions](https://github.com/openclimatedata/global-emissions) - 
@@ -4994,6 +5046,14 @@
 
 ## Others 
 
+- [awesome-vue-graphql](https://github.com/hasura/awesome-vue-graphql) - A curated collection of resources, clients and tools that make working with `GraphQL and Vue.js` awesome
+- [realtime-collaboration-resources](https://github.com/stas-sl/realtime-collaboration-resources) - List of resources related to realtime collaboration
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation) - Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2020)。
+- [open-discovery](https://github.com/OpenKnowledgeMaps/open-discovery) - Open roadmap for developing a visual interface to the world's scientific knowledge
+- [knowledge-map](https://github.com/timmy3131/knowledge-map) - 🌍  Search Interactive Mind Maps to learn anything
+- [Knowledge-Maps](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps) - 
+- [knowledge-map](https://github.com/ryanmaynard/knowledge-map) - 🌍 Collaborative knowledge index of things as mind maps + study plan for learning anything
 - [ontologies](https://github.com/g0v-it/ontologies) - Semantic Web application profiles, ontologies and controlled vocabularies used by g0v-it projects.
 - [cert-covid19](https://github.com/cwoomi/cert-covid19) - Informationssammlung zum Thema CoVid-19
 - [COVID-19-Germany](https://github.com/iceweasel1/COVID-19-Germany) - All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.
@@ -5160,7 +5220,6 @@
 - [generating-transit-maps](https://github.com/public-transport/generating-transit-maps) - How to automatically generate transit maps.
 - [community](https://github.com/inrupt/community) - This repository documents how Inrupt relates to the greater community on Github.
 - [solid-tutorial-rdflib.js](https://github.com/solid/solid-tutorial-rdflib.js) - Tutorials for using rdflib.js
-- [right-wing-violence-de](https://github.com/dmedak/right-wing-violence-de) - Unified Monitoring of Right-Wing Violence in Germany
 - [vf-apps](https://github.com/valueflows/vf-apps) - Overview repo for other repos for apps based on the VF model and vocabulary.
 - [secure-opensource-server](https://github.com/simonsan/secure-opensource-server) - A relatively secure basic server setup
 - [mwRequirementsAnalysis](https://github.com/alvarosaurus/mwRequirementsAnalysis) - Facilitating the analysis of requirements in a software development process using semantic MediaWiki.
@@ -5673,6 +5732,9 @@
 
 ## PHP 
 
+- [leantime](https://github.com/Leantime/leantime) - Leantime is a project management system for small teams and startups. Designed to help you manage your projects from ideation to delivery.
+- [hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
+- [community-skeleton](https://github.com/uvdesk/community-skeleton) - Opensource UVDesk Community Helpdesk Project built for all to make a full Ticket Support System along with many more other features.
 - [bibliograph](https://github.com/cboulanger/bibliograph) - Bibliograph is a powerful open source web application for the collaborative collection, editing and publishing of bibliographic data.
 - [data-inps](https://github.com/g0v-it/data-inps) - The Smart Data Management Platform to feed https://inps.g0v.it/ application
 - [data-budget](https://github.com/g0v-it/data-budget) - The Smart Data Management Platform to feed  https://budget.g0v.it application
@@ -5768,7 +5830,7 @@
 - [agorakit](https://github.com/philippejadin/agorakit) - Organization tool for citizen's collectives
 - [amapress](https://github.com/comptoirdesappli/amapress) - Plugin Wordpress de gestion pour AMAP
 - [glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package,ITIL Service Desk, licenses tracking and software auditing.
-- [commons-booking-2](https://github.com/wielebenwir/commons-booking-2) - CB2 is a complete rewrite of Commons Booking – Wordpress Plugin for management and booking of common goods.
+- [commons-booking-2](https://github.com/wielebenwir/commons-booking-2) - Wordpress Plugin for managing and booking of common goods.
 - [easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [Identihub](https://github.com/Identihub/Identihub) - 
 - [simpleid](https://github.com/simpleid/simpleid) - A simple, personal OpenID provider written in PHP (Sourceforge mirror)
@@ -6122,6 +6184,12 @@
 
 ## Python 
 
+- [adhocracy-plus](https://github.com/liqd/adhocracy-plus) - adhocracy+ is a SaaS platform to make digital democracy easy for everyone
+- [bullet-train-api](https://github.com/BulletTrainHQ/bullet-train-api) - Python REST API for Bullet-Train. Ship features with confidence using feature flags and remote config. Host yourself or use our hosted version at https://bullet-train.io/
+- [saleor](https://github.com/mirumee/saleor) - A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
+- [lmtp_proxy](https://github.com/ixs/lmtp_proxy) - A simple LMTP delivery proxy that is able to deliver to different backends depending on the rcpt to user
+- [FoodEnvironment](https://github.com/simonscheider/FoodEnvironment) - GIS Methods to capture the food environment potential in terms of space-time prisms
+- [mapmatching](https://github.com/simonscheider/mapmatching) - An arcpy based HMM map matching tool
 - [coronavirus](https://github.com/FoldingAtHome/coronavirus) - Folding@home COVID-19 efforts
 - [smallgat](https://github.com/abe-winter/smallgat) - hyperlocal meetups for recovering institutions
 - [Covid-19-API](https://github.com/Omaroid/Covid-19-API) - A realtime API for coronavirus cases on Heroku. Data automatically updated every 10 minutes!
@@ -6178,6 +6246,7 @@
 - [croquemort](https://github.com/etalab/croquemort) - A micro service to check dead links efficiently and asynchronously. In use at https://www.data.gouv.fr/
 - [udata-geoplatform](https://github.com/etalab/udata-geoplatform) - data.gouv.fr &lt;-&gt; geo.data.gouv.fr bridge
 - [udata](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to open data.
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [OpenScraper](https://github.com/entrepreneur-interet-general/OpenScraper) - An open source webapp for scraping: towards a public service for webscraping
 - [csvapi](https://github.com/etalab/csvapi) - An instant JSON API for your CSV
 - [matrix-synapse-ldap3](https://github.com/matrix-org/matrix-synapse-ldap3) - An LDAP3 auth provider for Synapse
@@ -6295,7 +6364,6 @@
 - [onadata](https://github.com/onaio/onadata) - Collect, Analyze and Share
 - [WebTool3](https://github.com/dav-kempten/WebTool3) - Django web application, supporting full time employees and volunteers staff of the DAV (German Alpine Club) section Allgäu Kempten
 - [Sapphire-Web](https://github.com/CHSCodeForChange/Sapphire-Web) - The website/backend repository for Sapphire, a platform to help organizations manage volunteers.
-- [tasking-manager](https://github.com/hotosm/tasking-manager) - Tasking Manager - The tool for coordination of volunteers and organization of groups to map on OpenStreetMap
 - [alfred-timelog](https://github.com/mathiasjakobsen/alfred-timelog) - TimeLog Workflow for Alfred 3
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [django-non-profit](https://github.com/NBajanca/django-non-profit) - Django management platform for a non-profit. Developed at Re-food (Portugal)
@@ -6634,7 +6702,6 @@
 - [docker-stellar-core](https://github.com/stellar/docker-stellar-core) - Docker container definitions for stellar-core
 - [bugwarrior](https://github.com/ralphbean/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [inthe.am](https://github.com/coddingtonbear/inthe.am) - Access your Taskwarrior tasks from any browser anywhere
-- [loris](https://github.com/loris-imageserver/loris) - Loris IIIF Image Server
 - [loris](https://github.com/loris-imageserver/loris) - Loris IIIF Image Server
 - [openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [pragma.archivelab.org](https://github.com/ArchiveLabs/pragma.archivelab.org) - An API for citing Wayback snapshots with OpenAnnotations
@@ -7015,6 +7082,11 @@
 
 ## Ruby 
 
+- [gitlab-to-github-migrator](https://github.com/gotripod/gitlab-to-github-migrator) - Migrate repositories from GitLab to GitHub
+- [astuto](https://github.com/riggraz/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+- [chatwoot](https://github.com/chatwoot/chatwoot) - Simple and elegant live chat software 🔥💬
+- [consul](https://github.com/consul/consul) - Consul - Open Government and E-Participation Web Software
+- [dokku-api](https://github.com/dokku/dokku-api) - HTTP API on top of Dokku Daemon
 - [visualize_ruby](https://github.com/zeisler/visualize_ruby) - Transform code into a flowchart and experimentally trace the execution path through it
 - [docker-blazer](https://github.com/hooopo/docker-blazer) - Run Instacart's blazer BI tool with Docker
 - [iReach](https://github.com/LoneStarInternet/iReach) - iReach is a Ruby on Rails stand alone application for email newsletter campaign management including a template design interface, a wysiwyg editor, contact management, a mailer, and user management.  The newsletter (LoneStarInternet/newsletter) or mail_manager (LoneStarInternet/mail_manager) projects are also available to integrate into your existing application.
@@ -7333,6 +7405,7 @@
 
 ## Rust 
 
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant, and typo-tolerant full-text search API
 - [git-profile](https://github.com/bobbo/git-profile) - Simple identity switching for git
 - [noise](https://github.com/pipedown/noise) - Nested Object Inverted Search Engine
 - [tantivy](https://github.com/tantivy-search/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -7456,6 +7529,12 @@
 
 ## Shell 
 
+- [docker-postgresql](https://github.com/sameersbn/docker-postgresql) - Dockerfile to build a PostgreSQL container image which can be linked to other containers.
+- [kubecf](https://github.com/cloudfoundry-incubator/kubecf) - Cloud Foundry on Kubernetes
+- [serverfarmer](https://github.com/serverfarmer/serverfarmer) - Manage multiple servers with different operating systems, configurations, requirements etc. for many separate customers in an outsourcing model.
+- [sf-imap-storage](https://github.com/serverfarmer/sf-imap-storage) - sf-imap-storage extension provides the central storage/backup part of the IMAP infrastructure.
+- [docker-mailserver](https://github.com/jeboehm/docker-mailserver) - Docker Mailserver based on the famous ISPMail guide
+- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [openra-dockerfile](https://github.com/rmoriz/openra-dockerfile) - Dockerfile for OpenRA dedicated server
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [hook-flow](https://github.com/donavon/hook-flow) - A flowchart that explains the new lifecycle of a Hooks component. https://dwe.st/hf
@@ -7472,7 +7551,7 @@
 - [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [git-identity](https://github.com/madx/git-identity) - Manage your identity in Git
-- [swm](https://github.com/djmaze/swm) - The missing tooling for a great Docker swarm experience
+- [swm-sh](https://github.com/djmaze/swm-sh) - The missing tooling for a great Docker swarm experience (bash version)
 - [dokku-list](https://github.com/dokku-community/dokku-list) - Dokku plugin to list apps
 - [dokku-ports](https://github.com/dokku-community/dokku-ports) - Open and close your dokku app's ports.
 - [dokku-debug](https://github.com/dokku-community/dokku-debug) - Toggle debug mode for dokku
@@ -7971,6 +8050,7 @@
 
 ## TeX 
 
+- [knowledge-map-cheatsheets](https://github.com/gobid/knowledge-map-cheatsheets) - cheatsheets for all courses (all established knowledge), by LD Talent
 - [TikZ-diagrams](https://github.com/tabascoeye/TikZ-diagrams) - Diagrams I made using the excellent TikZ package for LaTeX
 - [PhD-Thesis](https://github.com/rubensworks/PhD-Thesis) - Thesis for obtaining a PhD in Computer Science at Ghent University
 - [bachelorarbeit](https://github.com/Thermi/bachelorarbeit) - Contains my bachelor thesis in German (I'm sorry for my international viewers)
@@ -8004,6 +8084,11 @@
 
 ## TypeScript 
 
+- [erxes](https://github.com/erxes/erxes) - Open source growth marketing platform
+- [staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
+- [tinacms](https://github.com/tinacms/tinacms) - Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
+- [type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
+- [create-apollo-app](https://github.com/sysgears/create-apollo-app) - Create Apollo App is a command-line tool designed to generate fully-configured starter Apollo GraphQL projects with essential dependencies for developing web, server and mobile applications and zero build configuration.
 - [instana-grafana-datasource](https://github.com/instana/instana-grafana-datasource) - 🔭 Grafana datasource plugin for Instana
 - [PerfCascade](https://github.com/micmro/PerfCascade) - Responsive, SVG based HAR waterfall viewer
 - [G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
@@ -8120,6 +8205,7 @@
 - [GraphQL-LD.js](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL
 - [diary](https://github.com/boyangwang/diary) - Time is your most valuable asset (till immortality)
 - [simple-home-accounting](https://github.com/borsini/simple-home-accounting) - Simple web interface for plain text accounting. Compatible with ledger file format.
+- [Leaflet.timeline](https://github.com/skeate/Leaflet.timeline) - Display arbitrary GeoJSON on a map with a timeline slider and play button
 - [airsonic-ui](https://github.com/airsonic/airsonic-ui) - [EXPERIMENTAL] Angular based UI Airsonic
 - [Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
 - [isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
