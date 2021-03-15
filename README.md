@@ -2502,6 +2502,7 @@
 
 ## Java 
 
+- [ccnx](https://github.com/ProjectCCNx/ccnx) - THIS REPOSITORY IS NO LONGER MAINTAINED.   IT HAS BEEN COMPLETELY REPLACED BY https://github.com/PARC/CCNx_Distillery
 - [jslt](https://github.com/schibsted/jslt) - JSON query and transformation language
 - [SmartPaperScan](https://github.com/KePeng1019/SmartPaperScan) - this is an android project write in kotlin which detect paper or rectangle by opencv, you can take a picture and crop it
 - [emotion-ontology](https://github.com/jannahastings/emotion-ontology) - Ontology for emotions and affective phenomena
@@ -2752,6 +2753,11 @@
 
 ## JavaScript 
 
+- [fastify-gundb](https://github.com/lmangani/fastify-gundb) - Plugin to share a common GunDB connection across Fastify :gun:
+- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+- [vue-gun](https://github.com/sjones6/vue-gun) - A Vue plugin to add Gun integration
+- [graphql-gun](https://github.com/brysgo/graphql-gun) - A graphql API for the gun p2p graph database
+- [earthstar-wiki](https://github.com/earthstar-project/earthstar-wiki) - An example app using Earthstar to hold a wiki.
 - [SAL-Firefox](https://github.com/thepante/SAL-Firefox) - Sidebar Always Loaded for Firefox
 - [alfs-firefox](https://github.com/thepante/alfs-firefox) - Always Loaded Floating Sidebar it's a small modification for Firefox
 - [atlas](https://github.com/nypl-spacetime/atlas) - NYC Space/Time Directory Atlas
@@ -6005,6 +6011,7 @@
 
 ## Makefile 
 
+- [CCNx_Distillery](https://github.com/parc-ccnx-archive/CCNx_Distillery) - The CCNx Distillery software distribution
 - [pato](https://github.com/pato-ontology/pato) - PATO - the Phenotype And Trait Ontology
 - [sdgio](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology
 - [envo](https://github.com/EnvironmentOntology/envo) - A community-driven ontology for the representation of environments
@@ -6110,6 +6117,7 @@
 
 ## Others 
 
+- [set-reconciliation](https://github.com/AljoschaMeyer/set-reconciliation) - An informal description on how to compute set union between two computers.
 - [specifications](https://github.com/UnifiedPush/specifications) - UnifiedPush Specifications
 - [worldgraph-design](https://github.com/WorldGraph/worldgraph-design) - Overall design and vision for worldgraph
 - [nice-dashboards](https://github.com/holtzy/nice-dashboards) - A list of dashboards I like
@@ -9155,6 +9163,7 @@
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
+- [polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [lyriek](https://github.com/BartWillems/lyriek) - A multi-threaded GTK 3 application for fetching the lyrics of the current playing song
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -10089,13 +10098,17 @@
 
 ## TypeScript 
 
+- [earthstar-graphql](https://github.com/earthstar-project/earthstar-graphql) - Query, sync and set data to earthstar workspaces using GraphQL.
+- [earthstar](https://github.com/earthstar-project/earthstar) - A distributed, syncable document database for making p2p apps
+- [earthstar-lobby](https://github.com/earthstar-project/earthstar-lobby) - 
+- [earthstar-status](https://github.com/earthstar-project/earthstar-status) - A simple app to see the latest status of your friends in an Earthstar workspace.
+- [twodays-crossing](https://github.com/earthstar-project/twodays-crossing) - A roleplaying chatroom where your action are forgotten after 48 hours.
 - [flowmap.blue](https://github.com/FlowmapBlue/flowmap.blue) - Flow map visualization tool
 - [grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [m-ld-js](https://github.com/m-ld/m-ld-js) - m-ld Javascript engine
 - [jupyterlab-sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab
 - [GanyJS](https://github.com/QuantStack/GanyJS) - 3-D Scientific visualization using ThreeJS
 - [phosphor](https://github.com/phosphorjs/phosphor) - The PhosphorJS Library
-- [earthstar](https://github.com/earthstar-project/earthstar) - A distributed, syncable document database for making p2p apps
 - [hcloud-openapi](https://github.com/MaximilianKoestler/hcloud-openapi) - This is the unofficial OpenAPI description of the Hetzner Cloud API. It allows automatic code generation for the hcloud API.
 - [rdf-vocabularies](https://github.com/zazuko/rdf-vocabularies) - Zazuko's Default Ontologies & Prefixes
 - [Lesswrong2](https://github.com/LessWrong2/Lesswrong2) - The development repository for LessWrong2, based on Vulcan JS
