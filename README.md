@@ -164,6 +164,8 @@
 
 ## C 
 
+- [tmate-ssh-server](https://github.com/tmate-io/tmate-ssh-server) - tmate SSH server
+- [tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [Glimpse](https://github.com/glimpse-editor/Glimpse) - Fork of the GNU Image Manipulation Program 2.10.18
 - [hexcurse](https://github.com/LonnyGomes/hexcurse) - Hexcurse is a ncurses-based console hexeditor written in C
 - [selfdock](https://github.com/anordal/selfdock) - Docker done right, from the bottom
@@ -1347,6 +1349,9 @@
 
 ## Go 
 
+- [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
+- [inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
 - [apid-cli](https://github.com/getapid/apid-cli) - Declarative API end to end testing framework
 - [blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
 - [telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -2761,6 +2766,8 @@
 
 ## JavaScript 
 
+- [life-in-weeks](https://github.com/PeWu/life-in-weeks) - Your life in weeks
+- [notes](https://github.com/busterbenson/notes) - 
 - [bimvie.ws](https://github.com/opensourceBIM/bimvie.ws) - Javascript client for Building Information Modelling, using open standards like IFC, BCF and BIMSie. Using Bootstrap, BIM Surfer, etc..
 - [ghost-storage-adapter-s3](https://github.com/colinmeinke/ghost-storage-adapter-s3) - An AWS S3 storage adapter for Ghost
 - [ghost-storage-adapter-ipfs](https://github.com/fission-suite/ghost-storage-adapter-ipfs) - A storage adapter for the Ghost blogging platform that stores files in IPFS with Fission
@@ -7509,6 +7516,8 @@
 
 ## Python 
 
+- [nvpy](https://github.com/cpbotha/nvpy) - Simplenote syncing note-taking application, inspired by Notational Velocity and ResophNotes, but uglier and cross-platformerer.
+- [reBOOT](https://github.com/CodeTheChangeUBC/reBOOT) - :floppy_disk: Donor/Donation Management Platform for reBOOT Canada!
 - [co2tools](https://github.com/Mambix/co2tools) - Easily convert 2D DXF drawings into 3D models
 - [WebTools](https://github.com/yorikvanhavre/WebTools) - A series of tools to communicate with web services from within FreeCAD
 - [freecad.trails](https://github.com/joelgraff/freecad.trails) - Trails is the Transportation Engineering workbench for FreeCAD
@@ -9417,6 +9426,7 @@
 
 ## Shell 
 
+- [tmate-kube](https://github.com/tmate-io/tmate-kube) - dev and prod kubernetes configurations
 - [pyenv-virtualenvwrapper](https://github.com/pyenv/pyenv-virtualenvwrapper) - an alternative approach to manage virtualenvs from pyenv.
 - [pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
