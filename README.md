@@ -414,6 +414,7 @@
 
 ## C++ 
 
+- [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 - [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for the C++ programming language
 - [xleaflet](https://github.com/jupyter-xeus/xleaflet) - C++ backend for the jupyter leaflet widget
 - [xvega-bindings](https://github.com/jupyter-xeus/xvega-bindings) - xvega bindings for xeus
@@ -1349,6 +1350,7 @@
 
 ## Go 
 
+- [jellycli](https://github.com/tryffel/jellycli) - Jellyfin terminal client
 - [boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [inertia](https://github.com/ubclaunchpad/inertia) - ✈️ Effortless, self-hosted continuous deployment for small teams and projects
@@ -1840,7 +1842,6 @@
 
 ## Groovy 
 
-- [Nibras-PKM](https://github.com/mfakih294/Nibras-PKM) - A web-based open-source system for the long-term management of personal information. It targets the needs of advanced users with serious information management needs. It is accompanied with an Android light application that syncs over the local network.
 - [nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [HiveMind](https://github.com/moqui/HiveMind) - HiveMind is a project management and ERP application for services organizations. It features project/task management, request tracking, time tracking, expenses, invoices/payments, general ledger, and content management (wiki). HiveMind is based on Moqui Framework, Mantle Business Artifacts, and Simple Screens.
 - [freeipa-pwd-portal](https://github.com/xetus-oss/freeipa-pwd-portal) - An external self-service password portal for communicating with a FreeIPA instance
@@ -2513,6 +2514,10 @@
 
 ## Java 
 
+- [Subsonic](https://github.com/daneren2005/Subsonic) - Home of the DSub Android client fork
+- [ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers
+- [new-ultrasonic-fork-for-MyMusicQoE](https://github.com/albertolalanda/new-ultrasonic-fork-for-MyMusicQoE) - Android application that allows you to listen to songs, sent by a server, with a random codec and bitrate. The application allows the user to rate the QoE (Quality of experience). The classifications were studied in order to determine for different bitrates the best codec.
+- [Audinaut](https://github.com/nvllsvm/Audinaut) - A Subsonic client for Android
 - [BIMserver](https://github.com/opensourceBIM/BIMserver) - The open source BIMserver platform
 - [airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [ccnx](https://github.com/ProjectCCNx/ccnx) - THIS REPOSITORY IS NO LONGER MAINTAINED.   IT HAS BEEN COMPLETELY REPLACED BY https://github.com/PARC/CCNx_Distillery
@@ -2766,6 +2771,8 @@
 
 ## JavaScript 
 
+- [aurial](https://github.com/shrimpza/aurial) - A browser client for streaming music from servers implementing the Subsonic API
+- [subplayer](https://github.com/peguerosdc/subplayer) - A music player frontend compatible with Subsonic backends
 - [life-in-weeks](https://github.com/PeWu/life-in-weeks) - Your life in weeks
 - [notes](https://github.com/busterbenson/notes) - 
 - [bimvie.ws](https://github.com/opensourceBIM/bimvie.ws) - Javascript client for Building Information Modelling, using open standards like IFC, BCF and BIMSie. Using Bootstrap, BIM Surfer, etc..
@@ -2796,6 +2803,7 @@
 - [skohub-editor](https://github.com/skohub-io/skohub-editor) - 
 - [skohub-pubsub](https://github.com/skohub-io/skohub-pubsub) - 
 - [cardi](https://github.com/pickledish/cardi) - A full-featured, static-generated PWA for notes stored in privately owned DynamoDB tables
+- [Nibras-PKM](https://github.com/mfakih294/Nibras-PKM) - A web-based open-source system for the long-term management of personal information. It targets the needs of advanced users with serious information management needs. It is accompanied with an Android light application that syncs over the local network.
 - [ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration
 - [jupyter-flex](https://github.com/danielfrg/jupyter-flex) - Build dashboards using Jupyter Notebooks
 - [D3ITL](https://github.com/c-c-l/D3ITL) - ☄ Interactive timeline built with D3 with pure CSS animations
@@ -7918,7 +7926,6 @@
 - [element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
 - [es-example-federatedwiki](https://github.com/johnbywater/es-example-federatedwiki) - Example "federated wiki" application using the Python eventsourcing library
 - [docker-taiga](https://github.com/devinsolutions/docker-taiga) - Taiga-back + taiga-front, served with uWSGI, based on the official Python-Alpine image.
-- [docker-powerdns-admin](https://github.com/Monogramm/docker-powerdns-admin) - :whale: :snake: Docker image of PowerDNS Admin
 - [docker-taiga](https://github.com/Monogramm/docker-taiga) - :whale: :snake: Docker images for a full Taiga environment with additional plugins.
 - [bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -9568,6 +9575,7 @@
 - [sonar-resources](https://github.com/arso-project/sonar-resources) - A collection of documents and resources for the Sonar project
 - [gitlab-ci-git-push](https://github.com/IlyaSemenov/gitlab-ci-git-push) - Gitlab CI runner image that pushes to a remote Git repo (Dokku, Heroku, Deis, etc.)
 - [docker-sshd](https://github.com/panubo/docker-sshd) - Minimal Alpine Linux Docker image with sshd exposed and rsync installed
+- [docker-powerdns-admin](https://github.com/Monogramm/docker-powerdns-admin) - :whale: :snake: Docker image of PowerDNS Admin
 - [taiga](https://github.com/docker-taiga/taiga) - docker-compose.yml for simple taiga setup
 - [Dockerfile_of_SQLite3](https://github.com/KEINOS/Dockerfile_of_SQLite3) - ✅ Latest and light weight docker image of SQLite3.
 - [valueflows-project-metarepo](https://github.com/holo-rea/valueflows-project-metarepo) - Metarepo that links and initialises all dependencies necessary for full-stack development of ValueFlows-compatible apps. Built for HoloREA initially, planned to extend beyond.
@@ -10517,6 +10525,7 @@
 
 ## Vue 
 
+- [airsonic-frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic
 - [ess-table](https://github.com/scenaristeur/ess-table) - Ess ( Economie Sociale & Solidaire) + Solid + Airtable : Airtable like webapp based on Solid Specifications for Social & Solidarity Economy. ess-table can link table data from many Ess organization
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Fresh way to create simple or complex forms – without programming!
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - VuePress theme for Craft CMS documentation
