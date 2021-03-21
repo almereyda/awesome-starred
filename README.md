@@ -98,6 +98,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
+  - [Starlark](#starlark)
   - [Stylus](#stylus)
   - [Svelte](#svelte)
   - [Swift](#swift)
@@ -1174,6 +1175,7 @@
 
 ## Dockerfile 
 
+- [docs.hedgedoc.org](https://github.com/hedgedoc/docs.hedgedoc.org) - 
 - [DockerBIMserver](https://github.com/sigurdne/DockerBIMserver) - A peristant tomcat deployment of BIMserver
 - [bepasty-docker](https://github.com/Duckle29/bepasty-docker) - Docker automated build repository for the bepasty
 - [docker-baserow](https://github.com/tiredofit/docker-baserow) - Dockerized Baserow No/Low code data management application based on Alpine
@@ -1860,6 +1862,7 @@
 
 ## HTML 
 
+- [hedgedoc.github.io](https://github.com/hedgedoc/hedgedoc.github.io) - The landing page at hedgedoc.org
 - [transiscope-en](https://github.com/assemblee-virtuelle/transiscope-en) - 
 - [CargoBikeIndex](https://github.com/CargoRocket/CargoBikeIndex) - Map of the CargoBikeIndex
 - [diveintopython3](https://github.com/diveintomark/diveintopython3) - [Mirror] Dive Into Python 3 online book
@@ -9433,7 +9436,6 @@
 
 ## Shell 
 
-- [tmate-kube](https://github.com/tmate-io/tmate-kube) - dev and prod kubernetes configurations
 - [pyenv-virtualenvwrapper](https://github.com/pyenv/pyenv-virtualenvwrapper) - an alternative approach to manage virtualenvs from pyenv.
 - [pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
@@ -10048,6 +10050,10 @@
 - [modoboa-installer](https://github.com/modoboa/modoboa-installer) - An installer for Modoboa
 - [dockerfiles](https://github.com/rstiller/dockerfiles) - Dockerfiles for common software packages.
 
+## Starlark 
+
+- [tmate-kube](https://github.com/tmate-io/tmate-kube) - dev and prod kubernetes configurations
+
 ## Stylus 
 
 - [vuepress-theme-cool](https://github.com/FriendlyUser/vuepress-theme-cool) - A custom vuepress theme with mermaid and plantuml, katex and vue components.
@@ -10440,7 +10446,7 @@
 - [jspm-cli](https://github.com/jspm/jspm-cli) - Deprecated as of June 2020
 - [matrix-fb-chat](https://github.com/Half-Shot/matrix-fb-chat) - A quick n dirty Facebook bot bridge.
 - [Salsah](https://github.com/dhlab-basel/Salsah) - The generic user interface for Knora
-- [angular-app](https://github.com/awesomehub/angular-app) - Angular 2 application for AwesomeHub
+- [angular-app](https://github.com/awesomehub/angular-app) - Angular application for AwesomeHub
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [rxdb](https://github.com/pubkey/rxdb) - 🔄 A realtime Database for JavaScript Applications
 - [jsoniq](https://github.com/wcandillon/jsoniq) - JSONiq Implementation that compiles to JavaScript
@@ -10525,7 +10531,7 @@
 
 ## Vue 
 
-- [airsonic-frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic
+- [airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [ess-table](https://github.com/scenaristeur/ess-table) - Ess ( Economie Sociale & Solidaire) + Solid + Airtable : Airtable like webapp based on Solid Specifications for Social & Solidarity Economy. ess-table can link table data from many Ess organization
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Fresh way to create simple or complex forms – without programming!
 - [vuepress-theme-craftdocs](https://github.com/pixelandtonic/vuepress-theme-craftdocs) - VuePress theme for Craft CMS documentation
