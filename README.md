@@ -2563,6 +2563,7 @@
 
 ## Java 
 
+- [transport](https://github.com/nismod/transport) - NISMOD v2 Transport Model is a national-scale (Great Britain) transport model developed to support policy making regarding the future infrastructure
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [Subsonic](https://github.com/daneren2005/Subsonic) - Home of the DSub Android client fork
 - [ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers
@@ -2821,6 +2822,8 @@
 
 ## JavaScript 
 
+- [oi-risk-vis](https://github.com/oi-analytics/oi-risk-vis) - Risk analysis visualisation tool
+- [whereto](https://github.com/nismod/whereto) - DAFNI conference 2019 hack project: neighbourhood discovery
 - [midegra](https://github.com/sonallux/midegra) - Visualize dependencies between services in Microservice architectures
 - [ticket-dependency-graph](https://github.com/theodo/ticket-dependency-graph) - Visualize the dependencies between your Trello tickets
 - [ticket-dependency-graph](https://github.com/Varal7/ticket-dependency-graph) - Trello board to dependency graph converter
@@ -5972,6 +5975,12 @@
 
 ## Jupyter Notebook 
 
+- [arc-floor-area](https://github.com/nismod/arc-floor-area) - Estimate floor area projections
+- [water_demand](https://github.com/nismod/water_demand) - A basic water demand model, where demand is a scalar multiple of population
+- [arc-scenarios](https://github.com/nismod/arc-scenarios) - Run scenario models and preprocess data for input to NISMOD2
+- [arc-economics](https://github.com/nismod/arc-economics) - Process model outputs from Cambridge Econometrics for Cam-MK-Ox Arc analysis
+- [ltis-infrastructure-risk](https://github.com/oi-analytics/ltis-infrastructure-risk) - Project code for Infrastructure Risk Assessment for Environment Agency Long-Term Investment Scenarios
+- [ghana-adaptation](https://github.com/nismod/ghana-adaptation) - Ghana Infrastructure Adaptation Analysis
 - [lithology-viewer](https://github.com/csiro-hydrogeology/lithology-viewer) - Interactive exploration of descriptive lithology information from borehole logs
 - [ipymaps](https://github.com/deeplook/ipymaps) - Implement an online/notebook maps application with customized features.
 - [voila-gpx-viewer](https://github.com/jtpio/voila-gpx-viewer) - GPX Viewer web app built with Jupyter, ipywidgets, ipyleaflet, bqplot and voila
@@ -6203,6 +6212,7 @@
 
 ## Others 
 
+- [oi-risk-vis](https://github.com/nismod/oi-risk-vis) - Risk analysis visualisation tool
 - [ADS](https://github.com/avi2527/ADS) - Advanced Data Structures
 - [natural-capital-mapping](https://github.com/sandra-ab/natural-capital-mapping) - Natural Capital Mapping
 - [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
@@ -7588,6 +7598,18 @@
 
 ## Python 
 
+- [digital_comms](https://github.com/nismod/digital_comms) - 
+- [ukweather](https://github.com/nismod/ukweather) - Process historical and modelled climate and weather data for UK infrastructure modelling scenarios
+- [simim](https://github.com/nismod/simim) - Spatial Interaction Models of Internal Migration
+- [oia-transport-archive](https://github.com/oi-analytics/oia-transport-archive) - Archive of Transport Risk Analysis preprocessing and db scripts
+- [twrm](https://github.com/nismod/twrm) - Transboundary Water Resource Management
+- [learn-dafni](https://github.com/nismod/learn-dafni) - Learn how to wrap and configure models for DAFNI
+- [snail](https://github.com/nismod/snail) - 🐌 The spatial networks impact assessment library 🐌
+- [ukpopulation](https://github.com/nismod/ukpopulation) - Population and demographics projection module, developed for ITRC/MISTRAL
+- [household_microsynth](https://github.com/nismod/household_microsynth) - A python package for microsynthesising household populations from census data, including communal and unoccupied residences.
+- [energy_demand](https://github.com/nismod/energy_demand) - HIRE - HIgh Resolution Energy Demand simulation model
+- [nismod2](https://github.com/nismod/nismod2) - National Infrastructure Systems Model setup, configuration and tests
+- [smif](https://github.com/nismod/smif) - Simulation Modelling Integration Framework
 - [python-gitlab](https://github.com/python-gitlab/python-gitlab) - Python wrapper for the GitLab API
 - [jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
 - [bloch_sphere](https://github.com/cduck/bloch_sphere) - Visualization tools for the qubit Bloch sphere
@@ -9525,6 +9547,7 @@
 
 ## Shell 
 
+- [aqueduct](https://github.com/nismod/aqueduct) - Aqueduct Global Flood Hazard Data
 - [course-planning](https://github.com/informing/course-planning) - Course Dependency Chart (CPSC)
 - [elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
 - [wrtbwmon](https://github.com/pyrovski/wrtbwmon) - Linux bandwidth monitor with per-device tracking
