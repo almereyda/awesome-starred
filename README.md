@@ -170,6 +170,9 @@
 
 ## C 
 
+- [pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
+- [vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
+- [darkstat-with-asn](https://github.com/parseword/darkstat-with-asn) - darkstat-3.0.719 patched to query and display Autonomous System numbers
 - [wayland-logout](https://github.com/soreau/wayland-logout) - 
 - [wlogout](https://github.com/ArtsyMacaw/wlogout) - A wayland based logout menu
 - [zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
@@ -426,6 +429,9 @@
 
 ## C++ 
 
+- [DataItem](https://github.com/hosseinmoein/DataItem) - This is an interpretation and implementation of dependency graph by which you can implement many analytical models, such as alpha and risk models.
+- [virtual-window](https://github.com/ThoAppelsin/virtual-window) - My BSc final project; a proof-of-concept augmented reality software that tracks the head of the user via an ordinary laptop camera, projects the 3D scene behind accordingly onto the screen, and creates the illusion of a window to that 3D world behind.
+- [conntrack_exporter](https://github.com/hiveco/conntrack_exporter) - Prometheus exporter for tracking network connections
 - [easyMesh](https://github.com/Coopdis/easyMesh) - Library to create a simple mesh network on Arduino/esp8266
 - [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [Liquid-Prep](https://github.com/Call-for-Code/Liquid-Prep) - Liquid Prep offers an end-to-end solution for farmers looking to optimize their water usage; especially during times of drought.
@@ -1190,6 +1196,7 @@
 
 ## Dockerfile 
 
+- [vnstat-ci](https://github.com/vergoh/vnstat-ci) - CI setup for vnStat testing
 - [examples](https://github.com/ContainerSSH/examples) - ContainerSSH examples
 - [docs.hedgedoc.org](https://github.com/hedgedoc/docs.hedgedoc.org) - 
 - [DockerBIMserver](https://github.com/sigurdne/DockerBIMserver) - A peristant tomcat deployment of BIMserver
@@ -1367,6 +1374,12 @@
 
 ## Go 
 
+- [flow-exporter](https://github.com/neptune-networks/flow-exporter) - Export network flows from Kafka to Prometheus
+- [planet-exporter](https://github.com/williamchanrico/planet-exporter) - :rocket: Determine server dependencies along with required bandwidth
+- [topo](https://github.com/fako1024/topo) - Dependency resolution based on topological sort of a directed graph (for arbitrary types)
+- [domain-dependency-tool](https://github.com/mchtech/domain-dependency-tool) - 一个能画出域名与其它DNS域的依赖关系的工具 A dependency graph tool that can draw domain names with other DNS domains/zones
+- [fptrace](https://github.com/orivej/fptrace) - Record process launches and files read and written by each process
+- [protodot](https://github.com/seamia/protodot) - transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
 - [wordpress-operator](https://github.com/presslabs/wordpress-operator) - WordPress operator for Kubernetes
 - [gasper](https://github.com/sdslabs/gasper) - Your Cloud in a Binary
 - [sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -1673,7 +1686,7 @@
 - [hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Compatible with MITREid.
 - [ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 - [finch](https://github.com/emreler/finch) - 
-- [teleport](https://github.com/gravitational/teleport) - Certificate authority and Identity aware proxy for SSH, Kubernetes, web applications, and databases
+- [teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
 - [teleconsole](https://github.com/gravitational/teleconsole) - Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.
 - [beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service
@@ -1887,6 +1900,13 @@
 
 ## HTML 
 
+- [peering](https://github.com/neptune-networks/peering) - A YAML to BIRD configuration generator for transit networks.
+- [eunice](https://github.com/DevSnicket/eunice) - Eunice improves cohesion, coupling and modularity in software through hierarchical structure and simplified unidirectional dependencies. Eunice analyses source code, infers its structure and shows if the dependencies match.
+- [photosearcher](https://github.com/ropensci/photosearcher) - Searches Flickr for photographs and metadata
+- [FrancescaMancini.github.io](https://github.com/FrancescaMancini/FrancescaMancini.github.io) - Personal website
+- [Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
+- [EcoservR](https://github.com/ecoservR/EcoservR) - EcoservR is a spatial tool for mapping natural capital assets and ecosystem services. (In development)
+- [ourcodingclub.github.io](https://github.com/ourcodingclub/ourcodingclub.github.io) - The main repository for the Coding Club website
 - [hedgedoc.github.io](https://github.com/hedgedoc/hedgedoc.github.io) - The landing page at hedgedoc.org
 - [transiscope-en](https://github.com/assemblee-virtuelle/transiscope-en) - 
 - [CargoBikeIndex](https://github.com/CargoRocket/CargoBikeIndex) - Map of the CargoBikeIndex
@@ -2801,6 +2821,13 @@
 
 ## JavaScript 
 
+- [midegra](https://github.com/sonallux/midegra) - Visualize dependencies between services in Microservice architectures
+- [ticket-dependency-graph](https://github.com/theodo/ticket-dependency-graph) - Visualize the dependencies between your Trello tickets
+- [ticket-dependency-graph](https://github.com/Varal7/ticket-dependency-graph) - Trello board to dependency graph converter
+- [depv](https://github.com/lite-js/depv) - the dependency visualizer
+- [dgraph3d](https://github.com/danaugrs/dgraph3d) - 3D WebGL interactive dependency graphs
+- [GitHubVisualizer](https://github.com/artzub/GitHubVisualizer) - Visualization the history of repository changes based on data from GitHub
+- [dependency-graph](https://github.com/jriecken/dependency-graph) - A simple dependency graph for Node.js
 - [aurial](https://github.com/shrimpza/aurial) - A browser client for streaming music from servers implementing the Subsonic API
 - [subplayer](https://github.com/peguerosdc/subplayer) - A music player frontend compatible with Subsonic backends
 - [life-in-weeks](https://github.com/PeWu/life-in-weeks) - Your life in weeks
@@ -4818,7 +4845,6 @@
 - [telemetry-experiments-dashboard](https://github.com/bsmedberg/telemetry-experiments-dashboard) - 
 - [telemetry-dashboard-prototype](https://github.com/mozilla/telemetry-dashboard-prototype) - A proposal for updating the Telemetry Dashboard
 - [interest-dashboard](https://github.com/mozilla/interest-dashboard) - Firefox Interest Dashboard provides a colorful and interactive view of your interests based on your browsing history.
-- [interest-dashboard](https://github.com/mozilla/interest-dashboard) - Firefox Interest Dashboard provides a colorful and interactive view of your interests based on your browsing history.
 - [telemetry-dashboard](https://github.com/mozilla/telemetry-dashboard) - Web-frontend for aggregated telemetry data
 - [ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
 - [romana](https://github.com/ceph/romana) - 
@@ -6177,6 +6203,9 @@
 
 ## Others 
 
+- [ADS](https://github.com/avi2527/ADS) - Advanced Data Structures
+- [natural-capital-mapping](https://github.com/sandra-ab/natural-capital-mapping) - Natural Capital Mapping
+- [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273) - RNA vaccines have become a key tool in moving forward through the challenges raised both in the current pandemic and in numerous other public health and medical challenges.  With the rollout of vaccines for COVID-19, these synthetic mRNAs have become broadly distributed RNA species in numerous human populations.  Despite their ubiquity, sequences are not always available for such RNAs.  Standard methods facilitate such sequencing.  In this note, we provide experimental sequence information for the RNA components of the initial Moderna (https://pubmed.ncbi.nlm.nih.gov/32756549/) and Pfizer/BioNTech (https://pubmed.ncbi.nlm.nih.gov/33301246/) COVID-19 vaccines, allowing a working assembly of the former and a confirmation of previously reported sequence information for the latter RNA.  Sharing of sequence information for broadly used therapeutics has the benefit of allowing any researchers or clinicians using sequencing approaches to rapidly identify such sequences as therapeutic-derived rather than host or infectious in origin.   For this work, RNAs were obtained as discards from the small portions of vaccine doses that remained in vials after immunization; such portions would have been required to be otherwise discarded and were analyzed under FDA authorization for research use.  To obtain the small amounts of RNA needed for characterization, vaccine remnants were phenol-chloroform extracted using TRIzol Reagent (Invitrogen), with intactness assessed by Agilent 2100 Bioanalyzer before and after extraction.    Although our analysis mainly focused on RNAs obtained as soon as possible following discard, we also analyzed samples which had been refrigerated (~4 ℃) for up to 42 days with and without the addition of EDTA.  Interestingly a substantial fraction of the RNA remained intact in these preparations.  We note that the formulation of the vaccines includes numerous key chemical components which are quite possibly unstable under these conditions-- so these data certainly do not suggest that the vaccine as a biological agent is stable.  But it is of interest that chemical stability of RNA itself is not sufficient to preclude eventual development of vaccines with a much less involved cold-chain storage and transportation.   For further analysis, the initial RNAs were fragmented by heating to 94℃, primed with a random hexamer-tailed adaptor, amplified through a template-switch protocol (Takara SMARTerer Stranded RNA-seq kit), and sequenced using a MiSeq instrument (Illumina) with paired end 78-per end sequencing.  As a reference material in specific assays, we included RNA of known concentration and sequence (from bacteriophage MS2).  From these data, we obtained partial information on strandedness and a set of segments that could be used for assembly.  This was particularly useful for the Moderna vaccine, for which the original vaccine RNA sequence was not available at the time our study was carried out.  Contigs encoding full-length spikes were assembled from the Moderna and Pfizer datasets.  The Pfizer/BioNTech data [Figure 1] verified the reported sequence for that vaccine (https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/), while the Moderna sequence [Figure 2] could not be checked against a published reference.   RNA preparations lacking dsRNA are desirable in generating vaccine formulations as these will minimize an otherwise dramatic biological (and nonspecific) response that vertebrates have to double stranded character in RNA (https://www.nature.com/articles/nrd.2017.243).  In the sequence data that we analyzed, we found that the vast majority of reads were from the expected sense strand.  In addition, the minority of antisense reads appeared different from sense reads in lacking the characteristic extensions expected from the template switching protocol.  Examining only the reads with an evident template switch (as an indicator for strand-of-origin), we observed that both vaccines overwhelmingly yielded sense reads (&gt;99.99%).  Independent sequencing assays and other experimental measurements are ongoing and will be needed to determine whether this template-switched sense read fraction in the SmarterSeq protocol indeed represents the actual dsRNA content in the original material.  This work provides an initial assessment of two RNAs that are now a part of the human ecosystem and that are likely to appear in numerous other high throughput RNA-seq studies in which a fraction of the individuals may have previously been vaccinated.  ProtoAcknowledgements: Thanks to our colleagues for help and suggestions (Nimit Jain, Emily Greenwald, Lamia Wahba, William Wang, Amisha Kumar, Sameer Sundrani, David Lipman, Bijoyita Roy).  Figure 1: Spike-encoding contig assembled from BioNTech/Pfizer BNT-162b2 vaccine.  Although the full coding region is included, the nature of the methodology used for sequencing and assembly is such that the assembled contig could lack some sequence from the ends of the RNA.  Within the assembled sequence, this hypothetical sequence shows a perfect match to the corresponding sequence from documents available online derived from manufacturer communications with the World Health Organization [as reported by https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/].  The 5’ end for the assembly matches the start site noted in these documents, while the read-based assembly lacks an interrupted polyA tail (A30(GCATATGACT)A70) that is expected to be present in the mRNA.
 - [docker-bimserver](https://github.com/dalareo/docker-bimserver) - A Docker image with a basic BIMserver install.
@@ -7025,6 +7054,8 @@
 
 ## PHP 
 
+- [as-stats-gui](https://github.com/nidebr/as-stats-gui) - Web GUI for AS-Stats
+- [vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [auto_mail_accounts](https://github.com/PanCakeConnaisseur/auto_mail_accounts) - Automatically create mail accounts for the mail app in Nextcloud
 - [contact-form-backend](https://github.com/pulkitjalan/contact-form-backend) - Simple contact form backend
@@ -7463,6 +7494,8 @@
 
 ## Perl 
 
+- [perl-ip2as](https://github.com/JackSlateur/perl-ip2as) - IP to ASN mapping
+- [AS-Stats](https://github.com/manuelkasper/AS-Stats) - A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records
 - [netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
 - [OshiUpload](https://github.com/somenonymous/OshiUpload) - Anonymous file sharing engine
 - [Znuny](https://github.com/znuny/Znuny) - Znuny LTS is a fork of the ((OTRS)) Community Edition, one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management.
@@ -7555,6 +7588,22 @@
 
 ## Python 
 
+- [python-gitlab](https://github.com/python-gitlab/python-gitlab) - Python wrapper for the GitLab API
+- [jira-dependency-graph](https://github.com/pawelrychlik/jira-dependency-graph) - Graph visualizer for JIRA tickets' dependencies
+- [bloch_sphere](https://github.com/cduck/bloch_sphere) - Visualization tools for the qubit Bloch sphere
+- [bu-prerequisite-tree](https://github.com/ThoAppelsin/bu-prerequisite-tree) - One of my favorites: an application that draws the prerequisite tree of the required courses of a Bogazici University department of your choice.
+- [semantic_parsing_with_IRTGs](https://github.com/evelinacs/semantic_parsing_with_IRTGs) - Experiments of developing an IRTG which simultaneously encodes transformations between phrase structure trees, dependency graphs and semantic graphs.
+- [octopus](https://github.com/aint/octopus) - 🐙 Microservice Architecture Visualization Tool for visualizing and analysing microservice dependency graph.
+- [pydmrs](https://github.com/delph-in/pydmrs) - A library for manipulating DMRS structures
+- [DependencyGraph](https://github.com/hosseinmoein/DependencyGraph) - A very light weight dependency graph for systems with massive calculation complexities or scheduling systems
+- [ansible-roles-graph](https://github.com/sebn/ansible-roles-graph) - 
+- [ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
+- [ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
+- [emerge](https://github.com/glato/emerge) - emerge is a source code analysis and visualization tool that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
+- [jonga](https://github.com/bwohlberg/jonga) - Jonga: Python function call graph visualization
+- [depc](https://github.com/ovh/depc) - QoS Measurement & Dependency Graph Platform
+- [natural-capital-mapping](https://github.com/nismod/natural-capital-mapping) - Natural Capital Mapping
+- [giotto-tda](https://github.com/giotto-ai/giotto-tda) - A high-performance topological machine learning toolbox in Python
 - [project_dependencies_viz](https://github.com/claremacrae/project_dependencies_viz) - A quick demo of how to make interactive svg files to show dependencies between projects
 - [Mesh_Network_Visualisation](https://github.com/gshubham586/Mesh_Network_Visualisation) - Mesh network visualisaion formed through painlessMesh Library using python.
 - [ssh-proxy](https://github.com/ml-tooling/ssh-proxy) - 🐳 Dockerized SSH bastion to proxy SSH connections to arbitrary containers.
@@ -8775,6 +8824,11 @@
 
 ## R 
 
+- [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R
+- [Resume](https://github.com/FrancescaMancini/Resume) - Create a resume with VisualResume
+- [ecoserv_tool](https://github.com/ecoservR/ecoserv_tool) - R package for EcoservR, a toolkit for mapping natural capital and ecosystem services in the UK
+- [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
+- [drake-egg-rap](https://github.com/matt-dray/drake-egg-rap) - :duck::egg: Demo: {drake} for reproducible pipelines with UK government stats reports
 - [db-benchmark](https://github.com/h2oai/db-benchmark) - reproducible benchmark of database-like ops
 - [renv](https://github.com/rstudio/renv) - renv: Project environments for R.
 - [shiny_corona](https://github.com/stefanreifenberg/shiny_corona) - Shiny app for german corona cases
@@ -8814,6 +8868,8 @@
 
 ## Ruby 
 
+- [ansible-viz](https://github.com/aspiers/ansible-viz) - Graph relationships between Ansible playbooks / roles / tasks / vars etc. via static analysis
+- [sidekiq-superworker](https://github.com/socialpandas/sidekiq-superworker) - Directed acyclic graphs of Sidekiq jobs
 - [swo](https://github.com/allysonlister/swo) - The Software Ontology (SWO) is a resource for describing software tools, their types, tasks, versions, licences, provenance and associated data.
 - [ruby-matrix-fs](https://github.com/ananace/ruby-matrix-fs) - A FUSE filesystem for using a Matrix room as a distributed filesystem
 - [photish](https://github.com/henrylawson/photish) - Fast, simple, configurable photo portfolio website generator
@@ -9070,7 +9126,6 @@
 - [feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [Karte_von_morgen_Rails](https://github.com/regenduft/Karte_von_morgen_Rails) - Karte von morgen Api / Backend
 - [irc-jabber-mumble-bridge](https://github.com/whitekiba/irc-jabber-mumble-bridge) - IRC-Jabber-Mumble-Telegram-Teamspeak Bridge.
-- [synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
 - [synapse](https://github.com/airbnb/synapse) - A transparent service discovery framework for connecting an SOA
 - [nerve](https://github.com/airbnb/nerve) - A service registration daemon that performs health checks; companion to airbnb/synapse
 - [geocoder](https://github.com/alexreisner/geocoder) - Complete Ruby geocoding solution.
@@ -9422,6 +9477,7 @@
 
 ## Scala 
 
+- [v3-awas](https://github.com/sireum/v3-awas) - Awas: A tool for model navigation, dependency analysis and risk analysis of component based systems
 - [flockdb](https://github.com/twitter-archive/flockdb) - A distributed, fault-tolerant graph database
 - [enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
@@ -9469,6 +9525,9 @@
 
 ## Shell 
 
+- [course-planning](https://github.com/informing/course-planning) - Course Dependency Chart (CPSC)
+- [elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack
+- [wrtbwmon](https://github.com/pyrovski/wrtbwmon) - Linux bandwidth monitor with per-device tracking
 - [docker-ssh](https://github.com/henrik-muehe/docker-ssh) - SSH into all local Docker containers by name.
 - [docker-jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - Jump-box shell for Docker - secure remote ssh into containers with ACL
 - [rdocker](https://github.com/dvddarias/rdocker) - Securely control a remote docker daemon CLI using ssh forwarding, no SSL setup needed.
@@ -10194,6 +10253,10 @@
 
 ## TypeScript 
 
+- [topo-kahn](https://github.com/liitfr/topo-kahn) - Topological sort (Kahn algorithm) an oriented graph containing any kind of node, using ES6 Maps & Sets.
+- [website-dependency-graph](https://github.com/cvrajeesh/website-dependency-graph) - A command-line tool to generate assets dependency graph from static website files.
+- [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) - Dynamic rollout visualization library.
+- [code-dependency](https://github.com/Himenon/code-dependency) - A work efficiency tool for visualizing code dependencies on a browser.
 - [synthetic-monitoring-app](https://github.com/grafana/synthetic-monitoring-app) - Synthetic Monitoring frontend application
 - [linux-store-frontend](https://github.com/flathub/linux-store-frontend) - A web application to browse and install applications present in Flatpak repositories. Powers https://www.flathub.org
 - [dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
