@@ -7113,6 +7113,7 @@
 
 ## PHP 
 
+- [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
 - [as-stats-gui](https://github.com/nidebr/as-stats-gui) - Web GUI for AS-Stats
 - [vnstat-dashboard](https://github.com/alexandermarston/vnstat-dashboard) - A responsive web UI to view network traffic statistics provided by vnStat (with support for version 2.x)
 - [moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
@@ -7647,6 +7648,8 @@
 
 ## Python 
 
+- [wordpress-docker-updater](https://github.com/hmg-dev/wordpress-docker-updater) - 
+- [kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [operator](https://github.com/canonical/operator) - Pure Python operator framework.
 - [pdfx](https://github.com/metachris/pdfx) - Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
