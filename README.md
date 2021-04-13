@@ -1387,6 +1387,16 @@
 
 ## Go 
 
+- [oidc-authservice](https://github.com/arrikto/oidc-authservice) - This is a fork/refactoring of the ajmyyra/ambassador-auth-oidc project
+- [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
+- [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+- [k3d](https://github.com/rancher/k3d) - Little helper to run Rancher Lab's k3s in Docker
+- [kim](https://github.com/rancher/kim) - In ur kubernetes, buildin ur imagez
+- [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package
+- [nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd
+- [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
+- [kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
+- [k3c](https://github.com/rancher/k3c) - Lightweight local container engine for container development
 - [docker-ipv6nat](https://github.com/robbertkl/docker-ipv6nat) - Extend Docker with IPv6 NAT, similar to IPv4
 - [operator-registry](https://github.com/operator-framework/operator-registry) - Operator Registry runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.
 - [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
@@ -1922,6 +1932,9 @@
 
 ## HTML 
 
+- [pubphoto](https://github.com/stuartlangridge/pubphoto) - A simple way to exchange just-taken photos in the pub with people you don't know
+- [boot2podman.github.io](https://github.com/boot2podman/boot2podman.github.io) - 
+- [website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
 - [focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [openapi.tools](https://github.com/apisyouwonthate/openapi.tools) - A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing
 - [peering](https://github.com/neptune-networks/peering) - A YAML to BIRD configuration generator for transit networks.
@@ -5993,6 +6006,7 @@
 
 ## Jsonnet 
 
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 
 ## Julia 
@@ -6135,6 +6149,7 @@
 
 ## Makefile 
 
+- [spec](https://github.com/container-storage-interface/spec) - Container Storage Interface (CSI) Specification.
 - [CCNx_Distillery](https://github.com/parc-ccnx-archive/CCNx_Distillery) - The CCNx Distillery software distribution
 - [pato](https://github.com/pato-ontology/pato) - PATO - the Phenotype And Trait Ontology
 - [sdgio](https://github.com/SDG-InterfaceOntology/sdgio) - The repository for the Sustainable Development Goals Interface Ontology
@@ -7632,6 +7647,7 @@
 
 ## Python 
 
+- [operator](https://github.com/canonical/operator) - Pure Python operator framework.
 - [pdfx](https://github.com/metachris/pdfx) - Extract text, metadata and references (pdf, url, doi, arxiv) from PDF. Optionally download all referenced PDFs.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate.
 - [layout-parser](https://github.com/Layout-Parser/layout-parser) - A Python Library for Document Layout Understanding
@@ -9598,6 +9614,8 @@
 
 ## Shell 
 
+- [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
+- [klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper
 - [qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [decode-os](https://github.com/DECODEproject/decode-os) - The DECODE OS for private, distributed P2P computing
 - [clevis-unlock](https://github.com/jmarcelletti/clevis-unlock) - A better way to unlock non-root LUKS volumes that are bound by Clevis
