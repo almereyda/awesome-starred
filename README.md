@@ -1387,6 +1387,26 @@
 
 ## Go 
 
+- [rakkess](https://github.com/corneliusweig/rakkess) - Review Access - kubectl plugin to show an access matrix for k8s server resources
+- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has RBAC permissions to perform actions on different resources in Kubernetes
+- [kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - This plugin gets the subject name using the effective kubeconfig
+- [kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook) - :eyes: :bangbang: This projects aims to visualize critical parts of the admission webhook configuration resource
+- [kubectl-view-serviceaccount-kubeconfig-plugin](https://github.com/superbrothers/kubectl-view-serviceaccount-kubeconfig-plugin) - A kubectl plugin that show a kubeconfig to access the apiserver with a specified serviceaccount.
+- [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - Kubernetes CLI plugin to decode Kubernetes secrets
+- [kubectl-unused-volumes](https://github.com/dirathea/kubectl-unused-volumes) - List all unused volumes on your cluster
+- [kubectl-topology](https://github.com/bmcustodio/kubectl-topology) - A 'kubectl' plugin that provides insight into the topology of a Kubernetes cluster.
+- [popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer
+- [troubleshoot](https://github.com/replicatedhq/troubleshoot) - Preflight Checks and Support Bundles Framework for Kubernetes Applications
+- [kubectl-operator](https://github.com/operator-framework/kubectl-operator) - Manage Kubernetes Operators from the command line
+- [kubectl-multinet](https://github.com/k8snetworkplumbingwg/kubectl-multinet) - This is a kubectl plugin which outputs Pods' network-status of multi-net-spec,
+- [operator](https://github.com/minio/operator) - MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
+- [kudo](https://github.com/kudobuilder/kudo) - Kubernetes Universal Declarative Operator (KUDO)
+- [kubectl-flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes
+- [ketall](https://github.com/corneliusweig/ketall) - Like `kubectl get all`, but get really all resources
+- [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
+- [kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
+- [k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
 - [oidc-authservice](https://github.com/arrikto/oidc-authservice) - This is a fork/refactoring of the ajmyyra/ambassador-auth-oidc project
 - [mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection in a timeseries database
 - [cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
@@ -1440,7 +1460,7 @@
 - [hetzner-lb-acmedns](https://github.com/pirsch-analytics/hetzner-lb-acmedns) - A service to automatically update Letsencrypt SSL certificates on the Hetzner load-balancer using joohoi/acme-dns.
 - [provider-rook](https://github.com/crossplane/provider-rook) - Crossplane Rook infrastructure provider
 - [crossplane](https://github.com/crossplane/crossplane) - Manage any infrastructure your applications need directly from Kubernetes
-- [kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Engine Based on Kubernetes and OAM
+- [kubevela](https://github.com/oam-dev/kubevela) - A Modern Application Deployment System Based on Kubernetes, CUE, Helm and OAM.
 - [lieu](https://github.com/cblgh/lieu) - community search engine
 - [cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [docxy](https://github.com/docxy/docxy) - The CLI for Docxy.
@@ -9313,6 +9333,7 @@
 
 ## Rust 
 
+- [kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X requested, limit, allocatable,...).
 - [doh](https://github.com/thecoshman/doh) - D'Oh - Directories Over HTTP
 - [libsignal-client](https://github.com/signalapp/libsignal-client) - 
 - [Mayastor](https://github.com/openebs/Mayastor) - A cloud native declarative data plane in containers for containers
@@ -9617,6 +9638,11 @@
 
 ## Shell 
 
+- [kubectl-view-utilization](https://github.com/etopeter/kubectl-view-utilization) - kubectl plugin to show cluster CPU and Memory requests utilization
+- [kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
+- [operators](https://github.com/kudobuilder/operators) - Collection of Kubernetes Operators built with KUDO.
+- [konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files
+- [kubectl-gopass](https://github.com/gopasspw/kubectl-gopass) - Plugin for kubectl to support reading and writing secrets directly from/to gopass
 - [kubernetes-lxd](https://github.com/corneliusweig/kubernetes-lxd) - A step-by-step guide to get kubernetes running inside an LXC container
 - [klipper-lb](https://github.com/k3s-io/klipper-lb) - Embedded service load balancer in Klipper
 - [qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
@@ -10747,6 +10773,7 @@
 
 ## Vue 
 
+- [rbac-view](https://github.com/jasonrichardsmith/rbac-view) - Visualize Kubernetes RBAC rules
 - [airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern UI for Airsonic / Subsonic
 - [ess-table](https://github.com/scenaristeur/ess-table) - Ess ( Economie Sociale & Solidaire) + Solid + Airtable : Airtable like webapp based on Solid Specifications for Social & Solidarity Economy. ess-table can link table data from many Ess organization
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Fresh way to create simple or complex forms – without programming!
