@@ -206,7 +206,6 @@
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
 - [martymac/fpart](https://github.com/martymac/fpart) - Sort files and pack them into partitions
 - [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
-- [victorvde/jpeg2png](https://github.com/victorvde/jpeg2png) - silky smooth JPEG decoding
 - [Orc/levee](https://github.com/Orc/levee) - A tiny, fast, and someone erratic vi clone
 - [eafer/rdrview](https://github.com/eafer/rdrview) - Firefox Reader View as a command line tool
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
@@ -408,6 +407,7 @@
 
 ## C# # 
 
+- [iqmeta/tplink-smartplug](https://github.com/iqmeta/tplink-smartplug) - C# sample for TP-Link HS100 and HS110 WiFi smart plug
 - [Dijji/FileMeta](https://github.com/Dijji/FileMeta) - Enable Explorer in Vista, Windows 7 and later to see, edit and search on tags and other metadata for any file type
 - [0xFireball/PenguinUpload](https://github.com/0xFireball/PenguinUpload) - A self-hostable, fully featured file hosting service
 - [LaggAt/ActivityWatchVS](https://github.com/LaggAt/ActivityWatchVS) - Track your coding - ActivityWatch.net plugin for Visual Studio
@@ -2891,6 +2891,8 @@
 
 ## JavaScript 
 
+- [robertvorthman/smart-plug-power-monitor](https://github.com/robertvorthman/smart-plug-power-monitor) - Monitors the power usage of a smart switch to track an appliances start and stop time
+- [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
 - [camptocamp/the-rolling-dutchman](https://github.com/camptocamp/the-rolling-dutchman) - Master Project of Nataniel Hofer: Visualizing public transports in the Netherlands (GTFS to vector tiles)
 - [geobretagne/mviewer](https://github.com/geobretagne/mviewer) - Visualiseur géographique thématique basé sur OpenLayers 6.3.1 et Bootstrap 3.3.6
 - [geobretagne/mviewerstudio](https://github.com/geobretagne/mviewerstudio) - mviewer generator
@@ -6363,6 +6365,7 @@
 - [versioned/versioned-doc](https://github.com/versioned/versioned-doc) - Versioned Documentation
 - [sindresorhus/ama](https://github.com/sindresorhus/ama) - [[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!
 - [mapschool/course](https://github.com/mapschool/course) - An introduction to the art and science of modern cartography
+- [mapschool/course](https://github.com/mapschool/course) - An introduction to the art and science of modern cartography
 - [researchspace/researchspace-instance-configurations](https://github.com/researchspace/researchspace-instance-configurations) - A set of configurations required for a ResearchSpace instance.
 - [CLARIAH/awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) - A curated list of ontologies for Digital Humanities
 - [ncarboni/awesome-GLAM-semweb](https://github.com/ncarboni/awesome-GLAM-semweb) - A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
@@ -7697,6 +7700,10 @@
 
 ## Python 
 
+- [vrachieru/tplink-smartplug-api](https://github.com/vrachieru/tplink-smartplug-api) - TP-Link HS1xx smart plug API wrapper.
+- [softScheck/tplink-smartplug](https://github.com/softScheck/tplink-smartplug) - TP-Link WiFi SmartPlug Client and Wireshark Dissector
+- [flavio-fernandes/mqtt2kasa](https://github.com/flavio-fernandes/mqtt2kasa) - Python-based project that provides wrapper to python-kasa for MQTT access
+- [python-kasa/python-kasa](https://github.com/python-kasa/python-kasa) - 🏠🤖 Python API for TP-Link Kasa Smarthome products
 - [sinnwerkstatt/knopfler](https://github.com/sinnwerkstatt/knopfler) - Knopfler is a Matrix bot. Currently it passes Prometheus' alertmanager alerts to a room
 - [sinnwerkstatt/runrestic](https://github.com/sinnwerkstatt/runrestic) - A wrapper script for Restic backup software that inits, creates, prunes and checks backups
 - [MapServer/basemaps](https://github.com/MapServer/basemaps) - Scripts to generate MapServer mapfiles based on OpenStreetMap data. Please submit pull requests to the 'main' branch.
@@ -9683,6 +9690,7 @@
 
 ## Shell 
 
+- [nneves/tplink-smartplug-tig](https://github.com/nneves/tplink-smartplug-tig) - TP-Link HS110 Smart Wi-Fi Plug Energy Monitoring System using TIG Stack [Telegraf-InfluxDB-Grafana]
 - [zfsnap/zfsnap](https://github.com/zfsnap/zfsnap) - A portable, performant script to make rolling ZFS snapshots easy. (https://github.com/zfsnap/zfsnap/issues/109)
 - [camptocamp/docker-zfsnap](https://github.com/camptocamp/docker-zfsnap) - The zfsnap tool packaged inside an alpine container
 - [hacker-coop/hacker-eg-siebdruck](https://github.com/hacker-coop/hacker-eg-siebdruck) - Siebdruck Motive für die Hacker eG
@@ -10364,6 +10372,7 @@
 
 ## Swift 
 
+- [tnmendes/watt](https://github.com/tnmendes/watt) - iOS App for TP-Link Devices (Kasa Smart & Tapo) | Support page for issues related to Watt iOS App
 - [criticalmaps/criticalmaps-ios](https://github.com/criticalmaps/criticalmaps-ios) - 🚲 Critical Maps iOS App
 - [neilalexander/seaglass](https://github.com/neilalexander/seaglass) - A truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support
 - [ethanal/Nimbus](https://github.com/ethanal/Nimbus) - Not maintained. A private file sharer and URL shortener (like Cloudapp and TinyURL).
@@ -10435,6 +10444,7 @@
 
 ## TypeScript 
 
+- [plasticrake/tplink-smarthome-api](https://github.com/plasticrake/tplink-smarthome-api) - TP-Link Smarthome WiFi API
 - [kubenav/kubenav](https://github.com/kubenav/kubenav) - kubenav is the navigator for your Kubernetes clusters right in your pocket.
 - [TheDavidDelta/lingva-translate](https://github.com/TheDavidDelta/lingva-translate) - Alternative front-end for Google Translate
 - [ledgerloops/snap-solid](https://github.com/ledgerloops/snap-solid) - SNAP in the browser, on top of Solid
