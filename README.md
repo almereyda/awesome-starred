@@ -112,6 +112,7 @@
   - [TypeScript](#typescript)
   - [VCL](#vcl)
   - [Vala](#vala)
+  - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
@@ -172,6 +173,7 @@
 
 ## C 
 
+- [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [luigirizzo/netmap](https://github.com/luigirizzo/netmap) - Automatically exported from code.google.com/p/netmap
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [guedou/TS-453Be](https://github.com/guedou/TS-453Be) - Ubuntu on QNAP TS-453Be
@@ -666,6 +668,7 @@
 
 ## CSS 
 
+- [gbdev/gbadoc](https://github.com/gbdev/gbadoc) - Community initiated GBA Technical documentation effort
 - [zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme) - A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
 - [DTrejo/readmetree](https://github.com/DTrejo/readmetree) - readmetree — display all the readme's in your current project (especially those in node_modules/*/* folders!). Great for offline coding
@@ -3022,6 +3025,7 @@
 
 ## JavaScript 
 
+- [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [rahul-thakoor/mdBook-offline-support](https://github.com/rahul-thakoor/mdBook-offline-support) - A demo repo with an mdBook that works offline
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
@@ -6564,6 +6568,7 @@
 
 ## Others 
 
+- [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [softprops/awesome-mdbook](https://github.com/softprops/awesome-mdbook) - 🕶️🗃️ a card catalog of mdbooks for your reading curiosity
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - 
 - [etalab/user-research](https://github.com/etalab/user-research) - 🎤 Entretiens utilisateurs pour la compréhension des usages 🤓 réduction des frictions entre utilisateurs et données.
@@ -9797,6 +9802,13 @@
 
 ## Rust 
 
+- [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
+- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
+- [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+- [leroycep/mdproof](https://github.com/leroycep/mdproof) - A standalone markdown to PDF converter
+- [killercup/trpl-ebook](https://github.com/killercup/trpl-ebook) - UNMAINTAINED
+- [cetra3/mdcollate](https://github.com/cetra3/mdcollate) - Collates markdown into one file
+- [Ruin0x11/mdBook](https://github.com/Ruin0x11/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [inner-product/mdbook-scala-wrapper](https://github.com/inner-product/mdbook-scala-wrapper) - A MdBook preprocessor to remove Scala wrapper objects from Scala code blocks
 - [jacob-pro/mdbook-bibfile-referencing](https://github.com/jacob-pro/mdbook-bibfile-referencing) - An mdBook preprocessor to add bibfile referencing to each page
 - [lotabout/mdbook-fix-cjk-spacing](https://github.com/lotabout/mdbook-fix-cjk-spacing) - mdbook preprocessor that removes extra space rendered for Chinese lines.
@@ -11367,6 +11379,10 @@
 - [solus-project/budgie-desktop](https://github.com/solus-project/budgie-desktop) - I Tawt I Taw A Purdy Desktop
 - [ivonunes/birdie](https://github.com/ivonunes/birdie) - Birdie is a beautiful & fast Twitter client designed for elementary OS
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
+
+## Vim Snippet 
+
+- [rizinorg/book](https://github.com/rizinorg/book) - An official book about Rizin
 
 ## Vim script 
 
