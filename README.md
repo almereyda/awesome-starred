@@ -666,6 +666,7 @@
 
 ## CSS 
 
+- [zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme) - A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
 - [DTrejo/readmetree](https://github.com/DTrejo/readmetree) - readmetree — display all the readme's in your current project (especially those in node_modules/*/* folders!). Great for offline coding
 - [datafoodconsortium/dfc-prototype-V3](https://github.com/datafoodconsortium/dfc-prototype-V3) - 
@@ -1157,7 +1158,6 @@
 - [flosse/sloc](https://github.com/flosse/sloc) - simple tool to count SLOC (source lines of code)
 - [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 - [chainyjs/chainy](https://github.com/chainyjs/chainy) - The chainy core + autoloader plugin
-- [chainyjs/chainy](https://github.com/chainyjs/chainy) - The chainy core + autoloader plugin
 - [rorhug/ng-drum](https://github.com/rorhug/ng-drum) - AngularJS drum machine
 - [github/hubot-scripts](https://github.com/github/hubot-scripts) - DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
 - [jdleesmiller/jotgit](https://github.com/jdleesmiller/jotgit) - Git-backed real time collaborative editor built with meteor.
@@ -1231,6 +1231,7 @@
 
 ## Dockerfile 
 
+- [Michael-F-Bryan/mdbook-docker-image](https://github.com/Michael-F-Bryan/mdbook-docker-image) - A docker image with `mdbook` and common plugins.
 - [fuerst/etherpad-docker](https://github.com/fuerst/etherpad-docker) - A dockerfile for etherpad
 - [sand-head/deno-docker-arm64](https://github.com/sand-head/deno-docker-arm64) - An ARM64 Docker image for Deno
 - [linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) - A Docker container for the BookStack documentation wiki
@@ -3021,6 +3022,7 @@
 
 ## JavaScript 
 
+- [rahul-thakoor/mdBook-offline-support](https://github.com/rahul-thakoor/mdBook-offline-support) - A demo repo with an mdBook that works offline
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [xCss/Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 - [muan/emojilib](https://github.com/muan/emojilib) - Emoji keyword library.
@@ -6492,7 +6494,6 @@
 - [joshuacox/ansibleplaybook-rancher](https://github.com/joshuacox/ansibleplaybook-rancher) - Ansible playbook to keep a Rancher container running on a docker host
 - [booktree/booktree](https://github.com/booktree/booktree) - UPDATE: I've decided that this project is not useful enough, Git for local editing is not the bottleneck. We must focus on ranking algorithms instead: https://github.com/cirosantilli/write-free-science-books-to-get-famous-website
 - [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
-- [seebi/dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 
 ## Markdown 
 
@@ -8011,6 +8012,7 @@
 
 ## Python 
 
+- [ratsclub/mdbook-preprocessor](https://github.com/ratsclub/mdbook-preprocessor) - Personal mdbook preprocessor.
 - [nicholasphair/emoji-shortname](https://github.com/nicholasphair/emoji-shortname) - 
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
@@ -9249,7 +9251,6 @@
 - [ClusterHQ/flocker](https://github.com/ClusterHQ/flocker) - Container data volume manager for your Dockerized application
 - [paimpozhil/docker-volume-backup](https://github.com/paimpozhil/docker-volume-backup) - a python script to backup/restore the docker data containers / volumes
 - [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
-- [cozy/cozy-setup](https://github.com/cozy/cozy-setup) - Cozy installation files and information
 - [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec) - CommonMark spec, with reference implementations in C and JavaScript
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [Randati/fc00.org](https://github.com/Randati/fc00.org) - 
@@ -9276,7 +9277,6 @@
 - [django-wiki/django-wiki](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.
 - [1flow/1flow](https://github.com/1flow/1flow) - 1flow — libre information platform
 - [interstar/ThoughtStorms](https://github.com/interstar/ThoughtStorms) - Project ThoughtStorms
-- [interstar/ThoughtStorms](https://github.com/interstar/ThoughtStorms) - Project ThoughtStorms
 - [umap-project/django-leaflet-storage](https://github.com/umap-project/django-leaflet-storage) - ARCHIVED! Now merged into umap itself. Create collaborative maps on top of Geodjango and Leaflet
 - [snarfed/bridgy](https://github.com/snarfed/bridgy) - 📣 Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more...
 - [docker-archive/docker-registry](https://github.com/docker-archive/docker-registry) - This is **DEPRECATED**! Please go to https://github.com/docker/distribution
@@ -9288,7 +9288,6 @@
 - [PMEAL/OpenPNM](https://github.com/PMEAL/OpenPNM) - A Python package for performing pore network modeling of porous media
 - [regardscitoyens/the-law-factory-parser](https://github.com/regardscitoyens/the-law-factory-parser) - Data generator for the-law-factory project
 - [ceteri/slinky](https://github.com/ceteri/slinky) - Slinky, a high-performance web crawler / text analytics in Python, Redis, Hadoop, R, Gephi
-- [koniu/recoll-webui](https://github.com/koniu/recoll-webui) - web interface for recoll desktop search
 - [koniu/recoll-webui](https://github.com/koniu/recoll-webui) - web interface for recoll desktop search
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
@@ -9798,6 +9797,24 @@
 
 ## Rust 
 
+- [inner-product/mdbook-scala-wrapper](https://github.com/inner-product/mdbook-scala-wrapper) - A MdBook preprocessor to remove Scala wrapper objects from Scala code blocks
+- [jacob-pro/mdbook-bibfile-referencing](https://github.com/jacob-pro/mdbook-bibfile-referencing) - An mdBook preprocessor to add bibfile referencing to each page
+- [lotabout/mdbook-fix-cjk-spacing](https://github.com/lotabout/mdbook-fix-cjk-spacing) - mdbook preprocessor that removes extra space rendered for Chinese lines.
+- [younata/mdbook-section-validator](https://github.com/younata/mdbook-section-validator) - mdBook preprocessor for defining conditionally valid sections
+- [younata/mdbook-chapter-path](https://github.com/younata/mdbook-chapter-path) - mdbook preprocessor to provide paths to chapters.
+- [gjk-cat/cat-prep](https://github.com/gjk-cat/cat-prep) - mdbook preprocessor for gjk.cat
+- [Matthewacon/mdbook-nop-preprocessor](https://github.com/Matthewacon/mdbook-nop-preprocessor) - Simple nop mdbook chapter preprocessor
+- [hamaluik/mdbook-puml](https://github.com/hamaluik/mdbook-puml) - A simple mdbook preprocessor for rendering inline PlantUML code blocks into inline SVG
+- [avitex/mdbook-tera](https://github.com/avitex/mdbook-tera) - Tera preprocessor for mdBook
+- [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time.
+- [JakubKoralewski/mdbook-fluent](https://github.com/JakubKoralewski/mdbook-fluent) - mdBook preprocessor for variable interpolation using the Fluent language
+- [blazood/mdbook-mark](https://github.com/blazood/mdbook-mark) - this is a mdbook preprocessor which can render ==== to &lt;mark&gt;&lt;/mark&gt;
+- [azarmadr/mdbook-foldable-faq](https://github.com/azarmadr/mdbook-foldable-faq) - Mdbook preprocessor to fold faq, with custom marker
+- [younata/mdbook-api](https://github.com/younata/mdbook-api) - Backend for generating a backend for an mdBook site.
+- [Michael-F-Bryan/mdbook-test](https://github.com/Michael-F-Bryan/mdbook-test) - An experimental backend for testing an mdbook document
+- [Michael-F-Bryan/mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub) - An experimental mdbook backend for creating EPUB documents.
+- [lbeckman314/mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.
+- [mdzk-rs/mdbook-backlinks](https://github.com/mdzk-rs/mdbook-backlinks) - Automatically generated backlinks for mdBook
 - [rossmacarthur/emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup and iterate over emoji names, shortcodes, and groups
 - [richardanaya/emoji-rs](https://github.com/richardanaya/emoji-rs) - 
 - [daniel5151/compressed-emoji-shortcodes](https://github.com/daniel5151/compressed-emoji-shortcodes) - A Quest to Find a Highly Compressed Emoji :shortcode: Lookup Function
@@ -10935,6 +10952,9 @@
 
 ## TypeScript 
 
+- [pnann/mdbook-nodejs-preprocessor-builder](https://github.com/pnann/mdbook-nodejs-preprocessor-builder) - A framework for building mdBook preprocessors with NodeJS. Supports MdBook 0.3.x
+- [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor) - A preprocessor for utilizing an MDBook as slides for a presentation.
+- [jontze/action-mdbook](https://github.com/jontze/action-mdbook) - Github action to setup mdbook and optional the mdbook-linkcheck plugin
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - 
