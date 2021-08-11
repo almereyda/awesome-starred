@@ -668,6 +668,8 @@
 
 ## CSS 
 
+- [anjackson/zombse](https://github.com/anjackson/zombse) - The Zombie Stack Exchange That Just Won't Die
+- [ipfs/ipfs-cluster-website](https://github.com/ipfs/ipfs-cluster-website) - The IPFS Cluster website
 - [gbdev/gbadoc](https://github.com/gbdev/gbadoc) - Community initiated GBA Technical documentation effort
 - [zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme) - A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
@@ -1187,6 +1189,7 @@
 
 ## Common Lisp 
 
+- [kronusaturn/lw2-viewer](https://github.com/kronusaturn/lw2-viewer) - An alternative frontend for LessWrong 2.0
 - [information-artifact-ontology/IAO](https://github.com/information-artifact-ontology/IAO) - information artifact ontology
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the Internet on your terms.
 - [Shinmera/flow](https://github.com/Shinmera/flow) - Tools for the representation of graphs and flowcharts
@@ -1234,6 +1237,7 @@
 
 ## Dockerfile 
 
+- [maxolasersquad/mygpo-docker](https://github.com/maxolasersquad/mygpo-docker) - docker-compose files to build a local gpodder.net server
 - [Michael-F-Bryan/mdbook-docker-image](https://github.com/Michael-F-Bryan/mdbook-docker-image) - A docker image with `mdbook` and common plugins.
 - [fuerst/etherpad-docker](https://github.com/fuerst/etherpad-docker) - A dockerfile for etherpad
 - [sand-head/deno-docker-arm64](https://github.com/sand-head/deno-docker-arm64) - An ARM64 Docker image for Deno
@@ -1435,6 +1439,8 @@
 
 ## Go 
 
+- [MaxvdKolk/vimwikigraph](https://github.com/MaxvdKolk/vimwikigraph) - vimwikigraph - visualise vimwiki links using the graphviz dot language
+- [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
 - [zerotier/zerotier-systemd-manager](https://github.com/zerotier/zerotier-systemd-manager) - 
 - [fasmide/remotemoe](https://github.com/fasmide/remotemoe) - tunnels to localhost and other ssh plumbing
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
@@ -2048,6 +2054,8 @@
 
 ## HTML 
 
+- [digipres/digipres.github.io](https://github.com/digipres/digipres.github.io) - Auto-generated static web site digipres.org
+- [OneGraph/oneblog](https://github.com/OneGraph/oneblog) - Build a blog backed by GitHub issues
 - [janlelis/character.construction](https://github.com/janlelis/character.construction) - Notable characters, codepoints, and resources
 - [structurizr/structurizr.org](https://github.com/structurizr/structurizr.org) - The website at structurizr.org
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
@@ -2708,6 +2716,11 @@
 
 ## Haskell 
 
+- [srid/orgself](https://github.com/srid/orgself) - Exploring calendar outlining
+- [jgm/commonmark-hs](https://github.com/jgm/commonmark-hs) - Pure Haskell commonmark parsing library, designed to be flexible and extensible
+- [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
+- [srid/emanote.obelisk](https://github.com/srid/emanote.obelisk) - Incremental fast build engine cum unique navigation UI (with search) for plain-text notes, optimized for private notebooks.
+- [srid/emanote](https://github.com/srid/emanote) - WIP: Spiritual successor to neuron, based on Ema.
 - [cotoami/cotoami-spec](https://github.com/cotoami/cotoami-spec) - An executable specification of Cotoami written in Haskell.
 - [JacquesCarette/Drasil](https://github.com/JacquesCarette/Drasil) - Generate all the things (focusing on research software)
 - [sharkdp/yinsh](https://github.com/sharkdp/yinsh) - An HTML5 version of the board game Yinsh
@@ -3025,6 +3038,12 @@
 
 ## JavaScript 
 
+- [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
+- [adzialocha/gif-stream](https://github.com/adzialocha/gif-stream) - Client: Take pictures from peoples cameras in intervals, make a .gif, upload it to S3, make a massive collage out of this
+- [adzialocha/hoffnung3000](https://github.com/adzialocha/hoffnung3000) - Platform for decentralized, anonymized, self-curated festivals
+- [VisualDataWeb/LD-VOWL](https://github.com/VisualDataWeb/LD-VOWL) - Visualizing Linked Data endpoints
+- [metaclip/vocabularies](https://github.com/metaclip/vocabularies) - The METACLIP vocabularies repo
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 - [rahul-thakoor/mdBook-offline-support](https://github.com/rahul-thakoor/mdBook-offline-support) - A demo repo with an mdBook that works offline
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -6295,6 +6314,9 @@
 
 ## Jupyter Notebook 
 
+- [SantanderMetGroup/climate4R](https://github.com/SantanderMetGroup/climate4R) - An R Framework for Climate Data Access and Post-processing
+- [SantanderMetGroup/ATLAS](https://github.com/SantanderMetGroup/ATLAS) - Datasets, code and virtual workspace for the Climate Change ATLAS
+- [IPCC-WG1/Atlas](https://github.com/IPCC-WG1/Atlas) - Repository supporting the implementation of FAIR principles in the IPCC-WGI Atlas
 - [ashishrana160796/cautious-integration-analysis](https://github.com/ashishrana160796/cautious-integration-analysis) - Some dissection analysis of integration of multiple tools
 - [jupyterhub/mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [sylabs/examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
@@ -6384,6 +6406,7 @@
 
 ## Kotlin 
 
+- [traccar/traccar-sms-gateway](https://github.com/traccar/traccar-sms-gateway) - Traccar SMS Gateway for Android
 - [jitsi/jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge) - Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server).
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [m3sv/PlainUPnP](https://github.com/m3sv/PlainUPnP) - PlainUPnP is an upnp control point application for android.
@@ -6568,6 +6591,8 @@
 
 ## Others 
 
+- [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
+- [p2panda/design-document](https://github.com/p2panda/design-document) - Architectural specification and design of p2:panda_face:
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
 - [softprops/awesome-mdbook](https://github.com/softprops/awesome-mdbook) - 🕶️🗃️ a card catalog of mdbooks for your reading curiosity
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - 
@@ -8017,6 +8042,9 @@
 
 ## Python 
 
+- [joashxu/zetteltools](https://github.com/joashxu/zetteltools) - 
+- [gpodder/mygpo](https://github.com/gpodder/mygpo) - The gpodder.net webservice
+- [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
 - [ratsclub/mdbook-preprocessor](https://github.com/ratsclub/mdbook-preprocessor) - Personal mdbook preprocessor.
 - [nicholasphair/emoji-shortname](https://github.com/nicholasphair/emoji-shortname) - 
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
@@ -9802,6 +9830,8 @@
 
 ## Rust 
 
+- [pietgeursen/bamboo-rs](https://github.com/pietgeursen/bamboo-rs) - 
+- [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [lise-henry/crowbook](https://github.com/lise-henry/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
@@ -10174,6 +10204,7 @@
 
 ## Shell 
 
+- [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
 - [AMWA-TV/nmos](https://github.com/AMWA-TV/nmos) - Networked Media Open Specifications: Introduction
 - [tinyfm/sandbox](https://github.com/tinyfm/sandbox) - tinyfm sandbox image for development purpose.
@@ -10907,6 +10938,7 @@
 
 ## TeX 
 
+- [AljoschaMeyer/bamboo](https://github.com/AljoschaMeyer/bamboo) - 
 - [dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining) - Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson
 - [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv) - :necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!
 - [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv) - Latex CV template built with Font Awesome.
@@ -10964,6 +10996,7 @@
 
 ## TypeScript 
 
+- [p2panda/beep-boop](https://github.com/p2panda/beep-boop) - Experimental p2panda demo client
 - [pnann/mdbook-nodejs-preprocessor-builder](https://github.com/pnann/mdbook-nodejs-preprocessor-builder) - A framework for building mdBook preprocessors with NodeJS. Supports MdBook 0.3.x
 - [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor) - A preprocessor for utilizing an MDBook as slides for a presentation.
 - [jontze/action-mdbook](https://github.com/jontze/action-mdbook) - Github action to setup mdbook and optional the mdbook-linkcheck plugin
