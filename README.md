@@ -430,6 +430,7 @@
 
 ## C# # 
 
+- [Webreaper/Damselfly](https://github.com/Webreaper/Damselfly) - Damselfly is a server-based Digital Asset Management system for photographs. The goal of Damselfly is to index an extremely large collection of images, and allow easy search and retrieval of those images, using metadata such as the IPTC keyword tags, as well as the folder and file names. Damselfly includes support for object/face detection, and face-recognition.
 - [gaxar77/SimpleOutline](https://github.com/gaxar77/SimpleOutline) - An application for making and editing outlines for prose compositions.
 - [stefffdev/NubeSync](https://github.com/stefffdev/NubeSync) - Build fast and robust offline data sync for your app.
 - [iqmeta/tplink-smartplug](https://github.com/iqmeta/tplink-smartplug) - C# sample for TP-Link HS100 and HS110 WiFi smart plug
@@ -2054,6 +2055,7 @@
 
 ## HTML 
 
+- [mschmidtkorth/logseq-msk-docs](https://github.com/mschmidtkorth/logseq-msk-docs) - Unofficial Logseq documentation.
 - [digipres/digipres.github.io](https://github.com/digipres/digipres.github.io) - Auto-generated static web site digipres.org
 - [OneGraph/oneblog](https://github.com/OneGraph/oneblog) - Build a blog backed by GitHub issues
 - [janlelis/character.construction](https://github.com/janlelis/character.construction) - Notable characters, codepoints, and resources
@@ -3038,6 +3040,8 @@
 
 ## JavaScript 
 
+- [cannibalox/logtools](https://github.com/cannibalox/logtools) - tools and plugins for logseq
+- [DenaroCF/Highlighters-for-Logseq](https://github.com/DenaroCF/Highlighters-for-Logseq) - More highlight colors in Logseq
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [adzialocha/gif-stream](https://github.com/adzialocha/gif-stream) - Client: Take pictures from peoples cameras in intervals, make a .gif, upload it to S3, make a massive collage out of this
@@ -6477,6 +6481,7 @@
 
 ## Makefile 
 
+- [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [o2r-project/reference-implementation](https://github.com/o2r-project/reference-implementation) - A catch-all repository to run all o2r microservices and the user interface platform
 - [o2r-project/architecture](https://github.com/o2r-project/architecture) - Architecture and overarching documentation for o2r microservices
 - [flathub/org.gaphor.Gaphor](https://github.com/flathub/org.gaphor.Gaphor) - 
@@ -6591,6 +6596,7 @@
 
 ## Others 
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [p2panda/design-document](https://github.com/p2panda/design-document) - Architectural specification and design of p2:panda_face:
 - [rust-embedded/book](https://github.com/rust-embedded/book) - Documentation on how to use the Rust Programming Language to develop firmware for bare metal (microcontroller) devices
@@ -8042,6 +8048,7 @@
 
 ## Python 
 
+- [akhater/Lupin](https://github.com/akhater/Lupin) - 
 - [joashxu/zetteltools](https://github.com/joashxu/zetteltools) - 
 - [gpodder/mygpo](https://github.com/gpodder/mygpo) - The gpodder.net webservice
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
@@ -9830,6 +9837,7 @@
 
 ## Rust 
 
+- [kanru/logseq-encrypt-ui](https://github.com/kanru/logseq-encrypt-ui) - Utility to encrypt/decrypt Logseq graphs
 - [pietgeursen/bamboo-rs](https://github.com/pietgeursen/bamboo-rs) - 
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
@@ -10204,6 +10212,7 @@
 
 ## Shell 
 
+- [chevereto/docker](https://github.com/chevereto/docker) - Bootstrapped Chevereto V3 / Chevereto-Free Docker images
 - [dyne/JaroMail](https://github.com/dyne/JaroMail) - A commandline tool to easily and privately handle your e-mail
 - [asdf-community/asdf-direnv](https://github.com/asdf-community/asdf-direnv) - direnv plugin for the asdf version manager
 - [AMWA-TV/nmos](https://github.com/AMWA-TV/nmos) - Networked Media Open Specifications: Introduction
@@ -10996,6 +11005,10 @@
 
 ## TypeScript 
 
+- [pengx17/logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) - 
+- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
+- [pengx17/logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) - Activity heatmap for logseq
 - [p2panda/beep-boop](https://github.com/p2panda/beep-boop) - Experimental p2panda demo client
 - [pnann/mdbook-nodejs-preprocessor-builder](https://github.com/pnann/mdbook-nodejs-preprocessor-builder) - A framework for building mdBook preprocessors with NodeJS. Supports MdBook 0.3.x
 - [FreeMasen/mdbook-presentation-preprocessor](https://github.com/FreeMasen/mdbook-presentation-preprocessor) - A preprocessor for utilizing an MDBook as slides for a presentation.
@@ -11436,6 +11449,7 @@
 
 ## Vue 
 
+- [mschmidtkorth/logseq-msk-toc](https://github.com/mschmidtkorth/logseq-msk-toc) - A table of contents generator for Logseq
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [AgenceBio/cartobio-front](https://github.com/AgenceBio/cartobio-front) - Transmission et consultation des données géographiques de l'Agriculture Biologique en France.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
