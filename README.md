@@ -173,6 +173,7 @@
 
 ## C 
 
+- [aergoio/litetree](https://github.com/aergoio/litetree) - SQLite with Branches
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [luigirizzo/netmap](https://github.com/luigirizzo/netmap) - Automatically exported from code.google.com/p/netmap
@@ -670,6 +671,7 @@
 
 ## CSS 
 
+- [paulfitz/daff-doc](https://github.com/paulfitz/daff-doc) - Documentation for daff
 - [anjackson/zombse](https://github.com/anjackson/zombse) - The Zombie Stack Exchange That Just Won't Die
 - [ipfs/ipfs-cluster-website](https://github.com/ipfs/ipfs-cluster-website) - The IPFS Cluster website
 - [gbdev/gbadoc](https://github.com/gbdev/gbadoc) - Community initiated GBA Technical documentation effort
@@ -1441,6 +1443,9 @@
 
 ## Go 
 
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - Git-like capabilities for your object storage
+- [dotmesh-oss/dotmesh](https://github.com/dotmesh-oss/dotmesh) - git for data
+- [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
 - [portainer/authenticator](https://github.com/portainer/authenticator) - Docker CLI helper to authenticate against Portainer
 - [MaxvdKolk/vimwikigraph](https://github.com/MaxvdKolk/vimwikigraph) - vimwikigraph - visualise vimwiki links using the graphviz dot language
@@ -1913,7 +1918,6 @@
 - [client9/ipcat](https://github.com/client9/ipcat) - Categorization of IP Addresses
 - [fgrehm/previewdocs](https://github.com/fgrehm/previewdocs) - Preview Viewdocs documentation before pushing changes back to your repositories
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [summadb/summadb](https://github.com/summadb/summadb) - A hierarchical database that stores computed values.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [helm/helm-classic](https://github.com/helm/helm-classic) - ⚠️(OBSOLETE) Helm Classic v1
@@ -2058,6 +2062,7 @@
 
 ## HTML 
 
+- [paulfitz/daff-web](https://github.com/paulfitz/daff-web) - compare tables, producing a human and machine readable diff that is itself tabular
 - [mschmidtkorth/logseq-msk-docs](https://github.com/mschmidtkorth/logseq-msk-docs) - Unofficial Logseq documentation.
 - [digipres/digipres.github.io](https://github.com/digipres/digipres.github.io) - Auto-generated static web site digipres.org
 - [OneGraph/oneblog](https://github.com/OneGraph/oneblog) - Build a blog backed by GitHub issues
@@ -3043,6 +3048,7 @@
 
 ## JavaScript 
 
+- [datahuborg/datahub](https://github.com/datahuborg/datahub) - An experimental hosted platform (GitHub-like) for organizing, managing, sharing, collaborating, and making sense of data.
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Quarto command line interface
 - [life-itself/tao](https://github.com/life-itself/tao) - 
 - [Lej77/tab-unloader-for-tree-style-tab](https://github.com/Lej77/tab-unloader-for-tree-style-tab) - 
@@ -6769,6 +6775,7 @@
 - [raph2i/ansible-6in4-server](https://github.com/raph2i/ansible-6in4-server) - ansible playbook to implement a 6in4 tunnelbroker
 - [PelionIoT/hurricane-electric-IPv6-tunnel](https://github.com/PelionIoT/hurricane-electric-IPv6-tunnel) - 
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [colugo/yed-wardley](https://github.com/colugo/yed-wardley) - Wardley mapping palette for yed
 - [dsopas/assessment-mindset](https://github.com/dsopas/assessment-mindset) - Security Mindmap that could be useful for the infosec community when doing pentest, bug bounty or red-team assessments.
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -8053,6 +8060,8 @@
 
 ## Python 
 
+- [replicate/keepsake](https://github.com/replicate/keepsake) - Version control for machine learning
+- [gretelai/gretel-synthetics](https://github.com/gretelai/gretel-synthetics) - Synthetic data generators for structured and unstructured text, featuring differentially private learning.
 - [akhater/Lupin](https://github.com/akhater/Lupin) - 
 - [joashxu/zetteltools](https://github.com/joashxu/zetteltools) - 
 - [gpodder/mygpo](https://github.com/gpodder/mygpo) - The gpodder.net webservice
@@ -11012,6 +11021,8 @@
 
 ## TypeScript 
 
+- [rocicorp/replicache](https://github.com/rocicorp/replicache) - Realtime Sync for Any Backend Stack
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊 Cube.js — Open-Source Analytical API Platform
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [pengx17/logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) - 
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
