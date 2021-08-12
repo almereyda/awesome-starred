@@ -173,6 +173,7 @@
 
 ## C 
 
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
 - [tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 - [luigirizzo/netmap](https://github.com/luigirizzo/netmap) - Automatically exported from code.google.com/p/netmap
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
@@ -1440,6 +1441,8 @@
 
 ## Go 
 
+- [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
+- [portainer/authenticator](https://github.com/portainer/authenticator) - Docker CLI helper to authenticate against Portainer
 - [MaxvdKolk/vimwikigraph](https://github.com/MaxvdKolk/vimwikigraph) - vimwikigraph - visualise vimwiki links using the graphviz dot language
 - [ipfs/ipfs-cluster](https://github.com/ipfs/ipfs-cluster) - Pinset orchestration for IPFS
 - [zerotier/zerotier-systemd-manager](https://github.com/zerotier/zerotier-systemd-manager) - 
@@ -1538,7 +1541,7 @@
 - [mchtech/domain-dependency-tool](https://github.com/mchtech/domain-dependency-tool) - 一个能画出域名与其它DNS域的依赖关系的工具 A dependency graph tool that can draw domain names with other DNS domains/zones
 - [orivej/fptrace](https://github.com/orivej/fptrace) - Record process launches and files read and written by each process
 - [seamia/protodot](https://github.com/seamia/protodot) - transforming your .proto files into .dot files (and .svg, .png if you happen to have graphviz installed)
-- [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - WordPress operator for Kubernetes
+- [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
 - [sdslabs/gasper](https://github.com/sdslabs/gasper) - Your Cloud in a Binary
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [lindenlab/caddy-s3-proxy](https://github.com/lindenlab/caddy-s3-proxy) - s3 proxy plugin for caddy
@@ -2248,7 +2251,7 @@
 - [LucyMcGowan/lucymcgowan.github.io](https://github.com/LucyMcGowan/lucymcgowan.github.io) - 
 - [datopian/carbondoomsday](https://github.com/datopian/carbondoomsday) - Carbon dashboard on datahub
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [azlen/azlen.me](https://github.com/azlen/azlen.me) - 
+- [azlen/old.azlen.me](https://github.com/azlen/old.azlen.me) - 
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [topogram/docs](https://github.com/topogram/docs) - Documentation for topogram
 - [scenaristeur/agora](https://github.com/scenaristeur/agora) - ActivityPub, Activitystreams on Solid POD platform
@@ -3040,6 +3043,9 @@
 
 ## JavaScript 
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Quarto command line interface
+- [life-itself/tao](https://github.com/life-itself/tao) - 
+- [Lej77/tab-unloader-for-tree-style-tab](https://github.com/Lej77/tab-unloader-for-tree-style-tab) - 
 - [cannibalox/logtools](https://github.com/cannibalox/logtools) - tools and plugins for logseq
 - [DenaroCF/Highlighters-for-Logseq](https://github.com/DenaroCF/Highlighters-for-Logseq) - More highlight colors in Logseq
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
@@ -4890,7 +4896,6 @@
 - [KoryNunn/crel](https://github.com/KoryNunn/crel) - a small, simple, and fast DOM creation utility
 - [joestelmach/laconic](https://github.com/joestelmach/laconic) - Sane DOM Generation
 - [amitkaps/visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
-- [ProtonMail/WebClient](https://github.com/ProtonMail/WebClient) - Official AngularJS web client for the ProtonMail secure email service.
 - [YuMS/gitlab-ce-pages](https://github.com/YuMS/gitlab-ce-pages) - Unofficial GitLab Pages for GitLab CE
 - [cbdevnet/ipmagnet](https://github.com/cbdevnet/ipmagnet) - Check which IP adresses your BitTorrent client is handing out to trackers
 - [Grasia/teem](https://github.com/Grasia/teem) - Teem is a web tool and mobile app for collaboration in communities, which facilitates onboarding of newcomers
@@ -9827,7 +9832,7 @@
 - [WardCunningham/farm-scripts](https://github.com/WardCunningham/farm-scripts) - Federated Wiki Farm Management Scripts
 - [zhm/geobox](https://github.com/zhm/geobox) - A hackbox for geo stuff
 - [SkyWriter/toggl](https://github.com/SkyWriter/toggl) - Redmine Toggl Integration Plugin
-- [spree/spree](https://github.com/spree/spree) - Open Source multi-language/multi-currency/multi-store E-commerce platform for Ruby on Rails with a modern UX, PWA frontend, REST API, GraphQL, several official extensions, and 3rd party integrations.
+- [spree/spree](https://github.com/spree/spree) - Open Source modular headless multi-language/multi-currency/multi-store e-commerce platform
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -9837,6 +9842,8 @@
 
 ## Rust 
 
+- [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [kanru/logseq-encrypt-ui](https://github.com/kanru/logseq-encrypt-ui) - Utility to encrypt/decrypt Logseq graphs
 - [pietgeursen/bamboo-rs](https://github.com/pietgeursen/bamboo-rs) - 
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
@@ -10450,7 +10457,7 @@
 - [caronae/caronae-docker](https://github.com/caronae/caronae-docker) - Configuração do Caronaê usando Docker Compose
 - [8gears/keycloak-auth-proxy](https://github.com/8gears/keycloak-auth-proxy) - Reverse auth proxy container for OAuth/OpenID Connect
 - [imixs/imixs-cloud](https://github.com/imixs/imixs-cloud) - A Lightweight Kubernetes Environment
-- [ethibox/stacks](https://github.com/ethibox/stacks) - Launch your open-source web apps with one docker command
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Launch your open-source web apps with one docker command
 - [kontrollanten/couchdb-hastings-docker](https://github.com/kontrollanten/couchdb-hastings-docker) - CouchDB with geospatial index through hastings/easton
 - [paomedia/small-n-flat](https://github.com/paomedia/small-n-flat) - svg icons on a 24px grid
 - [PanderMusubi/inkscape-open-symbols](https://github.com/PanderMusubi/inkscape-open-symbols) - Open source SVG symbol sets that can be used as Inkscape symbols
@@ -11005,6 +11012,7 @@
 
 ## TypeScript 
 
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [pengx17/logseq-plugin-random-tools](https://github.com/pengx17/logseq-plugin-random-tools) - 
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [vipzhicheng/logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) - This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/gera2ld/markmap.
@@ -11238,7 +11246,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [apollographql/apollo-link-state](https://github.com/apollographql/apollo-link-state) - ✨ Manage your application's state with Apollo!
 - [Polymer/prpl-server](https://github.com/Polymer/prpl-server) - An HTTP server for Node designed to serve PRPL apps in production.
-- [material-components/material-components-web-components](https://github.com/material-components/material-components-web-components) - Material Design Web Components
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [Polymer/pwa-helpers](https://github.com/Polymer/pwa-helpers) - Small helper methods or mixins to help you build web apps.
 - [hackers4peace/reciprocity-tracker-angular](https://github.com/hackers4peace/reciprocity-tracker-angular) - 
 - [sharedstreets/sharedstreets-js](https://github.com/sharedstreets/sharedstreets-js) - SharedStreets (Node.js & Javascript)
@@ -11253,7 +11261,7 @@
 - [asitparida/SVGFlowBox](https://github.com/asitparida/SVGFlowBox) - Lightweight SVG based event highlighting on flow paths
 - [liamross/psiagram](https://github.com/liamross/psiagram) - 🔱 A simple, feature-rich, and extensible diagram framework.
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams.
+- [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next) - Boost Note is a powerful, lightspeed collaborative workspace for developer teams. Forum: https://forum.boostnote.io/
 - [rubensworks/graphql-to-sparql.js](https://github.com/rubensworks/graphql-to-sparql.js) - Converts GraphQL queries to SPARQL queries
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [PzYon/engraved](https://github.com/PzYon/engraved) - Store information snippets (URLs, code, notes, etc.). Add keywords to find and access them from everywhere.
@@ -11364,6 +11372,7 @@
 - [wcandillon/jsoniq](https://github.com/wcandillon/jsoniq) - JSONiq Implementation that compiles to JavaScript
 - [ademilter/bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
+- [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [agektmr/ProjectTabManager](https://github.com/agektmr/ProjectTabManager) - Have too many tabs opened on Chrome? This extension helps you organize your tabs on windows per projects.
 - [solid/solid-ui](https://github.com/solid/solid-ui) - User Interface widgets and utilities for Solid
 - [FH-Potsdam/shifted-maps](https://github.com/FH-Potsdam/shifted-maps) - Shifted Maps visualizes personal movement data as a network of map extracts showing visited places.
