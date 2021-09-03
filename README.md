@@ -682,6 +682,17 @@
 
 ## CSS 
 
+- [edavidaja/docter](https://github.com/edavidaja/docter) - Hugo port of cfpb/docter
+- [gevhaz/hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack) - A libre hugo personal webpage theme without reliance on third parties and no tracking.
+- [ahmedsaadxyz/npqhugo](https://github.com/ahmedsaadxyz/npqhugo) - npq-hugo is a customizable and responsive dark blog theme with integrated contact form and code syntax highlighting
+- [moody-person/origin-hugo-theme](https://github.com/moody-person/origin-hugo-theme) - theme for hugo ssg mirror from gitlab: https://gitlab.com/asleeppiano/origin-hugo-theme
+- [miguelsimoni/hugo-initio](https://github.com/miguelsimoni/hugo-initio) - Hugo Theme port of Initio bootstrap template by GetTemplate
+- [zwbetz-gh/papercss-hugo-theme](https://github.com/zwbetz-gh/papercss-hugo-theme) - A Hugo theme made with PaperCSS, the less formal CSS framework.
+- [themefisher/twenty-twenty-hugo](https://github.com/themefisher/twenty-twenty-hugo) - 
+- [gethugothemes/navigator-hugo](https://github.com/gethugothemes/navigator-hugo) - Navigator Template Hugo Version by themefisher .
+- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) - 
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
+- [boumannm/larua-hugo-theme](https://github.com/boumannm/larua-hugo-theme) - A port of the Ghost theme Larua to the Hugo platform.
 - [Beitostolen-Live/beitostolen-live-ghost-theme](https://github.com/Beitostolen-Live/beitostolen-live-ghost-theme) - Beitostølen Live Ghost Theme
 - [mage3k/Void](https://github.com/mage3k/Void) - A skin for Ghost
 - [jgeisslinger/ghost-marie](https://github.com/jgeisslinger/ghost-marie) - A simple and clean Ghost theme - fully responsible layout, including a lot of features and - dark mode.
@@ -1105,6 +1116,7 @@
 
 ## CoffeeScript 
 
+- [nirocfz/arabica](https://github.com/nirocfz/arabica) - A port of the Ghost arabica theme for Hugo
 - [WardCunningham/vw-sfw-script](https://github.com/WardCunningham/vw-sfw-script) - Virtual Worlds Timeline to Federated Wiki Translator
 - [Considerit/ConsiderIt](https://github.com/Considerit/ConsiderIt) - For deliberation and opinion visualization
 - [spraakbanken/korp-geo](https://github.com/spraakbanken/korp-geo) - Map component of Korp
@@ -2110,6 +2122,26 @@
 
 ## HTML 
 
+- [plopcas/papaya](https://github.com/plopcas/papaya) - Minimalist Hugo theme with social buttons and analytics.
+- [cristianmarint/sicily-hugo-theme](https://github.com/cristianmarint/sicily-hugo-theme) - Sicily Hugo Theme
+- [dsk52/minimage](https://github.com/dsk52/minimage) - Hugo's theme
+- [hugo-mods/icons](https://github.com/hugo-mods/icons) - A Hugo icon system module that scales.
+- [Jack-alope/sourgough-starter](https://github.com/Jack-alope/sourgough-starter) - Like a sourdough starter but built on Go. A hugo theme for researchers and PhD students.
+- [setsevireon/photophobia](https://github.com/setsevireon/photophobia) - A boring dark theme for Hugo.
+- [Yukuro/hugo-theme-shell](https://github.com/Yukuro/hugo-theme-shell) - Hugo Shell theme : Terminal-like theme with selectable color schemes.
+- [gethugothemes/bookworm-light](https://github.com/gethugothemes/bookworm-light) - Bookworm is a clean and modern Hugo blog theme focused on high speed and support multiple authors.
+- [kaiiiz/hugo-theme-monochrome](https://github.com/kaiiiz/hugo-theme-monochrome) - Monochrome is a clean, responsive, and programmer-friendly hugo theme
+- [apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme) - Blist is a clean and fast blog theme for your Hugo site.
+- [vjeantet/hugo-theme-docport](https://github.com/vjeantet/hugo-theme-docport) - 
+- [RainerChiang/simpleness](https://github.com/RainerChiang/simpleness) - hugo theme simpleness
+- [apvarun/showcase-hugo-theme](https://github.com/apvarun/showcase-hugo-theme) - Showcase is a minimal, single page theme for Hugo
+- [gethugothemes/influencer-hugo](https://github.com/gethugothemes/influencer-hugo) - 
+- [negrel/hugo-theme-pico](https://github.com/negrel/hugo-theme-pico) - :black_circle: Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+- [jsnjack/hugo-changelog-theme](https://github.com/jsnjack/hugo-changelog-theme) - A Hugo changelog theme
+- [themefisher/academia-hugo](https://github.com/themefisher/academia-hugo) - Academia Hugo theme is fork from Hugo Academic Template.
+- [lgaida/mediumish-gohugo-theme](https://github.com/lgaida/mediumish-gohugo-theme) - A mediumish gohugo theme, ported from jekyll
+- [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [xyvs/aboringhostheme](https://github.com/xyvs/aboringhostheme) - A boring theme for Ghost
 - [stefanbc/Ingia](https://github.com/stefanbc/Ingia) - A free, open source theme for Ghost
 - [tobimori/dreams](https://github.com/tobimori/dreams) - 👻 Dreams is a beautiful and clean travel-inspired open-source theme for Ghost written with SCSS & Handlebars.
@@ -3138,6 +3170,12 @@
 
 ## JavaScript 
 
+- [epistemehealth/health-science-journal](https://github.com/epistemehealth/health-science-journal) - A Hugo theme that mirrors the appearance of an OJS journal using the health sciences theme
+- [mcrwfrd/hugo-frances-theme](https://github.com/mcrwfrd/hugo-frances-theme) - An expanding grid theme built with Bootstrap for Hugo
+- [Jack-alope/sourgough-ipfs](https://github.com/Jack-alope/sourgough-ipfs) - My personal website, made using hugo.
+- [onweru/compose](https://github.com/onweru/compose) - A Hugo theme for documentation sites. It's inspired by https://forestry.io/docs/welcome/
+- [StaticMania/portio-hugo](https://github.com/StaticMania/portio-hugo) - Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is built with Bootstrap 4. You can customize it very easily to fit your needs.
+- [uPagge/uBlogger](https://github.com/uPagge/uBlogger) - A template designed with your readers in mind :heart:
 - [getmindspun/ghost-theme-utils](https://github.com/getmindspun/ghost-theme-utils) - Utility package to help users easily build Ghost themes.
 - [toddbirchard/couldweallbe.pizza](https://github.com/toddbirchard/couldweallbe.pizza) - :pizza: :thought_balloon: Music portfolio Gatsby theme.
 - [sdan/research-blog](https://github.com/sdan/research-blog) - A Ghost Theme that is similar to Distill.pub's style
@@ -10289,6 +10327,10 @@
 
 ## SCSS 
 
+- [kdevo/osprey-delight](https://github.com/kdevo/osprey-delight) - Osprey Delight is the free-minded artist's choice for a clutter-free and blazingly fast single-page portfolio.
+- [rmsubekti/the-roots-home](https://github.com/rmsubekti/the-roots-home) - I am not root, this is a hugo theme.
+- [jbub/ghostwriter](https://github.com/jbub/ghostwriter) - A port of ghostwriter theme to Hugo.
+- [jakewies/hugo-theme-codex](https://github.com/jakewies/hugo-theme-codex) - A minimal blog theme for Hugo  🍜
 - [SovereignCloudStack/website](https://github.com/SovereignCloudStack/website) - Base content for scs.community
 - [statscomics/statscomics.github.io](https://github.com/statscomics/statscomics.github.io) - Making papers and other scientific reports easier to read
 - [arc42/patterns.arc42.org-site](https://github.com/arc42/patterns.arc42.org-site) - A brief overview of architecture and design patterns
@@ -10367,6 +10409,7 @@
 
 ## Sass 
 
+- [onweru/newsroom](https://github.com/onweru/newsroom) - A simple, minimalistic Hugo theme. View Demo here
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 - [StefMa/hugo-fresh](https://github.com/StefMa/hugo-fresh) - Hugo Fresh Theme
 - [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme) - Sphinx theme for readthedocs.org
