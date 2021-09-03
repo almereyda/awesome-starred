@@ -682,6 +682,28 @@
 
 ## CSS 
 
+- [Beitostolen-Live/beitostolen-live-ghost-theme](https://github.com/Beitostolen-Live/beitostolen-live-ghost-theme) - Beitostølen Live Ghost Theme
+- [mage3k/Void](https://github.com/mage3k/Void) - A skin for Ghost
+- [jgeisslinger/ghost-marie](https://github.com/jgeisslinger/ghost-marie) - A simple and clean Ghost theme - fully responsible layout, including a lot of features and - dark mode.
+- [hugohwu/ghost-theme-nanboone](https://github.com/hugohwu/ghost-theme-nanboone) - 🌞a ghost theme 一个以图片为主的Ghost主题🌞
+- [jeremyhalin/noir](https://github.com/jeremyhalin/noir) - A minimal dark theme for Ghost
+- [boumannm/zeali-ghost-theme](https://github.com/boumannm/zeali-ghost-theme) - Zeali is a CLI-inspired Ghost theme
+- [boumannm/dunamis-ghost-theme](https://github.com/boumannm/dunamis-ghost-theme) - A solid blog theme for Ghost.
+- [boumannm/zen-ghost-theme](https://github.com/boumannm/zen-ghost-theme) - Zen is a blog-theme for the Ghost platform
+- [boumannm/novavi-ghost-theme](https://github.com/boumannm/novavi-ghost-theme) - Novavi is a simplistic blog theme for Ghost based on Pure-CSS.
+- [novanet/Ghost-theme](https://github.com/novanet/Ghost-theme) - Novanet theme for Ghost
+- [neok/affliction](https://github.com/neok/affliction) - Theme for Ghost platform
+- [andyhqtran/permissive](https://github.com/andyhqtran/permissive) - Permissive Theme for Ghost
+- [TryGhost/Argon](https://github.com/TryGhost/Argon) - A simple publishing theme for Ghost
+- [itsmingjie/ganymede](https://github.com/itsmingjie/ganymede) - 💫 Content-focused, deploy-ready Ghost theme.
+- [HauntedThemes/okiku](https://github.com/HauntedThemes/okiku) - Okiku is a modern horizontal music Ghost theme filled with awesome effects. The theme is responsive, fast, clean with tasty typography and big images.
+- [HauntedThemes/gonjiam](https://github.com/HauntedThemes/gonjiam) - A simple, clean, minimalist, personal type of theme that is perfect for those who simply want to share a thought or a piece of code.
+- [HauntedThemes/leap](https://github.com/HauntedThemes/leap) - If you're into fashion, design, architecture or simply want something pinterestian, there's no doubt about one thing - this theme is specially tileored for you.
+- [HauntedThemes/hoia](https://github.com/HauntedThemes/hoia) - A theme aimed at the ones passionate about traveling. Minimalistic but spiced up with smooth effects, it should satisfy even the pickiest of the bunch.
+- [TryGhost/Lyra](https://github.com/TryGhost/Lyra) - A paid-members theme for Ghost
+- [TryGhost/Pico](https://github.com/TryGhost/Pico) - A paid members publishing theme for Ghost
+- [TryGhost/Alto](https://github.com/TryGhost/Alto) - A clean, minimalist theme featuring a light and dark mode for Ghost
+- [TryGhost/Edge](https://github.com/TryGhost/Edge) - A visually aesthetic portfolio theme for Ghost
 - [dicg-workshop/dicg-workshop.github.io](https://github.com/dicg-workshop/dicg-workshop.github.io) - International Workshop on Distributed Infrastructure for Common Good
 - [oncletom/print-pad](https://github.com/oncletom/print-pad) - Turn a HackMD/CodiMD/HedgeDoc pad as a printable and paginated document. Self-hostable.
 - [paulfitz/daff-doc](https://github.com/paulfitz/daff-doc) - Documentation for daff
@@ -2088,6 +2110,16 @@
 
 ## HTML 
 
+- [xyvs/aboringhostheme](https://github.com/xyvs/aboringhostheme) - A boring theme for Ghost
+- [stefanbc/Ingia](https://github.com/stefanbc/Ingia) - A free, open source theme for Ghost
+- [tobimori/dreams](https://github.com/tobimori/dreams) - 👻 Dreams is a beautiful and clean travel-inspired open-source theme for Ghost written with SCSS & Handlebars.
+- [jbritten/Bermuda](https://github.com/jbritten/Bermuda) - Ghost theme using Tailwind CSS and webpack
+- [julienbourdeau/signal-theme](https://github.com/julienbourdeau/signal-theme) - A tailwind minimal theme for tech writer using the Ghost blogging platform
+- [InternetFreedomFoundation/ghost-sti](https://github.com/InternetFreedomFoundation/ghost-sti) - Ghost theme for savetheinternet.in
+- [HauntedThemes/haihara](https://github.com/HauntedThemes/haihara) - If you are a busy publisher we are pleased to inform that this theme is a little monster that feeds on content for lunch, supper and dinner. You have been warned...
+- [HauntedThemes/joelma](https://github.com/HauntedThemes/joelma) - Joelma is a feature-rich theme that is likely to impress you with its beautiful design. This theme has everything that a professional blog needs. Check it out!
+- [HauntedThemes/zvikov](https://github.com/HauntedThemes/zvikov) - A theme that will only show one post at a time. If you're a fan of decluttering, know that we've decluttered the sh*t out of this one. Specially for you. But most importantly - it's FREE!
+- [HauntedThemes/poveglia](https://github.com/HauntedThemes/poveglia) - Poveglia is a carefully crafted, multipurpose, responsive, clean Ghost theme that helps you build a simple yet stunning blog for your business. No fuss.
 - [Data-Visualization-Berlin/datavis.berlin](https://github.com/Data-Visualization-Berlin/datavis.berlin) - List of people, organisations, groups, … doing datavis in Berlin
 - [victoriadrake/victoriadrake.github.io](https://github.com/victoriadrake/victoriadrake.github.io) - 🌱 Victoria's autonomous self-improving blockchain-fortified AI static website
 - [remotestorage/website](https://github.com/remotestorage/website) - The official remoteStorage website
@@ -2752,6 +2784,18 @@
 
 ## Handlebars 
 
+- [status-im/our-status-site-theme](https://github.com/status-im/our-status-site-theme) - Contains theme for Our Status Ghost blog theme
+- [bironthemes/gazette-ghost](https://github.com/bironthemes/gazette-ghost) - Gazette Ghost Theme
+- [terrighost/ghali](https://github.com/terrighost/ghali) - Free Ghost v3 theme for fashion, travel and style blogs
+- [joshmanders/.com](https://github.com/joshmanders/.com) - Thoughts, Stories & Ideas from Josh Manders
+- [InternetFreedomFoundation/ghost-iffy](https://github.com/InternetFreedomFoundation/ghost-iffy) - Ghost theme for the Internet Freedom Foundation site
+- [stefanbc/Asgar](https://github.com/stefanbc/Asgar) - A two-column, clean and minimalist theme for Ghost
+- [Inoryum-Ltd/aesto](https://github.com/Inoryum-Ltd/aesto) - Free Ghost theme with membership support. Minimal content focused design with multi author supported.
+- [AdvisorySG/ghost-advisory-theme](https://github.com/AdvisorySG/ghost-advisory-theme) - Custom-built Ghost theme for Advisory SG.
+- [godofredoninja/Paway](https://github.com/godofredoninja/Paway) - Personal photographer blog theme for Ghost. Beautiful, minimal and sensitive.
+- [TryGhost/Journal](https://github.com/TryGhost/Journal) - A newsletter theme for Ghost
+- [TryGhost/Digest](https://github.com/TryGhost/Digest) - A newsletter theme for Ghost
+- [huangyuzhang/Fizzy-Theme](https://github.com/huangyuzhang/Fizzy-Theme) - 🥤A tasty blogging theme for Ghost.
 - [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache) - You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
 - [JustGoodThemes/Scriptor-Ghost-Theme](https://github.com/JustGoodThemes/Scriptor-Ghost-Theme) - Scriptor is a minimal, clean, modern & responsive Ghost theme for writers.
 - [bironthemes/biron-ghost-theme](https://github.com/bironthemes/biron-ghost-theme) - Biron Free Ghost Theme
@@ -3094,6 +3138,15 @@
 
 ## JavaScript 
 
+- [getmindspun/ghost-theme-utils](https://github.com/getmindspun/ghost-theme-utils) - Utility package to help users easily build Ghost themes.
+- [toddbirchard/couldweallbe.pizza](https://github.com/toddbirchard/couldweallbe.pizza) - :pizza: :thought_balloon: Music portfolio Gatsby theme.
+- [sdan/research-blog](https://github.com/sdan/research-blog) - A Ghost Theme that is similar to Distill.pub's style
+- [22Temi/plum](https://github.com/22Temi/plum) - A clean, responsive Ghost CMS theme.
+- [royalfig/smart](https://github.com/royalfig/smart) - A theme for the open source Ghost CMS.
+- [StanGirard/preact-netlify-primates](https://github.com/StanGirard/preact-netlify-primates) - 
+- [HauntedThemes/ghost-search](https://github.com/HauntedThemes/ghost-search) - A simple but powerful search library for Ghost Blogging Platform.
+- [TryGhost/gscan](https://github.com/TryGhost/gscan) - Ghost theme scanner - checks for errors and feature support
+- [TryGhost/Edition](https://github.com/TryGhost/Edition) - The newsletter theme for Ghost
 - [tusindfryd/heck](https://github.com/tusindfryd/heck) - heck: hex the deck. the game
 - [raykyri/notebag](https://github.com/raykyri/notebag) - A note taking app that does not break your workflow
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -10370,6 +10423,7 @@
 
 ## Shell 
 
+- [metasansana/buildpack-ghost-cms-theme](https://github.com/metasansana/buildpack-ghost-cms-theme) - Ghost CMS Theme buildpack for dokku.
 - [kubermatic/community-components](https://github.com/kubermatic/community-components) - Collection of components for Kubermatic KKP and KubeOne
 - [kubermatic/kubermatic-installer](https://github.com/kubermatic/kubermatic-installer) - Installation instructions for setting up a kubermatic seed cluster
 - [obmin/docker](https://github.com/obmin/docker) - OBMIN Docker Image [mirror]
