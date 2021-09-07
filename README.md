@@ -3187,6 +3187,8 @@
 
 ## JavaScript 
 
+- [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [radicle-dev/radicle-docs](https://github.com/radicle-dev/radicle-docs) - 
@@ -11792,6 +11794,7 @@
 
 ## Vue 
 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
 - [talenet/talenet](https://github.com/talenet/talenet) - 
 - [wbstack/ui](https://github.com/wbstack/ui) - Main VueJS based site for wbstack.com
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
