@@ -174,6 +174,8 @@
 
 ## C 
 
+- [AppImageCrafters/AppRun](https://github.com/AppImageCrafters/AppRun) - AppImage runtime components
+- [allinurl/gwsocket](https://github.com/allinurl/gwsocket) - fast, standalone, language-agnostic WebSocket server RFC6455 compliant
 - [chaos/diod](https://github.com/chaos/diod) - Distributed I/O Daemon - a 9P file server
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
 - [storaged-project/udisks](https://github.com/storaged-project/udisks) - The UDisks project provides a daemon, tools and libraries to access and manipulate disks, storage devices and technologies.
@@ -476,6 +478,7 @@
 
 ## C++ 
 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [azirevpn/azclient](https://github.com/azirevpn/azclient) - Customizable VPN client, meant to be simple and sleek.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -691,6 +694,7 @@
 
 ## CSS 
 
+- [mschmidtkorth/logseq-sepia-theme](https://github.com/mschmidtkorth/logseq-sepia-theme) - A WIP to develop a default Sepia theme for Logseq.
 - [ssbc/handbook.scuttlebutt.nz](https://github.com/ssbc/handbook.scuttlebutt.nz) - ssb handbook: A guide to the Secure Scuttlebutt key concepts and influences (see also, new website: https://gitlab.com/ssbc/scuttlebutt.nz/)
 - [edavidaja/docter](https://github.com/edavidaja/docter) - Hugo port of cfpb/docter
 - [gevhaz/hugo-theme-notrack](https://github.com/gevhaz/hugo-theme-notrack) - A libre hugo personal webpage theme without reliance on third parties and no tracking.
@@ -955,7 +959,6 @@
 - [TransforMap/transformap.github.io](https://github.com/TransforMap/transformap.github.io) - 
 - [okdistribute/dat-menubar](https://github.com/okdistribute/dat-menubar) - deprecated
 - [mikewest/credentialmanagement](https://github.com/mikewest/credentialmanagement) - Credential Management
-- [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
 - [hypothesis/developers.hypothes.is](https://github.com/hypothesis/developers.hypothes.is) - Hypothesis for Developers - including Swagger API Docs
 - [ianblenke/ianblenke.github.io](https://github.com/ianblenke/ianblenke.github.io) - Deployed GitHub Pages from ianblenke/blog
 - [vaidik/mozwebqa-dashboard](https://github.com/vaidik/mozwebqa-dashboard) - Little dashboard for little things for mozwebqa.
@@ -1508,6 +1511,8 @@
 
 ## Go 
 
+- [hummingbard/hummingbard](https://github.com/hummingbard/hummingbard) - Hummingbard is an experimental client for building decentralized communities on top of Matrix.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [cs3org/cs3apis](https://github.com/cs3org/cs3apis) - :arrows_clockwise: Connect Storage and Application Providers
 - [cs3org/reva](https://github.com/cs3org/reva) - IOP (Inter Operability Platform)
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
@@ -1689,7 +1694,7 @@
 - [docker/swarmkit](https://github.com/docker/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [hoanhan101/algo](https://github.com/hoanhan101/algo) - 101+ coding interview problems in Go
-- [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -2139,6 +2144,8 @@
 
 ## HTML 
 
+- [LauraSinisterra/portfolio-site](https://github.com/LauraSinisterra/portfolio-site) - Portfolio site
+- [libremonde-org/paper-research-privacy-matrix.org](https://github.com/libremonde-org/paper-research-privacy-matrix.org) - Privacy research on Matrix.org
 - [datacommons/commoners](https://github.com/datacommons/commoners) - map of members of the data commons
 - [plopcas/papaya](https://github.com/plopcas/papaya) - Minimalist Hugo theme with social buttons and analytics.
 - [cristianmarint/sicily-hugo-theme](https://github.com/cristianmarint/sicily-hugo-theme) - Sicily Hugo Theme
@@ -2797,7 +2804,6 @@
 - [nuest/5starprocessing](https://github.com/nuest/5starprocessing) - Website with information for open (geo-) processing in the web
 - [osmus/teachosm.org](https://github.com/osmus/teachosm.org) - The TeachOSM website
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [pudo-attic/nomenklatura](https://github.com/pudo-attic/nomenklatura) - Data de-deuplication tool
 - [okfn/opendatahandbook-old](https://github.com/okfn/opendatahandbook-old) - Open Data Handbook
 - [okfn/opendefinition](https://github.com/okfn/opendefinition) - Open Definition source
 - [tmcw/simpleopendata](https://github.com/tmcw/simpleopendata) - simple guidelines for publishing open data in useful formats
@@ -2838,7 +2844,7 @@
 - [terrighost/ghali](https://github.com/terrighost/ghali) - Free Ghost v3 theme for fashion, travel and style blogs
 - [joshmanders/.com](https://github.com/joshmanders/.com) - Thoughts, Stories & Ideas from Josh Manders
 - [InternetFreedomFoundation/ghost-iffy](https://github.com/InternetFreedomFoundation/ghost-iffy) - Ghost theme for the Internet Freedom Foundation site
-- [stefanbc/Asgar](https://github.com/stefanbc/Asgar) - A two-column, clean and minimalist theme for Ghost
+- [stefanbc/Asgar](https://github.com/stefanbc/Asgar) - A two-column, clean and minimalist theme for @TryGhost
 - [Inoryum-Ltd/aesto](https://github.com/Inoryum-Ltd/aesto) - Free Ghost theme with membership support. Minimal content focused design with multi author supported.
 - [AdvisorySG/ghost-advisory-theme](https://github.com/AdvisorySG/ghost-advisory-theme) - Custom-built Ghost theme for Advisory SG.
 - [godofredoninja/Paway](https://github.com/godofredoninja/Paway) - Personal photographer blog theme for Ghost. Beautiful, minimal and sensitive.
@@ -3187,6 +3193,14 @@
 
 ## JavaScript 
 
+- [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
+- [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web
+- [bluelinklabs/ctzn](https://github.com/bluelinklabs/ctzn) - [DEPRECATED] An open social network built on the Hypercore Protocol data mesh.
+- [DougAnderson444/HyPNS](https://github.com/DougAnderson444/HyPNS) - Hyper protocol + IPNS = HyPNS
+- [DougAnderson444/hypns-super-peer](https://github.com/DougAnderson444/hypns-super-peer) - Super peer for pinning hypns peers for friends on https://PeerPiper.io
+- [wtrettien/manicule](https://github.com/wtrettien/manicule) - A standalone React/Redux web application for for presenting unique printed books and manuscripts in digital facsimile.
+- [binnyva/gatsby-garden](https://github.com/binnyva/gatsby-garden) - A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes
+- [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low code platform that helps IT professionals build, automate and self-host internal tools in minutes 🚀
 - [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -3246,7 +3260,7 @@
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton!
 - [tty2/horizontal-workspace-indicator](https://github.com/tty2/horizontal-workspace-indicator) - Gnome shell extension. Simple workspace indicator for horizontal layout.
 - [sync1211/wg-indicator](https://github.com/sync1211/wg-indicator) - A simple connection indicator for WireGuard connections.
-- [qri-io/frontend](https://github.com/qri-io/frontend) - qri electron & web frontend
+- [qri-io/2017-frontend](https://github.com/qri-io/2017-frontend) - qri electron & web frontend
 - [datahuborg/datahub](https://github.com/datahuborg/datahub) - An experimental hosted platform (GitHub-like) for organizing, managing, sharing, collaborating, and making sense of data.
 - [life-itself/tao](https://github.com/life-itself/tao) - ☯️ The Tao of Life Itself
 - [Lej77/tab-unloader-for-tree-style-tab](https://github.com/Lej77/tab-unloader-for-tree-style-tab) - 
@@ -3686,7 +3700,7 @@
 - [hotosm/visualize-change](https://github.com/hotosm/visualize-change) - A toolkit to visualize changes in OSM, part of the OSM Analytics ecosystem. Work in Progress.
 - [szymonkaliski/archivist](https://github.com/szymonkaliski/archivist) - tool for archiving and exploring
 - [terminusdb/terminusdb-events](https://github.com/terminusdb/terminusdb-events) - For community meetups
-- [kausalflow/tools](https://github.com/kausalflow/tools) - Research tools
+- [kausalflow/tools](https://github.com/kausalflow/tools) - Curated list of research tools from the community
 - [shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) - A collection of research on knowledge graphs
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
@@ -4228,7 +4242,7 @@
 - [bs1180/geowiki](https://github.com/bs1180/geowiki) - 
 - [chrdebru/Client.js](https://github.com/chrdebru/Client.js) - A JavaScript client for Triple Pattern Fragments interfaces.
 - [remotestorage/armadietto](https://github.com/remotestorage/armadietto) - RS server based on node.js
-- [luka1220/visual-idea-clustering](https://github.com/luka1220/visual-idea-clustering) - Application to visually organize ideas in an 2D-space
+- [lukastaerk/visual-idea-clustering](https://github.com/lukastaerk/visual-idea-clustering) - Application to visually organize ideas in an 2D-space
 - [Symatem/UserInterface](https://github.com/Symatem/UserInterface) - 
 - [vitogit/sorter](https://github.com/vitogit/sorter) - Sorter is a webapp to organize ideas, tasks and information using bullet points and hashtags.
 - [kaleguy/leovue](https://github.com/kaleguy/leovue) - Use the LEO outlining editor to create a Vue.js webapp.
@@ -6731,6 +6745,7 @@
 - [tj/react-fatigue-dev](https://github.com/tj/react-fatigue-dev) - Module of modules for making modules
 - [jmtd/debian-docker](https://github.com/jmtd/debian-docker) - scripts and Dockerfiles to build jmtd/debian* docker images
 - [sonyxperiadev/device-sony-sumire](https://github.com/sonyxperiadev/device-sony-sumire) - 
+- [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
 - [ianblenke/docker-flexisip](https://github.com/ianblenke/docker-flexisip) - 
 - [ianblenke/docker-ceph-dash](https://github.com/ianblenke/docker-ceph-dash) - Dockerized ceph-dash
 - [ianblenke/docker-xfce](https://github.com/ianblenke/docker-xfce) - An alpine linux based docker image for a xfce4 desktop.
@@ -6817,6 +6832,7 @@
 
 ## Others 
 
+- [pfrazee/infocivics](https://github.com/pfrazee/infocivics) - Information Civics paper
 - [Grench6/RX580-rocM-tensorflow-ubuntu20.4-guide](https://github.com/Grench6/RX580-rocM-tensorflow-ubuntu20.4-guide) - Install guide of ROCm and Tensorflow on Ubuntu for the RX580
 - [xuhuisheng/rocm-gfx803](https://github.com/xuhuisheng/rocm-gfx803) - 
 - [deadsnakes/issues](https://github.com/deadsnakes/issues) - Issues for https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
@@ -6884,7 +6900,7 @@
 - [ungerts/remote-working-link-collection](https://github.com/ungerts/remote-working-link-collection) - Remote Working Link Collection
 - [chaostreff-flensburg/pretix-docker_compose](https://github.com/chaostreff-flensburg/pretix-docker_compose) - A full config to run pretix with docker-compose
 - [hacker-coop/vebit-geojson](https://github.com/hacker-coop/vebit-geojson) - geojson for veb it
-- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Listing of worldwide open technology projects preserving a stable climate, energy supply and vital natural resources.  https://opensustain.tech/
+- [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources. https://opensustain.tech/
 - [operator-framework/olm-book](https://github.com/operator-framework/olm-book) - Documentation for OLM
 - [ledgerloops/ledgerloops-whitepaper](https://github.com/ledgerloops/ledgerloops-whitepaper) - This repo was merged into https://github.com/ledgerloops/ledgerloops.com
 - [InterNetX/domainrobot-api](https://github.com/InterNetX/domainrobot-api) - Swagger documentation for different APIs powered by InterNetX GmbH.
@@ -6948,7 +6964,6 @@
 - [jywarren/risoAtHome](https://github.com/jywarren/risoAtHome) - Web-based tools for printing separated colors w/ halftone on a home laser printer
 - [ioflo/ioflo_manuals](https://github.com/ioflo/ioflo_manuals) - User manual for Ioflo
 - [gojek/awesome-distributed-systems](https://github.com/gojek/awesome-distributed-systems) - Awesome list of distributed systems resources
-- [ale0sx/brains](https://github.com/ale0sx/brains) - ⚡️ My Digital Brain
 - [karlicoss/exobrain](https://github.com/karlicoss/exobrain) - My external brain 🧠
 - [yggdrasil-network/public-peers](https://github.com/yggdrasil-network/public-peers) - Public peers in the Yggdrasil network
 - [google/bbr](https://github.com/google/bbr) - 
@@ -7134,7 +7149,7 @@
 - [mntnr/awesome-contributing](https://github.com/mntnr/awesome-contributing) - Awesome contributing guides for open source development.
 - [IEMLdev/ieml-language](https://github.com/IEMLdev/ieml-language) - The IEML language database. A git database containing the translations for IEML expressions: USL (Uniform Semantic Locator)
 - [microscaling/awesome-microscaling](https://github.com/microscaling/awesome-microscaling) - A curated list of Microscaling related principles and technologies.
-- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 75+ open-source web apps with one Docker command
+- [ethibox/awesome-stacks](https://github.com/ethibox/awesome-stacks) - Deploy 80+ open-source web apps with one Docker command
 - [DTLT/dooo](https://github.com/DTLT/dooo) - User documentation for the Domain of One's Own project at the University of Mary Washington
 - [hackers4peace/hackers4peace.net](https://github.com/hackers4peace/hackers4peace.net) - 
 - [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
@@ -8199,7 +8214,7 @@
 - [JackSlateur/perl-ip2as](https://github.com/JackSlateur/perl-ip2as) - IP to ASN mapping
 - [manuelkasper/AS-Stats](https://github.com/manuelkasper/AS-Stats) - A simple tool to generate per-AS traffic graphs from NetFlow/sFlow records
 - [netdisco/netdisco](https://github.com/netdisco/netdisco) - A web-based network management tool.
-- [somenonymous/OshiUpload](https://github.com/somenonymous/OshiUpload) - Anonymous file sharing engine
+- [somenonymous/OshiUpload](https://github.com/somenonymous/OshiUpload) - Ephemeral file sharing engine
 - [znuny/Znuny](https://github.com/znuny/Znuny) - Znuny/Znuny LTS is a fork of the ((OTRS)) Community Edition, one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [eprints/eprints](https://github.com/eprints/eprints) - EPrints 3.3 core and releases
@@ -8272,7 +8287,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - Open source graph database and document store. Designed for collaboratively building data-intensive applications and knowledge graphs.
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is an open source knowledge graph and document store. Use it to build versioned data products.
 - [LOD-Laundromat/LOD-Laundromat](https://github.com/LOD-Laundromat/LOD-Laundromat) - Cleaning other people's dirty data.
 
 ## Pug 
@@ -8292,6 +8307,7 @@
 
 ## Python 
 
+- [gordonbrander/subtext](https://github.com/gordonbrander/subtext) - Markup for note taking
 - [stratis-storage/stratis-cli](https://github.com/stratis-storage/stratis-cli) - CLI for the Stratis project
 - [storaged-project/blivet-gui](https://github.com/storaged-project/blivet-gui) - GUI tool for storage configuration using blivet library
 - [storaged-project/blivet](https://github.com/storaged-project/blivet) - A python module for configuration of block devices
@@ -8469,7 +8485,7 @@
 - [sebn/ansible-roles-graph](https://github.com/sebn/ansible-roles-graph) - 
 - [nickjj/ansigenome](https://github.com/nickjj/ansigenome) - A tool to help you gather information and manage your Ansible roles.
 - [ansible-community/ara](https://github.com/ansible-community/ara) - ARA Records Ansible and makes it easier to understand and troubleshoot.
-- [glato/emerge](https://github.com/glato/emerge) - emerge is a source code analysis and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
+- [glato/emerge](https://github.com/glato/emerge) - emerge is a source code analysis tool and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
 - [bwohlberg/jonga](https://github.com/bwohlberg/jonga) - Jonga: Python function call graph visualization
 - [ovh/depc](https://github.com/ovh/depc) - QoS Measurement & Dependency Graph Platform
 - [nismod/natural-capital-mapping](https://github.com/nismod/natural-capital-mapping) - Natural Capital Mapping
@@ -9123,7 +9139,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [zalando-incubator/docker-locust](https://github.com/zalando-incubator/docker-locust) - Docker image for the Locust.io open source load testing tool
 - [opsschool/curriculum](https://github.com/opsschool/curriculum) - Ops School Curriculum
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [tellform/docker_files](https://github.com/tellform/docker_files) - 
 - [grouprise/grouprise](https://github.com/grouprise/grouprise) - see https://git.hack-hro.de/grouprise/grouprise/ for the primary development platform
 - [TkTech/notifico](https://github.com/TkTech/notifico) - My personal http://cia.vc replacement. Now used by over 3000 projects.
@@ -9625,6 +9641,7 @@
 - [mysociety/sayit](https://github.com/mysociety/sayit) - SayIt - a component for recording and storing public statements.
 - [Scifabric/pybossa](https://github.com/Scifabric/pybossa) - PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to analyze or enrich data that can't be processed by machines alone.
 - [okfn/webstore](https://github.com/okfn/webstore) - webstore is a web-api enabled datastore backed onto sql databases especially sqlite. It supports the RESTful JSON APIs standard to nosql dbs like CouchDB, MongoDB, Riak but with the power, reliability and familiarity of SQL and RDBMS.
+- [pudo/nomenklatura](https://github.com/pudo/nomenklatura) - Data de-deuplication tool
 - [okfn/openletters](https://github.com/okfn/openletters) - Understanding the "Letter Net"
 - [openannotation/annotator-store](https://github.com/openannotation/annotator-store) - A backend store for the Annotator
 - [openknowledge-archive/opsmanual](https://github.com/openknowledge-archive/opsmanual) - Manual for OKF operations and infrastructure
@@ -9738,6 +9755,7 @@
 
 ## Ruby 
 
+- [searls/todo_or_die](https://github.com/searls/todo_or_die) - Write TODOs in code that ensure you actually do them
 - [dustymabe/vagrant-sshfs](https://github.com/dustymabe/vagrant-sshfs) - SSHFS synced folder implementation for Vagrant.
 - [JoeBergin/Batch-SFW-Scripts](https://github.com/JoeBergin/Batch-SFW-Scripts) - A collection of scripts for modifying local files on a Smallest Federated Wiki site. Use with caution.
 - [JoeBergin/Html-to-JSON-batch-converter](https://github.com/JoeBergin/Html-to-JSON-batch-converter) - A ruby script to translate html pages into JSON for SFW. Based on a script from @WardCunningham
@@ -10120,6 +10138,12 @@
 
 ## Rust 
 
+- [davidpdrsn/todo-or-die](https://github.com/davidpdrsn/todo-or-die) - TODOs you cannot forget!
+- [bnjbvr/rouille](https://github.com/bnjbvr/rouille) - Rust programming, in French.
+- [ruma/ruma](https://github.com/ruma/ruma) - A set of Rust crates for interacting with the Matrix chat network.
+- [flatpak/flat-manager](https://github.com/flatpak/flat-manager) - Manager for flatpak repositories
+- [mdzk-rs/mdbook-wikilink](https://github.com/mdzk-rs/mdbook-wikilink) - Support for wikilinks on mdBook.
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [radicle-dev/radicle-bins](https://github.com/radicle-dev/radicle-bins) - Collection of radicle binaries.
 - [stratis-storage/stratisd](https://github.com/stratis-storage/stratisd) - Easy to use local storage management for Linux.
 - [josephg/diamond-js](https://github.com/josephg/diamond-js) - Javascript wrapper bindings for diamond types
@@ -10603,7 +10627,7 @@
 - [snsinfu/hetzner-zfs-image](https://github.com/snsinfu/hetzner-zfs-image) - Scripts to create a reusable Hetzner cloud image that boots Debian on ZFS root
 - [jktr/hcloud-packer-templates](https://github.com/jktr/hcloud-packer-templates) - packer templates for arch & nixos on hetzner cloud
 - [oirad/terraform-hetzner-wireguard](https://github.com/oirad/terraform-hetzner-wireguard) - Creates a wireguard server and configuration on Hetzner cloud
-- [OpenNMS/opennms-drift-kubernetes](https://github.com/OpenNMS/opennms-drift-kubernetes) - OpenNMS Drift Deployment in Kubernetes for testing and learning purposes
+- [agalue/opennms-drift-kubernetes](https://github.com/agalue/opennms-drift-kubernetes) - OpenNMS Drift Deployment in Kubernetes for testing and learning purposes
 - [flancian/agora](https://github.com/flancian/agora) - A possible implementation of the Agora (flancia.org/agora).
 - [helloSystem/ISO](https://github.com/helloSystem/ISO) - helloSystem Live and installation ISO
 - [zdharma/zshelldoc](https://github.com/zdharma/zshelldoc) - Documentation generator for Zsh & Bash, with call-trees, comment extraction, etc.
@@ -11217,6 +11241,7 @@
 
 ## Svelte 
 
+- [DougAnderson444/peerpiper.io](https://github.com/DougAnderson444/peerpiper.io) - PeerPiper.io Website
 - [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
 - [WelcometoMyGarden/welcometomygarden](https://github.com/WelcometoMyGarden/welcometomygarden) - Website of Welcome To My Garden, a not-for-profit network of citizens offering free camping spots in their gardens to slow travellers.
 - [maxlath/website-history-browser](https://github.com/maxlath/website-history-browser) - a WebExtension to browse your history per website
@@ -11265,6 +11290,7 @@
 
 ## TeX 
 
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautiful academic texts with the distraction-free Pandoc Markdown.
 - [uwdata/papers-vsup](https://github.com/uwdata/papers-vsup) - Visualize uncertainty
 - [yihui/knitr-examples](https://github.com/yihui/knitr-examples) - A collection of knitr examples
 - [AljoschaMeyer/bamboo](https://github.com/AljoschaMeyer/bamboo) - 
@@ -11325,6 +11351,7 @@
 
 ## TypeScript 
 
+- [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [timbertson/slinger](https://github.com/timbertson/slinger) - gnome-shell extension for throwing windows around efficiently
 - [sendanor/pipeline-runner](https://github.com/sendanor/pipeline-runner) - Pipeline runner written in TypeScript
@@ -11491,7 +11518,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [jellyfin-archive/jellyfin-desktop](https://github.com/jellyfin-archive/jellyfin-desktop) - Desktop Client for Jellyfin
-- [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - Angular UI for DSpace 7. See the README below for links to resources and documentation.
+- [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace 7.x (and above) User Interface built on Angular.io
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [spark-solutions/spree2vuestorefront](https://github.com/spark-solutions/spree2vuestorefront) - Build complete E-Commerce PWA with this Spree Commerce (https://github.com/spree/spree) to Vue Storefront (https://github.com/DivanteLtd/vue-storefront) bridge
