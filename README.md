@@ -1535,6 +1535,10 @@
 
 ## Go 
 
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [appleboy/docker-backup-database](https://github.com/appleboy/docker-backup-database) - Docker image to periodically backup your database (MySQL, Postgres, or MongoDB) to S3 or local disk.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- [muety/mailwhale](https://github.com/muety/mailwhale) - 🐳 A bring-your-own-SMTP-server mail relay with REST API and web UI
 - [cblgh/cerca](https://github.com/cblgh/cerca) - lean forum software
 - [acouvreur/traefik-ondemand-service](https://github.com/acouvreur/traefik-ondemand-service) - Traefik ondemand service for the traefik ondemand plugin
 - [acouvreur/traefik-ondemand-plugin](https://github.com/acouvreur/traefik-ondemand-plugin) - Traefik plugin to scale containers on demand
@@ -2205,6 +2209,7 @@
 ## HTML 
 
 - [HarHarLinks/matrix-webhook-receiver](https://github.com/HarHarLinks/matrix-webhook-receiver) - Companion "receiver" to matrix-appservice-webhooks (https://github.com/turt2live/matrix-appservice-webhooks).
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
 - [gluster/glusterdocs](https://github.com/gluster/glusterdocs) - This repo contains the source of official Gluster documentation rendered at https://docs.gluster.org
 - [WICG/kv-storage](https://github.com/WICG/kv-storage) - A proposal for an async key/value storage API for the web
@@ -2347,6 +2352,7 @@
 - [BFO-ontology/BFO](https://github.com/BFO-ontology/BFO) - BFO repository including source code and latest documents
 - [zwbetz-gh/cupper-hugo-theme](https://github.com/zwbetz-gh/cupper-hugo-theme) - An accessibility-friendly Hugo theme, ported from the original Cupper project.
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
+- [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [espebra/filebin](https://github.com/espebra/filebin) - Filebin is a web application that facilitates convenient file sharing over the web.
 - [w3ctag/ethical-web-principles](https://github.com/w3ctag/ethical-web-principles) - W3C TAG Ethical Web Principles
 - [chaossocial/about](https://github.com/chaossocial/about) - 
@@ -3280,6 +3286,7 @@
 
 ## JavaScript 
 
+- [sethfair/logseq-focus-mode](https://github.com/sethfair/logseq-focus-mode) - The purpose of the Focus Mode plugin is to quickly switch into a distraction-free mode or "zen" mode. This plugin allows you to quickly toggle into fullscreen mode and hide elements like the sidebar or properties section.
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [e-e-e/hyper-graph-db](https://github.com/e-e-e/hyper-graph-db) - A distributed graph database built upon hyperdb.
 - [Wikinaut/getumap](https://github.com/Wikinaut/getumap) - Download an umap map (nodejs)
@@ -4593,7 +4600,6 @@
 - [derhuerst/generate-vbb-transit-map](https://github.com/derhuerst/generate-vbb-transit-map) - Generate an SVG transit map for Berlin public transport.
 - [bartromgens/metroflow](https://github.com/bartromgens/metroflow) - Interactive metro maps on an HTML canvas
 - [clemsos/wiki-plugin-single-page](https://github.com/clemsos/wiki-plugin-single-page) - Single page for Fedwiki
-- [LDflex/LDflex-Comunica](https://github.com/LDflex/LDflex-Comunica) - Comunica query engine support for the LDflex language
 - [LDflex/Query-Solid](https://github.com/LDflex/Query-Solid) - Simple access to data in Solid pods through LDflex expressions
 - [Danamir/gitlab-userscripts](https://github.com/Danamir/gitlab-userscripts) - GitLab Swimlanes UserScript
 - [vaeyo/flixxr](https://github.com/vaeyo/flixxr) - Just my media server /opt folder backup
@@ -6951,6 +6957,7 @@
 
 ## Others 
 
+- [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 - [bundesAPI/apis](https://github.com/bundesAPI/apis) - Apis list.
 - [bundesAPI/sofortmassnahmen](https://github.com/bundesAPI/sofortmassnahmen) - Zivilgesellschaftliche Beteiligung zu den „Sofortmaßnahmen Zweites Open Data Gesetz“
 - [jitsi-contrib/jitsi-traefik](https://github.com/jitsi-contrib/jitsi-traefik) - Traefik configuration for Jitsi Meet on Docker
@@ -7928,7 +7935,6 @@
 - [pkp/ojs](https://github.com/pkp/ojs) - Open Journal Systems
 - [pkp/pkp-lib](https://github.com/pkp/pkp-lib) - PKP Web Application Library
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more!
-- [nokonoko/Uguu](https://github.com/nokonoko/Uguu) - Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.
 - [timegridio/timegrid](https://github.com/timegridio/timegrid) - Free, open-source, online appointments platform based on Laravel PHP Framework.
 - [ushahidi/platform](https://github.com/ushahidi/platform) - Ushahidi Platform API version 3+
 - [nextcloud/user_external](https://github.com/nextcloud/user_external) - 👥 External user authentication methods like IMAP, SMB and FTP
@@ -10316,6 +10322,7 @@
 
 ## Rust 
 
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [datrs/hypercore-protocol-rs](https://github.com/datrs/hypercore-protocol-rs) - Rust implementation of Hypercore protocol
 - [denoland/deno_graph](https://github.com/denoland/deno_graph) - The module graph logic for Deno CLI
 - [jbowens/covplot](https://github.com/jbowens/covplot) - Live graphs of worldwide CoVID-19 data
@@ -10608,7 +10615,6 @@
 
 ## SCSS 
 
-- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [hyphacoop/digitalgarden](https://github.com/hyphacoop/digitalgarden) - A public notebook / digital garden for The Bentway’s Digital and/as Public Space Micro-Residency
 - [divio/diataxis-documentation-framework](https://github.com/divio/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 - [kdevo/osprey-delight](https://github.com/kdevo/osprey-delight) - Osprey Delight is the free-minded artist's choice for a clutter-free and blazingly fast single-page portfolio.
@@ -10752,6 +10758,7 @@
 
 ## Shell 
 
+- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [noxifoxi/deno_install-arm64](https://github.com/noxifoxi/deno_install-arm64) - Deno Binary Installer for ARM64
 - [LukeChannings/kube-config](https://github.com/LukeChannings/kube-config) - Luke's kubeconfig
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
@@ -11947,6 +11954,7 @@
 - [seenaburns/isolate](https://github.com/seenaburns/isolate) - Lightweight image browser
 - [skanaar/nomnoml](https://github.com/skanaar/nomnoml) - The sassy UML diagram renderer
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
+- [LDflex/LDflex-Comunica](https://github.com/LDflex/LDflex-Comunica) - Comunica query engine support for the LDflex language
 - [pubpub/pubpub](https://github.com/pubpub/pubpub) - Open Community Publishing
 - [icewind1991/files_markdown](https://github.com/icewind1991/files_markdown) - Nextcloud markdown editor
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
