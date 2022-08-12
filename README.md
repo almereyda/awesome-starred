@@ -720,6 +720,10 @@
 
 ## CSS 
 
+- [fluid-project/floeproject.org](https://github.com/fluid-project/floeproject.org) - The Floe Project website
+- [pusher/docs](https://github.com/pusher/docs) - The all new Pusher docs, powered by @11ty and @vercel
+- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS.
+- [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [libremesh/lime-web](https://github.com/libremesh/lime-web) - LibreMesh web site using Jekyll
@@ -3302,6 +3306,11 @@
 
 ## JavaScript 
 
+- [fluid-project/fluidproject.org](https://github.com/fluid-project/fluidproject.org) - The Fluid Project website
+- [fluid-project/eleventy-plugin-fluid](https://github.com/fluid-project/eleventy-plugin-fluid) - Eleventy plugin which provides common filters, shortcodes and transforms for Fluid Project websites.
+- [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
+- [11ty/eleventy-plugin-vite](https://github.com/11ty/eleventy-plugin-vite) - A plugin to use Vite with Eleventy
+- [fpapado/eleventy-with-vite](https://github.com/fpapado/eleventy-with-vite) - This is a template (or demo) for integrating Vite with Eleventy.
 - [jdsteinbach/eleventy-plugin-toc](https://github.com/jdsteinbach/eleventy-plugin-toc) - 11ty plugin to generate a TOC from page content
 - [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates.
 - [brob/eleventy-plugin-svg-contents](https://github.com/brob/eleventy-plugin-svg-contents) - An Eleventy plugin to grab the contents of an SVG file to allow for embedding in your template with all the power of SVG.
@@ -6938,6 +6947,14 @@
 
 ## Nunjucks 
 
+- [fluid-project/trivet](https://github.com/fluid-project/trivet) - Trivet is a simple starter kit for Eleventy-based static sites for the Fluid Project.
+- [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
+- [DFE-Digital/bat-design-history](https://github.com/DFE-Digital/bat-design-history) - A history of the designs for the Find, Apply, Publish, Manage, Register and Support services
+- [11ta/11ta-template](https://github.com/11ta/11ta-template) - Deeply customizable, full-featured, ready to publish blog template built with 11ty, TailwindCSS, & Alpine.js
+- [hankchizljaw/hylia](https://github.com/hankchizljaw/hylia) - Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.
+- [dafiulh/vredeburg](https://github.com/dafiulh/vredeburg) - A simple starter project to create a blog using Eleventy and Tailwind CSS
+- [StaticMania/roxo-eleventy](https://github.com/StaticMania/roxo-eleventy) - 
+- [TryGhost/eleventy-starter-ghost](https://github.com/TryGhost/eleventy-starter-ghost) - A starter template to build websites with Ghost & Eleventy
 - [brob/plug11ty.com](https://github.com/brob/plug11ty.com) - A repository of 11ty plugins
 
 ## OCaml 
@@ -10628,6 +10645,11 @@
 
 ## SCSS 
 
+- [fluid-project/handbook.floeproject.org](https://github.com/fluid-project/handbook.floeproject.org) - The Inclusive Learning Design Handbook website
+- [tannerdolby/eleventy-photo-gallery](https://github.com/tannerdolby/eleventy-photo-gallery) - A starter site for creating a responsive image gallery using the Eleventy static site generator.
+- [matthiasott/eleventy-plus-vite](https://github.com/matthiasott/eleventy-plus-vite) - A clean and fast Eleventy Starter Project with Vite
+- [5t3ph/11ty-netlify-jumpstart](https://github.com/5t3ph/11ty-netlify-jumpstart) - Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.
+- [ygoex/yetty](https://github.com/ygoex/yetty) - Yet another 11ty boilerplate to start a new website with optional blog. This boilerplate is based on eleventy-base-blog et al.
 - [hyphacoop/digitalgarden](https://github.com/hyphacoop/digitalgarden) - A public notebook / digital garden for The Bentway’s Digital and/as Public Space Micro-Residency
 - [kdevo/osprey-delight](https://github.com/kdevo/osprey-delight) - Osprey Delight is the free-minded artist's choice for a clutter-free and blazingly fast single-page portfolio.
 - [rmsubekti/the-roots-home](https://github.com/rmsubekti/the-roots-home) - I am not root, this is a hugo theme.
@@ -11607,6 +11629,7 @@
 
 ## TypeScript 
 
+- [eszterkv/eleventy-starter-typescript](https://github.com/eszterkv/eleventy-starter-typescript) - An unopinionated, minimal 11ty starter with TypeScript templates.
 - [mark-when/parser](https://github.com/mark-when/parser) - Markwhen parser
 - [the-abe-train/globle](https://github.com/the-abe-train/globle) - Use your geography knowledge to figure out the mystery country in as few guesses as possbile!
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
