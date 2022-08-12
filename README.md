@@ -69,6 +69,7 @@
 - [Nginx](#nginx)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -3301,6 +3302,23 @@
 
 ## JavaScript 
 
+- [jdsteinbach/eleventy-plugin-toc](https://github.com/jdsteinbach/eleventy-plugin-toc) - 11ty plugin to generate a TOC from page content
+- [11ty/eleventy-plugin-syntaxhighlight](https://github.com/11ty/eleventy-plugin-syntaxhighlight) - A pack of Eleventy plugins for syntax highlighting in Markdown, Liquid, and Nunjucks templates.
+- [brob/eleventy-plugin-svg-contents](https://github.com/brob/eleventy-plugin-svg-contents) - An Eleventy plugin to grab the contents of an SVG file to allow for embedding in your template with all the power of SVG.
+- [tannerdolby/eleventy-plugin-metagen](https://github.com/tannerdolby/eleventy-plugin-metagen) - An Eleventy shortcode that generates document metadata.
+- [orchidjs/eleventy-plugin-ids](https://github.com/orchidjs/eleventy-plugin-ids) - @11ty plugin for adding ids to html headings and other elements
+- [adamduncan/eleventy-plugin-i18n](https://github.com/adamduncan/eleventy-plugin-i18n) - Eleventy plugin to assist with internationalization and dictionary translations
+- [vseventer/eleventy-plugin-helmet](https://github.com/vseventer/eleventy-plugin-helmet) - A document head manager for Eleventy.
+- [daviddarnes/eleventy-plugin-ghost](https://github.com/daviddarnes/eleventy-plugin-ghost) - Access the Ghost Content API in Eleventy 👻🎛
+- [nhoizey/images-responsiver](https://github.com/nhoizey/images-responsiver) - Global solution for responsive images, transforming simple image HTML syntax into better responsive images syntax.
+- [11ty/eleventy-plugin-rss](https://github.com/11ty/eleventy-plugin-rss) - A pack of Eleventy plugins for generating an RSS feed.
+- [11ty/11ty-website](https://github.com/11ty/11ty-website) - Documentation site for the Eleventy static site generator.
+- [11ty/eleventy-img](https://github.com/11ty/eleventy-img) - Utility to perform build-time image transformations.
+- [11ty/eleventy-fetch](https://github.com/11ty/eleventy-fetch) - Utility to cache any remote asset: Image, Video, Web Font, CSS, JSON, etc
+- [11ty/eleventy-plugin-directory-output](https://github.com/11ty/eleventy-plugin-directory-output) - Group and sort Eleventy’s verbose output by directory (and show file size with benchmarks)
+- [brob/eleventy-plugin-blog-tools](https://github.com/brob/eleventy-plugin-blog-tools) - A collection of shortcodes, filters and tags that make blogging on 11ty more fun
+- [thigoap/eleventy-plugin-reader-bar](https://github.com/thigoap/eleventy-plugin-reader-bar) - A plugin to add a reader bar into your Eleventy template as you scroll the page.
+- [11ty/eleventy-navigation](https://github.com/11ty/eleventy-navigation) - A plugin for creating hierarchical navigation in Eleventy projects. Supports breadcrumbs too!
 - [MichaelSolati/portfolio](https://github.com/MichaelSolati/portfolio) - A portfolio designed for lazy developers all over the world. With little configuration and maintanince let this application automatically update itself without you having to lift a finger!
 - [shamilnabiyev/schema-visualizer](https://github.com/shamilnabiyev/schema-visualizer) - Data modeling tool for JSON Documents, JSON-Schema and document based NoSQL Databases
 - [ishubin/schemio](https://github.com/ishubin/schemio) - Web based diagramming app that allows you to build interactive diagrams
@@ -6917,6 +6935,10 @@
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
+## Nunjucks 
+
+- [brob/plug11ty.com](https://github.com/brob/plug11ty.com) - A repository of 11ty plugins
 
 ## OCaml 
 
