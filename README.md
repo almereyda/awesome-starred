@@ -1546,6 +1546,8 @@
 
 ## Go 
 
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) - A bootstrapping and management tool for k0s clusters.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -10362,6 +10364,8 @@
 
 ## Rust 
 
+- [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+- [untitaker/quickenv](https://github.com/untitaker/quickenv) - An unintrusive environment manager
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol.(用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
 - [drifting-in-space/spawner](https://github.com/drifting-in-space/spawner) - Session backend orchestrator for ambitious browser-based apps.
@@ -10803,6 +10807,16 @@
 
 ## Shell 
 
+- [kjkuan/Runbook.md](https://github.com/kjkuan/Runbook.md) - Write Bash executable runbooks in Markdown.
+- [bashup/gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs
+- [bashup/dotenv](https://github.com/bashup/dotenv) - Programmatically parse/read/edit .env files (docker-compose format)
+- [bashup/lore](https://github.com/bashup/lore) - Track bash history in per-project (or per-tmux-pane) files with autosave and autoswitch
+- [bashup/basher](https://github.com/bashup/basher) - A package manager for shell scripts.
+- [bashup/.devkit](https://github.com/bashup/.devkit) - Portable project automation and dependency bootstrapping for polyglot projects
+- [bashup/jqmd](https://github.com/bashup/jqmd) - Write and document your jq/shell scripts with markdown
+- [bashup/loco](https://github.com/bashup/loco) - LOcally-configured COmmands with `loco`
+- [bashup/doco](https://github.com/bashup/doco) - docker-compose project automation and literate devops
+- [bashup/mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [rfvgyhn/docker-factorio](https://github.com/rfvgyhn/docker-factorio) - https://hub.docker.com/r/rfvgyhn/factorio/
 - [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19  installer for Gnu/Linux
