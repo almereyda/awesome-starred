@@ -1546,6 +1546,7 @@
 
 ## Go 
 
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [greenpau/caddy-systemd](https://github.com/greenpau/caddy-systemd) - Service Management App for Caddy v2
@@ -6856,6 +6857,7 @@
 
 ## Makefile 
 
+- [chlorm/elvish-stl](https://github.com/chlorm/elvish-stl) - An Elvish module that provides standard portable functions.
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [r-pufky/digikam](https://github.com/r-pufky/digikam) - Digikam docker build repository
 - [chevereto/v4-docker](https://github.com/chevereto/v4-docker) - Bootstrapped Chevereto Docker images
@@ -6997,6 +6999,11 @@
 
 ## Others 
 
+- [chlorm/elvish-dotfile-manager](https://github.com/chlorm/elvish-dotfile-manager) - An Elvish module to manage dotfiles.
+- [chlorm/elvish-ssh](https://github.com/chlorm/elvish-ssh) - An Elvish module for automatically configuring an ssh-agent
+- [chlorm/elvish-util-wrappers](https://github.com/chlorm/elvish-util-wrappers) - Elvish modules that wrap various command line utilities.
+- [chlorm/elvish-auto-env](https://github.com/chlorm/elvish-auto-env) - An Elvish module for runtime environment configuration.
+- [chlorm/kratos](https://github.com/chlorm/kratos) - A user environment configuration framework
 - [javierguzman/kubernetes-fider](https://github.com/javierguzman/kubernetes-fider) - My Kubernetes configuration template for Fider
 - [leogallego/awesome-vps-price-breakdown](https://github.com/leogallego/awesome-vps-price-breakdown) - Cloud and VPS price breakdown
 - [elektrobohemian/digitisation_fails](https://github.com/elektrobohemian/digitisation_fails) - A curated list of digitization fails with a focus on eGovernment in German language.
