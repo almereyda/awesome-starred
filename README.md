@@ -1162,6 +1162,7 @@
 
 ## CoffeeScript 
 
+- [arximboldi/mixco](https://github.com/arximboldi/mixco) - Mixco is a framework for creating hardware controller scripts for the amazing Mixxx DJ software
 - [nirocfz/arabica](https://github.com/nirocfz/arabica) - A port of the Ghost arabica theme for Hugo
 - [WardCunningham/vw-sfw-script](https://github.com/WardCunningham/vw-sfw-script) - Virtual Worlds Timeline to Federated Wiki Translator
 - [Considerit/ConsiderIt](https://github.com/Considerit/ConsiderIt) - For deliberation and opinion visualization
@@ -8507,6 +8508,7 @@
 
 ## Python 
 
+- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [fief-dev/fief](https://github.com/fief-dev/fief) - Users and authentication management SaaS
 - [dustinkirkland/instance-type](https://github.com/dustinkirkland/instance-type) - A common mapping of various cloud instance types to the resources they provide
 - [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
