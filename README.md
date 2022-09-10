@@ -2231,6 +2231,7 @@
 
 ## HTML 
 
+- [bmacho/sbviewer](https://github.com/bmacho/sbviewer) - nbviewer-like website for opening Starboard Notebooks from github, gist, or any other place
 - [w3ctag/societal-impact-questionnaire](https://github.com/w3ctag/societal-impact-questionnaire) - Questions to help spec authors and reviewers critically assess the impacts of web platform features
 - [networkcube/vistorian-monorepo](https://github.com/networkcube/vistorian-monorepo) - 
 - [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
@@ -3311,6 +3312,10 @@
 
 ## JavaScript 
 
+- [texodus/literally](https://github.com/texodus/literally) - A tool for literate programming in Javascript
+- [TomasHubelbauer/markright](https://github.com/TomasHubelbauer/markright) - Didactic literate programming
+- [earldouglas/codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files
+- [thesephist/litterate](https://github.com/thesephist/litterate) - Generate beautiful literate programming-style description of your code from comment annotations
 - [fluid-project/fluidproject.org](https://github.com/fluid-project/fluidproject.org) - The Fluid Project website
 - [fluid-project/eleventy-plugin-fluid](https://github.com/fluid-project/eleventy-plugin-fluid) - Eleventy plugin which provides common filters, shortcodes and transforms for Fluid Project websites.
 - [precondition/keymapdb](https://github.com/precondition/keymapdb) - Online database of keymaps for programmable keyboards, with a focus on QMK ergonomic keyboards.
@@ -7001,6 +7006,7 @@
 
 ## Others 
 
+- [abulka/lcodemaps](https://github.com/abulka/lcodemaps) - Literate Code Maps - diagramming methodology for understanding source code
 - [chlorm/elvish-dotfile-manager](https://github.com/chlorm/elvish-dotfile-manager) - An Elvish module to manage dotfiles.
 - [chlorm/elvish-ssh](https://github.com/chlorm/elvish-ssh) - An Elvish module for automatically configuring an ssh-agent
 - [chlorm/elvish-util-wrappers](https://github.com/chlorm/elvish-util-wrappers) - Elvish modules that wrap various command line utilities.
@@ -8517,6 +8523,9 @@
 
 ## Python 
 
+- [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
+- [axiros/docutools](https://github.com/axiros/docutools) - Dev Centric Tools for Mkdocs Based Documentation
+- [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec) - Utilities to execute code blocks in Markdown files.
 - [pantsbuild/pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [fief-dev/fief](https://github.com/fief-dev/fief) - Users and authentication management SaaS
 - [dustinkirkland/instance-type](https://github.com/dustinkirkland/instance-type) - A common mapping of various cloud instance types to the resources they provide
@@ -10364,6 +10373,9 @@
 
 ## Rust 
 
+- [mlange-42/yarner](https://github.com/mlange-42/yarner) - Literate Programming command line tool for Markdown
+- [nickpascucci/verso](https://github.com/nickpascucci/verso) - A new approach to literate programming.
+- [CSSSR/fundoc](https://github.com/CSSSR/fundoc) - Fundoc - the right way to generate documentation
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [untitaker/quickenv](https://github.com/untitaker/quickenv) - An unintrusive environment manager
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -11660,6 +11672,8 @@
 
 ## TypeScript 
 
+- [gicentre/litvis](https://github.com/gicentre/litvis) - Literate Visualization: Theory, software and examples
+- [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [ristemingov/ngSurvey](https://github.com/ristemingov/ngSurvey) - Angular application for surveys. You can create your surveys using different types of survey questions.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
