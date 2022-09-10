@@ -2231,6 +2231,8 @@
 
 ## HTML 
 
+- [rubensworks/slides-2022-comunica-launch-intro](https://github.com/rubensworks/slides-2022-comunica-launch-intro) - Slides for Comunica Association Launch Event on Comunica Association Introduction
+- [rubensworks/slides-2022-semantics-comunica](https://github.com/rubensworks/slides-2022-semantics-comunica) - Slides for Semantics 2022 on Querying Knowledge Graphs on the Web with Comunica
 - [bmacho/sbviewer](https://github.com/bmacho/sbviewer) - nbviewer-like website for opening Starboard Notebooks from github, gist, or any other place
 - [w3ctag/societal-impact-questionnaire](https://github.com/w3ctag/societal-impact-questionnaire) - Questions to help spec authors and reviewers critically assess the impacts of web platform features
 - [networkcube/vistorian-monorepo](https://github.com/networkcube/vistorian-monorepo) - 
@@ -3312,6 +3314,9 @@
 
 ## JavaScript 
 
+- [alphagov/govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
+- [comunica/jQuery-Widget.js](https://github.com/comunica/jQuery-Widget.js) - 🖼 A jQuery widget to query heterogeneous interfaces using Comunica SPARQL
+- [jeff-zucker/solid-content-manager](https://github.com/jeff-zucker/solid-content-manager) - A syntax-highlighting editor and file manager for Solid data stores.
 - [texodus/literally](https://github.com/texodus/literally) - A tool for literate programming in Javascript
 - [TomasHubelbauer/markright](https://github.com/TomasHubelbauer/markright) - Didactic literate programming
 - [earldouglas/codedown](https://github.com/earldouglas/codedown) - Extract code blocks from Markdown files
@@ -6955,6 +6960,7 @@
 
 ## Nunjucks 
 
+- [alphagov/di-solid-prototype](https://github.com/alphagov/di-solid-prototype) - A prototype to evaluate Solid as a personal data store
 - [ar363/eleventy-stylus-blog-theme](https://github.com/ar363/eleventy-stylus-blog-theme) - Repository for a template blog website built out using Eleventy static site generator and Stylus CSS preprocessor
 - [fluid-project/trivet](https://github.com/fluid-project/trivet) - Trivet is a simple starter kit for Eleventy-based static sites for the Fluid Project.
 - [peruvianidol/11ty-recipes](https://github.com/peruvianidol/11ty-recipes) - Everything you need to build an Eleventy site from scratch
@@ -11672,6 +11678,9 @@
 
 ## TypeScript 
 
+- [rubensworks/solid-react-graphql-ld.js](https://github.com/rubensworks/solid-react-graphql-ld.js) - ♻️ React components and hooks for building Solid apps with GraphQL-LD
+- [Otto-AA/solid-filemanager](https://github.com/Otto-AA/solid-filemanager) - A file manager for solid pods.
+- [LinkedSoftwareDependencies/Components.js](https://github.com/LinkedSoftwareDependencies/Components.js) - 🧩 A semantic dependency injection framework
 - [gicentre/litvis](https://github.com/gicentre/litvis) - Literate Visualization: Theory, software and examples
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
 - [ristemingov/ngSurvey](https://github.com/ristemingov/ngSurvey) - Angular application for surveys. You can create your surveys using different types of survey questions.
