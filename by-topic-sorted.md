@@ -90,6 +90,7 @@
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
@@ -451,6 +452,7 @@
 
 ## api 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - [WIP] High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
@@ -1437,6 +1439,7 @@
 
 ## css 
 
+- [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [fraction/oasis](https://github.com/fraction/oasis) - Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt (SSB).
 - [novanet/Ghost-theme](https://github.com/novanet/Ghost-theme) - Novanet theme for Ghost
@@ -1712,6 +1715,7 @@
 
 ## database 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - [WIP] High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
@@ -2493,6 +2497,7 @@
 
 ## electron 
 
+- [dmitrijs/WorkLogIfy](https://github.com/dmitrijs/WorkLogIfy) - Spend less time on what's required, more time on what's important.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [jitsi/jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -2712,6 +2717,8 @@
 
 ## firebase 
 
+- [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
+- [jesusantguerrero/zen](https://github.com/jesusantguerrero/zen) - Zen. is a productivity app that integrates Eisenhower Matrix, Pomodoros, and part of the Get Things Done (GTD) principles in a unique way, to improve your developer routine.
 - [MichaelSolati/portfolio](https://github.com/MichaelSolati/portfolio) - A portfolio designed for lazy developers all over the world. With little configuration and maintanince let this application automatically update itself without you having to lift a finger!
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -3085,6 +3092,7 @@
 
 ## go 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -3244,8 +3252,13 @@
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
+## godot 
+
+- [d-sacre/stay-organized](https://github.com/d-sacre/stay-organized) - Time-tracking, Task Board, Notes, To-Do-List and Organizer Software. Fork of Mad Cookies Studio's "Mad Productivity", https://github.com/Mad-Cookies-Studio/mad-productivity
+
 ## golang 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
@@ -4059,6 +4072,7 @@
 
 ## html 
 
+- [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
 - [fraction/oasis](https://github.com/fraction/oasis) - Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt (SSB).
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
@@ -4381,6 +4395,7 @@
 
 ## javascript 
 
+- [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
@@ -5346,6 +5361,7 @@
 
 ## laravel 
 
+- [jesusantguerrero/sunday](https://github.com/jesusantguerrero/sunday) - monday clone with laravel 8, jetstream, inertia and vue
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [wbstack/api](https://github.com/wbstack/api) - Main Laravel based API for wbstack.com
 - [phanan/kupo](https://github.com/phanan/kupo) - ✅ Simple site launch checklist checker/validator.
@@ -5641,7 +5657,7 @@
 
 ## lua 
 
-- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - an introduction about how modern CDNs work
+- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [Spellsweaver/Hexfield](https://github.com/Spellsweaver/Hexfield) - Hexagonal field simulation in Love2d
@@ -6702,6 +6718,14 @@
 
 ## others 
 
+- [TKLeuPT/Kanboard-Time-Track-To-Minutes](https://github.com/TKLeuPT/Kanboard-Time-Track-To-Minutes) - This plugin allows you to see the time tracking in minutes instead the normal decimal hours.
+- [Paradxil/tarry](https://github.com/Paradxil/tarry) - A simple time tracker and invoice creator.
+- [Mad-Cookies-Studio/mad-productivity](https://github.com/Mad-Cookies-Studio/mad-productivity) - Ever felt like being productive? No? Me neither.
+- [robertsv/25minutes](https://github.com/robertsv/25minutes) - 25minutes is a simple yet very powerful time tracking tool
+- [dorianboulch/timy](https://github.com/dorianboulch/timy) - Time management tool
+- [CRTified/Chronodecahedron](https://github.com/CRTified/Chronodecahedron) - https://esphome.io/ powered physical time-tracking dodecahedron.
+- [ever-co/ever-gauzy-desktop-timer](https://github.com/ever-co/ever-gauzy-desktop-timer) - Ever® Gauzy™ Desktop Timer App
+- [Klaster1/timer-5](https://github.com/Klaster1/timer-5) - A simple time-tracking tool
 - [timkpaine/jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe) - View html as an embedded iframe in JupyterLab
 - [ipfs-shipyard/git-remote-ipld](https://github.com/ipfs-shipyard/git-remote-ipld) - 
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
@@ -14901,6 +14925,7 @@
 
 ## postgresql 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
@@ -14980,6 +15005,7 @@
 
 ## project-management 
 
+- [robsonperassoli/atomic_v2](https://github.com/robsonperassoli/atomic_v2) - A time tracking app built for teams
 - [bashup/loco](https://github.com/bashup/loco) - LOcally-configured COmmands with `loco`
 - [NicolasPetton/Projectify](https://github.com/NicolasPetton/Projectify) - Project management for TiddlyWiki
 - [leif81/bzkanban](https://github.com/leif81/bzkanban) - :hocho: A kanban board for the Bugzilla issue tracker
@@ -15725,6 +15751,8 @@
 
 ## react 
 
+- [BryanMorgan/time-tracking-app](https://github.com/BryanMorgan/time-tracking-app) - Reference React application for tracking time in tasks across multiple projects. Leverages the Golang API in https://github.com/BryanMorgan/time-tracking-api.
+- [pitgrap/time-tracking-app](https://github.com/pitgrap/time-tracking-app) - Simple automatic time tracking app
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
@@ -16640,6 +16668,7 @@
 
 ## software 
 
+- [d-sacre/stay-organized](https://github.com/d-sacre/stay-organized) - Time-tracking, Task Board, Notes, To-Do-List and Organizer Software. Fork of Mad Cookies Studio's "Mad Productivity", https://github.com/Mad-Cookies-Studio/mad-productivity
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux.
 - [rseng/software](https://github.com/rseng/software) - research software encyclopedia database
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
@@ -17089,6 +17118,7 @@
 
 ## vue 
 
+- [jesusantguerrero/sunday](https://github.com/jesusantguerrero/sunday) - monday clone with laravel 8, jetstream, inertia and vue
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
 - [aethereans/aether-app](https://github.com/aethereans/aether-app) - Aether client app with bundled front-end and P2P back-end
