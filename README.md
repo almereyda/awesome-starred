@@ -42,6 +42,7 @@
 - [F#](#f#)
 - [FreeMarker](#freemarker)
 - [GAMS](#gams)
+- [GDScript](#gdscript)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -65,6 +66,7 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Marko](#marko)
 - [Mermaid](#mermaid)
 - [Meson](#meson)
 - [Mustache](#mustache)
@@ -495,6 +497,7 @@
 
 ## C++ 
 
+- [CRTified/Chronodecahedron](https://github.com/CRTified/Chronodecahedron) - https://esphome.io/ powered physical time-tracking dodecahedron.
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
@@ -1427,6 +1430,7 @@
 
 ## Elixir 
 
+- [robsonperassoli/atomic_v2](https://github.com/robsonperassoli/atomic_v2) - A time tracking app built for teams
 - [interfacerproject/zenflows](https://github.com/interfacerproject/zenflows) - Resource-Event-Agent Graph Database governed by Valueflows vocabulary logics
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
@@ -1551,12 +1555,18 @@
 - [magpiemodel/magpie](https://github.com/magpiemodel/magpie) - Model of Agricultural Production and its Impact on the Environment (MAgPIE) - model code
 - [remindmodel/remind](https://github.com/remindmodel/remind) - REMIND - REgional Model of INvestments and Development
 
+## GDScript 
+
+- [Mad-Cookies-Studio/mad-productivity](https://github.com/Mad-Cookies-Studio/mad-productivity) - Ever felt like being productive? No? Me neither.
+- [d-sacre/stay-organized](https://github.com/d-sacre/stay-organized) - Time-tracking, Task Board, Notes, To-Do-List and Organizer Software. Fork of Mad Cookies Studio's "Mad Productivity", https://github.com/Mad-Cookies-Studio/mad-productivity
+
 ## Gherkin 
 
 - [Xe/when-then-zen](https://github.com/Xe/when-then-zen) - Meditation instructions from spiritual texts ripped out of the contexts of their spirituality and presented in the universal format of Gherkin
 
 ## Go 
 
+- [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.
 - [ipfs-shipyard/git-remote-ipld](https://github.com/ipfs-shipyard/git-remote-ipld) - 
@@ -3348,6 +3358,8 @@
 
 ## JavaScript 
 
+- [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
+- [BryanMorgan/time-tracking-app](https://github.com/BryanMorgan/time-tracking-app) - Reference React application for tracking time in tasks across multiple projects. Leverages the Golang API in https://github.com/BryanMorgan/time-tracking-api.
 - [timkpaine/jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe) - View html as an embedded iframe in JupyterLab
 - [charlieschwabacher/gestalt](https://github.com/charlieschwabacher/gestalt) - Use the GraphQL schema language and a small set of directives to define an API with a PostgreSQL backend declaratively, really quickly, and with a tiny amount of code.
 - [TykTechnologies/demo-slo-prometheus-grafana](https://github.com/TykTechnologies/demo-slo-prometheus-grafana) - SLIs and SLOs with Prometheus and Grafana for your APIs managed by Tyk
@@ -6861,7 +6873,7 @@
 ## Lua 
 
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH
-- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - an introduction about how modern CDNs work
+- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn
 - [rxi/lite](https://github.com/rxi/lite) - A lightweight text editor written in Lua
 - [Spellsweaver/Hexfield](https://github.com/Spellsweaver/Hexfield) - Hexagonal field simulation in Love2d
 - [libremesh/lime-packages](https://github.com/libremesh/lime-packages) - OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking
@@ -6954,6 +6966,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [rust-lang-de/rustbook-de](https://github.com/rust-lang-de/rustbook-de) - Deutsche Gemeinschafts-Übersetzung des offiziellen Rust-Buchs
 
+## Marko 
+
+- [Paradxil/tarry](https://github.com/Paradxil/tarry) - A simple time tracker and invoice creator.
+
 ## Mermaid 
 
 - [MurmurationsNetwork/MurmurationsProtocol](https://github.com/MurmurationsNetwork/MurmurationsProtocol) - Making movements visible - The Murmurations protocol is a new way to manage directories and maps.
@@ -7042,6 +7058,7 @@
 
 ## Others 
 
+- [ever-co/ever-gauzy-desktop-timer](https://github.com/ever-co/ever-gauzy-desktop-timer) - Ever® Gauzy™ Desktop Timer App
 - [TykTechnologies/akita-helm-chart](https://github.com/TykTechnologies/akita-helm-chart) - Helm charts for akita that can be added to a kubenertes cluster to create OAS automatically.
 - [rajtilakjee/jupyter-notebook-resources](https://github.com/rajtilakjee/jupyter-notebook-resources) - Jupyter Notebook resources.
 - [toby63/shiftfs-dkms](https://github.com/toby63/shiftfs-dkms) - shiftfs kernel module via dkms
@@ -8008,6 +8025,7 @@
 
 ## PHP 
 
+- [TKLeuPT/Kanboard-Time-Track-To-Minutes](https://github.com/TKLeuPT/Kanboard-Time-Track-To-Minutes) - This plugin allows you to see the time tracking in minutes instead the normal decimal hours.
 - [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE) - Paste is a project that started from the files pastebin.com used before it was bought.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [Logicify/mautic-advanced-templates-bundle](https://github.com/Logicify/mautic-advanced-templates-bundle) - Plugin extends default email template capabilities with TWIG block so you can use advanced scripting techniques like conditions, loops etc
@@ -11771,6 +11789,11 @@
 
 ## TypeScript 
 
+- [robertsv/25minutes](https://github.com/robertsv/25minutes) - 25minutes is a simple yet very powerful time tracking tool
+- [dorianboulch/timy](https://github.com/dorianboulch/timy) - Time management tool
+- [dmitrijs/WorkLogIfy](https://github.com/dmitrijs/WorkLogIfy) - Spend less time on what's required, more time on what's important.
+- [pitgrap/time-tracking-app](https://github.com/pitgrap/time-tracking-app) - Simple automatic time tracking app
+- [Klaster1/timer-5](https://github.com/Klaster1/timer-5) - A simple time-tracking tool
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
@@ -12336,6 +12359,8 @@
 
 ## Vue 
 
+- [jesusantguerrero/sunday](https://github.com/jesusantguerrero/sunday) - monday clone with laravel 8, jetstream, inertia and vue
+- [jesusantguerrero/zen](https://github.com/jesusantguerrero/zen) - Zen. is a productivity app that integrates Eisenhower Matrix, Pomodoros, and part of the Get Things Done (GTD) principles in a unique way, to improve your developer routine.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [c6p/logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) - Logseq plugin for hypothes.is
