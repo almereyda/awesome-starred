@@ -281,6 +281,7 @@
 
 ## analytics 
 
+- [hamilton/microfiche](https://github.com/hamilton/microfiche) - ALPHA ~ A web extension framework for collecting rich, customized browsing history datasets.
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -369,6 +370,7 @@
 
 ## angular 
 
+- [JP1016/Paper](https://github.com/JP1016/Paper) - 🚀A "no-cloud" note taking app with "networkless" sharing. https://paperapp.now.sh
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [open-learning-exchange/planet](https://github.com/open-learning-exchange/planet) - 🌍 Planet Learning - Angular application
@@ -452,6 +454,10 @@
 
 ## api 
 
+- [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
+- [alechash/git-bin](https://github.com/alechash/git-bin) - an open source paste site
+- [pls-shareit/api](https://github.com/pls-shareit/api) - The API server for shareit.
 - [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - [WIP] High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
 - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff.
@@ -573,6 +579,7 @@
 
 ## automation 
 
+- [deep5050/NaughtyLust](https://github.com/deep5050/NaughtyLust) - Useful Nautilus Scripts made with :heart:
 - [antony-jr/AppImageUpdater](https://github.com/antony-jr/AppImageUpdater) - AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.
 - [erigones/esdc-ce](https://github.com/erigones/esdc-ce) - Danube Cloud :: Community Edition
 - [sinnwerkstatt/runrestic](https://github.com/sinnwerkstatt/runrestic) - A wrapper script for Restic backup software that inits, creates, prunes and checks backups
@@ -931,6 +938,9 @@
 
 ## bash 
 
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [wilhelm-murdoch/baste](https://github.com/wilhelm-murdoch/baste) - A paste bin tool written in Bash.
+- [dcousens/timeup](https://github.com/dcousens/timeup) - Terminal based time tracking software
 - [gpoore/codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [kjkuan/Runbook.md](https://github.com/kjkuan/Runbook.md) - Write Bash executable runbooks in Markdown.
@@ -1010,6 +1020,8 @@
 
 ## bootstrap 
 
+- [aeyoll/toothpaste](https://github.com/aeyoll/toothpaste) - A pastebin written in Rust
+- [paranoiaz/ruby-rails-pastebin](https://github.com/paranoiaz/ruby-rails-pastebin) - Share your notes through the web
 - [miguelsimoni/hugo-initio](https://github.com/miguelsimoni/hugo-initio) - Hugo Theme port of Initio bootstrap template by GetTemplate
 - [SakhriHoussem/vue-resume](https://github.com/SakhriHoussem/vue-resume) - a live resume builder using VueJs
 - [geobretagne/mviewer](https://github.com/geobretagne/mviewer) - Visualiseur géographique thématique basé sur OpenLayers 6.3.1 et Bootstrap 3.3.6 / cartographic application based on OpenLayers and Bootstrap
@@ -1109,6 +1121,7 @@
 
 ## chrome 
 
+- [MeerBiene/x0-extension](https://github.com/MeerBiene/x0-extension) - Who needs a frontend when you can have a browser extension. This extension helps you to interact with https://x0.tf/
 - [blenderskool/untab](https://github.com/blenderskool/untab) - 🔍 A productivity tool to boost your browser workflow!
 - [hackernoon/Free-Internet-Plugin](https://github.com/hackernoon/Free-Internet-Plugin) - A free Internet is a better Internet. This Chrome browser plugin removes paywalled content from Google search results.
 - [lesion/memm](https://github.com/lesion/memm) - chrome/firefox bookmarks manager with remoteStorage support
@@ -1125,6 +1138,7 @@
 
 ## chrome-extension 
 
+- [MeerBiene/x0-extension](https://github.com/MeerBiene/x0-extension) - Who needs a frontend when you can have a browser extension. This extension helps you to interact with https://x0.tf/
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [lpimem/hlc](https://github.com/lpimem/hlc) - An open-source web page highlighter
 - [hackernoon/Free-Internet-Plugin](https://github.com/hackernoon/Free-Internet-Plugin) - A free Internet is a better Internet. This Chrome browser plugin removes paywalled content from Google search results.
@@ -1148,6 +1162,20 @@
 
 ## cli 
 
+- [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
+- [zer0bin-dev/zer0](https://github.com/zer0bin-dev/zer0) - 🧑‍💻 // CLI client for zer0bin
+- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste
+- [dogbin/inu](https://github.com/dogbin/inu) - Easily use dogbin from your terminal
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [demfabris/gistit](https://github.com/demfabris/gistit) - Easy code snippet sharing
+- [h5law/paste-cli](https://github.com/h5law/paste-cli) - A CLI tool to interact with a paste-server instance
+- [pls-shareit/cli](https://github.com/pls-shareit/cli) - A command line interface for the shareit server.
+- [misterrager8/ClipBin](https://github.com/misterrager8/ClipBin) - Simple and intuitive code snippet and clipboard manager. It will save any text or code snippet in a MySQL database, allowing you to access it later. Comes with both a command-line and web-based interf
+- [epeters3/time-tracking](https://github.com/epeters3/time-tracking) - A minimal CLI for tracking work time.
+- [nerosnm/punch-clock](https://github.com/nerosnm/punch-clock) - Lightweight terminal time-tracking utility
+- [ryanberckmans/est](https://github.com/ryanberckmans/est) - Track time and predict delivery dates on the command line with Joel Spolsky's evidence-based scheduling
+- [beatbrot/trackie](https://github.com/beatbrot/trackie) - ⏳ trackie is a private, daemon-less time tracker for your CLI.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -1290,6 +1318,7 @@
 
 ## clojure 
 
+- [piranha/piu.clj](https://github.com/piranha/piu.clj) - Simple pastebin
 - [replikativ/konserve](https://github.com/replikativ/konserve) - A clojuresque key-value/document store protocol with core.async.
 - [Zetawar/zetawar](https://github.com/Zetawar/zetawar) - Zetawar is a turn based tactical strategy game implemented in 100% ClojureScript.
 - [replikativ/datahike](https://github.com/replikativ/datahike) - A durable Datalog implementation adaptable for distribution.
@@ -1310,6 +1339,8 @@
 
 ## code 
 
+- [demfabris/gistit](https://github.com/demfabris/gistit) - Easy code snippet sharing
+- [imlinhanchao/code-snippet](https://github.com/imlinhanchao/code-snippet) - Code Snippet Share Web Site
 - [codegouvfr/code.etalab.gouv.fr](https://github.com/codegouvfr/code.etalab.gouv.fr) - 🧢 Display public sector source code repositories
 
 ## code-quality 
@@ -1439,6 +1470,8 @@
 
 ## css 
 
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
 - [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [5t3ph/stylestage](https://github.com/5t3ph/stylestage) - A modern CSS showcase styled by community contributions. Add your stylesheet!
 - [fraction/oasis](https://github.com/fraction/oasis) - Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt (SSB).
@@ -1522,6 +1555,7 @@
 
 ## data 
 
+- [seanbreckenridge/HPI-template](https://github.com/seanbreckenridge/HPI-template) - A cookiecutter template for creating a HPI repository
 - [opendatasoft/semantic-bot](https://github.com/opendatasoft/semantic-bot) - A Semi-Automatic Tool to generate RDF mappings for Opendatasoft's datasets
 - [koordinates/kart](https://github.com/koordinates/kart) - Distributed version-control for geospatial and tabular data
 - [uwdata/arquero](https://github.com/uwdata/arquero) - Query processing and transformation of array-backed data tables.
@@ -1567,6 +1601,8 @@
 
 ## data-analysis 
 
+- [ActivityWatch/aw-research](https://github.com/ActivityWatch/aw-research) - Tools to analyse and experiment with ActivityWatch data
+- [mcwaage1/qs](https://github.com/mcwaage1/qs) - Quantified Self: A Personal Data Aggregator and Dashboard for Self-Trackers and Quantified Self Enthusiasts
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [graphia-app/graphia](https://github.com/graphia-app/graphia) - A visualisation tool for the creation and analysis of graphs
@@ -1592,6 +1628,7 @@
 
 ## data-science 
 
+- [techdoer/ostlog](https://github.com/techdoer/ostlog) - ostlog is a self-tracking tool that motivates individual care, health and well-being.
 - [fbrundu/py_session](https://github.com/fbrundu/py_session) - Print session information
 - [ropensci/drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1654,6 +1691,7 @@
 
 ## data-visualization 
 
+- [mcwaage1/qs](https://github.com/mcwaage1/qs) - Quantified Self: A Personal Data Aggregator and Dashboard for Self-Trackers and Quantified Self Enthusiasts
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - An open source alternative to Looker built using dbt. Made for analysts ❤️
 - [PAIR-code/facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [nteract/semiotic-docs](https://github.com/nteract/semiotic-docs) - Docs for using Semiotic
@@ -1715,6 +1753,7 @@
 
 ## database 
 
+- [guptavasu1213/PostHub](https://github.com/guptavasu1213/PostHub) - This repository contains a RESTful API and front-end for a text sharing web application where the users can share their posts with the public while maintaining anonymity.
 - [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - [WIP] High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1881,6 +1920,7 @@
 
 ## devops 
 
+- [wilhelm-murdoch/baste](https://github.com/wilhelm-murdoch/baste) - A paste bin tool written in Bash.
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [emmanueltouzery/projectpad2](https://github.com/emmanueltouzery/projectpad2) - Projectpad allows to manage secret credentials and server information that you need to handle as a software developer or sysadmin.
 - [kjkuan/Runbook.md](https://github.com/kjkuan/Runbook.md) - Write Bash executable runbooks in Markdown.
@@ -1939,12 +1979,16 @@
 
 ## discord 
 
+- [182exe/linkbandit](https://github.com/182exe/linkbandit) - Linkbandit is a tool that lets you generate links with many custom parameters.
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 
 ## django 
 
+- [kstypik/PasteMate](https://github.com/kstypik/PasteMate) - Pastebin web app allowing users to post plain text with optional syntax highlighting for many programming languages and with a bunch of other features.
+- [zoek1/gister](https://github.com/zoek1/gister) - Fusion between Gist and Pastebin with a Hipster touch
+- [winny-/sillypaste](https://github.com/winny-/sillypaste) - Yet another Django pastebin.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [gpodder/mygpo](https://github.com/gpodder/mygpo) - The gpodder.net webservice
@@ -2043,6 +2087,15 @@
 
 ## docker 
 
+- [choopm/pasted](https://github.com/choopm/pasted) - Minimalistic paste daemon written in golang
+- [s-thom/paste](https://github.com/s-thom/paste) - 📓 A tiny pastebin/gist/tinypaste alternative for self-hosting. Use at your own peril.
+- [beleon/buckets](https://github.com/beleon/buckets) - A tiny and fast in-memory pastbin with curl support
+- [girish946/local-paste](https://github.com/girish946/local-paste) - Lightweight pastebin for home network which may or may not be connected to the internet.
+- [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin, written in Python using Quart.
+- [Cesura/pastey](https://github.com/Cesura/pastey) - A lightweight, self-hosted paste platform
+- [dogbin/dogbin](https://github.com/dogbin/dogbin) - The sexiest pastebin and url shortener ever
+- [justvmexit/doxbin](https://github.com/justvmexit/doxbin) - An minimalistic pastebin with an insight on doxxes.
+- [makramkd/pastebin](https://github.com/makramkd/pastebin) - A simple implementation of a Pastebin-type service
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
@@ -2590,6 +2643,8 @@
 
 ## elixir 
 
+- [achedeuzot/temporar.io](https://github.com/achedeuzot/temporar.io) - A client-side encrypted pastebin backed by Phoenix & Elixir
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
 - [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [antonmi/flowex](https://github.com/antonmi/flowex) - Flow-Based Programming framework for Elixir
@@ -2628,6 +2683,7 @@
 
 ## emoji 
 
+- [slurmulon/tasty-commits](https://github.com/slurmulon/tasty-commits) - :lollipop: Simple commit message convention for easily digestible history streams
 - [denosaurs/emoji](https://github.com/denosaurs/emoji) - 🦄 Emojis for dinosaurs
 - [rossmacarthur/emojis](https://github.com/rossmacarthur/emojis) - ✨ Lookup and iterate over emoji names, shortcodes, and groups
 - [folke/devmoji](https://github.com/folke/devmoji) - :robot: :rocket: :sparkles: Emojify your conventional commits with Devmoji
@@ -2689,6 +2745,10 @@
 
 ## express 
 
+- [imlinhanchao/code-snippet](https://github.com/imlinhanchao/code-snippet) - Code Snippet Share Web Site
+- [JakeStanger/filexplorer](https://github.com/JakeStanger/filexplorer) - A lightweight highly extensible, and highly configurable NodeJS web-based file explorer and utility kit.
+- [alok8bb/okiba](https://github.com/alok8bb/okiba) - [WIP] Simple pastebin and url shortener using NodeJs and Postgres.
+- [dhzdhd/codebin](https://github.com/dhzdhd/codebin) - A pastebin like service with syntax highlighting and a public api
 - [adzialocha/hoffnung3000](https://github.com/adzialocha/hoffnung3000) - Platform for decentralized, anonymized, self-curated festivals
 - [AMSpears/contact-form-backend](https://github.com/AMSpears/contact-form-backend) - Contact Form Backend Clean Template
 - [nainarazz/gourmetic](https://github.com/nainarazz/gourmetic) - Have you ever run out of ideas on what to cook on your next meal? Gourmetic is a simple food recipe app that can help you find a recipe for your next meal.
@@ -2755,6 +2815,16 @@
 
 ## flask 
 
+- [10xJSChad/Darkpaste](https://github.com/10xJSChad/Darkpaste) - Pastebin alternative made for use by me & friends. Made with Python using Flask
+- [parazyd/blck](https://github.com/parazyd/blck) - Ephemeral pastebin/url-shortener
+- [syqu22/flask-pastebin](https://github.com/syqu22/flask-pastebin) - Simple flask web application
+- [beucismis/pastewin](https://github.com/beucismis/pastewin) - Free alternative Pastebin front-end
+- [AWilliams17/PasteMate](https://github.com/AWilliams17/PasteMate) - Pastebin clone implemented in Flask with Vue.JS
+- [rugvedkoshiya/Emergency-Save](https://github.com/rugvedkoshiya/Emergency-Save) - 
+- [Le36/PasteBag](https://github.com/Le36/PasteBag) - PasteBag is an online text storage site. Made with Python, Flask and PostgreSQL.
+- [supriyo-biswas/upaste](https://github.com/supriyo-biswas/upaste) - A tiny pastebin written using the Flask framework.
+- [newtoallofthis123/NoobPaste](https://github.com/newtoallofthis123/NoobPaste) - A Simple PasteBin inspired by pastebin.com
+- [misterrager8/ClipBin](https://github.com/misterrager8/ClipBin) - Simple and intuitive code snippet and clipboard manager. It will save any text or code snippet in a MySQL database, allowing you to access it later. Comes with both a command-line and web-based interf
 - [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
 - [153/multichan](https://github.com/153/multichan) - decentralized, tag-based textboard - 2020.10.31 . production paused 2021.07.01 due to criminal harassment
 - [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
@@ -2889,6 +2959,8 @@
 
 ## frontend 
 
+- [ragsav/copybin_frontend](https://github.com/ragsav/copybin_frontend) - Frontend for Copy&gt;Bin web app( similar to legendary pastebin website)
+- [pls-shareit/web](https://github.com/pls-shareit/web) - A modern-looking web frontend for ShareIt.
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
 - [qri-io/2017-frontend](https://github.com/qri-io/2017-frontend) - qri electron & web frontend
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -2959,6 +3031,8 @@
 
 ## git 
 
+- [alechash/git-bin](https://github.com/alechash/git-bin) - an open source paste site
+- [casperdcl/ghstat](https://github.com/casperdcl/ghstat) - Plot summaries of lines of code written
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [redwood/redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
@@ -3039,6 +3113,14 @@
 
 ## github 
 
+- [wendoj/md-notes](https://github.com/wendoj/md-notes) - Open source note-taking markdown app made with NextJS, TailwindCSS, and PlanetScale
+- [Xvezda/gh-card](https://github.com/Xvezda/gh-card) - :octocat: GitHub Repository Card for Every Web Site
+- [carbondigitalus/pawn-markdown](https://github.com/carbondigitalus/pawn-markdown) - In-browser Markdown editor. Forked from Stack Edit.
+- [mike182uk/fetch-gists](https://github.com/mike182uk/fetch-gists) - Fetch all of your gists from GitHub
+- [casperdcl/ghstat](https://github.com/casperdcl/ghstat) - Plot summaries of lines of code written
+- [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
+- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
+- [varunsridharan/github-gitea-mirror](https://github.com/varunsridharan/github-gitea-mirror) - Simple Python Script To Mirror Repository From Github To Gitea
 - [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
@@ -3092,6 +3174,17 @@
 
 ## go 
 
+- [zer0bin-dev/zer0](https://github.com/zer0bin-dev/zer0) - 🧑‍💻 // CLI client for zer0bin
+- [pztrn/fastpastebin](https://github.com/pztrn/fastpastebin) - Uberfast pastebin in Go
+- [CosmicToast/brpaste](https://github.com/CosmicToast/brpaste) - A pastebin so fast, it burns rubber.
+- [grisu48/pasta](https://github.com/grisu48/pasta) - Stupid simple pastebin service
+- [beleon/buckets](https://github.com/beleon/buckets) - A tiny and fast in-memory pastbin with curl support
+- [dogbin/inu](https://github.com/dogbin/inu) - Easily use dogbin from your terminal
+- [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
+- [nekobin/nekobin](https://github.com/nekobin/nekobin) - Elegant and open-source pastebin service
+- [h5law/paste-server](https://github.com/h5law/paste-server) - Go pastebin HTTP server
+- [jacobsalmela/gofiche](https://github.com/jacobsalmela/gofiche) - Command line pastebin for sharing terminal output (fiche reimplemented in Go)
+- [h5law/paste-cli](https://github.com/h5law/paste-cli) - A CLI tool to interact with a paste-server instance
 - [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
@@ -3258,6 +3351,26 @@
 
 ## golang 
 
+- [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
+- [choopm/pasted](https://github.com/choopm/pasted) - Minimalistic paste daemon written in golang
+- [guptavasu1213/PostHub](https://github.com/guptavasu1213/PostHub) - This repository contains a RESTful API and front-end for a text sharing web application where the users can share their posts with the public while maintaining anonymity.
+- [zllovesuki/b](https://github.com/zllovesuki/b) - like pastebin, but smol
+- [rexxbin/rexxbin](https://github.com/rexxbin/rexxbin) - Just another pastebin written in Go
+- [jmbi/blit.io](https://github.com/jmbi/blit.io) - Easy to use public pastebin, for use on the command line.
+- [zer0bin-dev/zer0](https://github.com/zer0bin-dev/zer0) - 🧑‍💻 // CLI client for zer0bin
+- [gabriel-samfira/gopherbin](https://github.com/gabriel-samfira/gopherbin) - A simple pastebin written in Go
+- [adayoung/gae-pastebin](https://github.com/adayoung/gae-pastebin) - It's an HTML pastebin! Lookie here,
+- [pztrn/fastpastebin](https://github.com/pztrn/fastpastebin) - Uberfast pastebin in Go
+- [iliafrenkel/go-pb](https://github.com/iliafrenkel/go-pb) - Pastebin alternative written in Go
+- [grisu48/pasta](https://github.com/grisu48/pasta) - Stupid simple pastebin service
+- [beleon/buckets](https://github.com/beleon/buckets) - A tiny and fast in-memory pastbin with curl support
+- [nekobin/nekobin](https://github.com/nekobin/nekobin) - Elegant and open-source pastebin service
+- [h5law/paste-server](https://github.com/h5law/paste-server) - Go pastebin HTTP server
+- [h5law/paste-cli](https://github.com/h5law/paste-cli) - A CLI tool to interact with a paste-server instance
+- [fffzlfk/code-paste](https://github.com/fffzlfk/code-paste) - A code paste tool.
+- [112RG/Curator](https://github.com/112RG/Curator) - Simple pastebin written in golang
+- [hoffimar/gott](https://github.com/hoffimar/gott) - go time tracking CLI application
+- [AndrewNeudegg/labtime](https://github.com/AndrewNeudegg/labtime) - A Golang tool for extracting useful information from a Gitlab instance.
 - [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -3553,6 +3666,17 @@
 
 ## hacktoberfest 
 
+- [BBaoVanC/linx-server](https://github.com/BBaoVanC/linx-server) - Self-hosted file/code/media sharing website. Runs https://share.boba.best
+- [winny-/sillypaste](https://github.com/winny-/sillypaste) - Yet another Django pastebin.
+- [GeopJr/BeardBin](https://github.com/GeopJr/BeardBin) - A Zero-Knowledge Encrypted Text/Code sharing project
+- [reynir/origami-sledgehammer](https://github.com/reynir/origami-sledgehammer) - It's a pastebin, okay?
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste
+- [imperialbin/imperial](https://github.com/imperialbin/imperial) - Official mono-repo for https://imperialb.in/
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
+- [nekobin/nekobin](https://github.com/nekobin/nekobin) - Elegant and open-source pastebin service
+- [lus/pasty](https://github.com/lus/pasty) - pasty is a fast and lightweight code pasting server
+- [jacobsalmela/gofiche](https://github.com/jacobsalmela/gofiche) - Command line pastebin for sharing terminal output (fiche reimplemented in Go)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
 - [guilhem/headscale-operator](https://github.com/guilhem/headscale-operator) - A Kubernetes Operator to instanciate and control headscale instances
@@ -4072,6 +4196,8 @@
 
 ## html 
 
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
 - [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
 - [fraction/oasis](https://github.com/fraction/oasis) - Free, open-source, peer-to-peer social application that helps you follow friends and discover new ones on Secure Scuttlebutt (SSB).
@@ -4183,6 +4309,7 @@
 
 ## http 
 
+- [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
@@ -4276,6 +4403,7 @@
 
 ## iot 
 
+- [heedy/heedy](https://github.com/heedy/heedy) - An aggregator for personal metrics, and an extensible analysis engine
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [nneves/tplink-smartplug-tig](https://github.com/nneves/tplink-smartplug-tig) - TP-Link HS110 Smart Wi-Fi Plug Energy Monitoring System using TIG Stack [Telegraf-InfluxDB-Grafana]
 - [Liquid-Prep/Liquid-Prep](https://github.com/Liquid-Prep/Liquid-Prep) - Liquid Prep offers an end-to-end solution for farmers looking to optimize their water usage, especially during times of drought.
@@ -4286,6 +4414,8 @@
 
 ## ipfs 
 
+- [hrishibawane/ipfs-pastebin](https://github.com/hrishibawane/ipfs-pastebin) - Share your code and text easily just like pastebin, but in a decentralized manner
+- [sinkuu/yourbin](https://github.com/sinkuu/yourbin) - Pastebin-like client for IPFS
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) - ⚡️Curated list of resources for the development and applications of blockchain.
 - [AgregoreWeb/agregore-browser](https://github.com/AgregoreWeb/agregore-browser) - A minimal browser for the distributed web (Desktop version)
@@ -4395,6 +4525,19 @@
 
 ## javascript 
 
+- [hamilton/microfiche](https://github.com/hamilton/microfiche) - ALPHA ~ A web extension framework for collecting rich, customized browsing history datasets.
+- [MeerBiene/x0-extension](https://github.com/MeerBiene/x0-extension) - Who needs a frontend when you can have a browser extension. This extension helps you to interact with https://x0.tf/
+- [kiosion/minbin](https://github.com/kiosion/minbin) - A minimal & self-hostable alternative to pastebin, intended for code or other text snippets
+- [rexxbin/rexxbin](https://github.com/rexxbin/rexxbin) - Just another pastebin written in Go
+- [x0tf/vsx0](https://github.com/x0tf/vsx0) - Who needs a frontend when you can have a VSCode Extension
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
+- [carbondigitalus/pawn-markdown](https://github.com/carbondigitalus/pawn-markdown) - In-browser Markdown editor. Forked from Stack Edit.
+- [h5law/paste-site](https://github.com/h5law/paste-site) - Preact frontend site for the paste-server instance
+- [mat-sz/shadowbin-api](https://github.com/mat-sz/shadowbin-api) - 📝 Encrypted text hosting service (Backend)
+- [mat-sz/shadowbin-web](https://github.com/mat-sz/shadowbin-web) - 📝 Encrypted text hosting service (React.js/TypeScript frontend)
+- [paulgreg/mypastebin](https://github.com/paulgreg/mypastebin) - A simple pastebin in node, for personal usage
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
+- [daniel-keogh/codebin](https://github.com/daniel-keogh/codebin) - Code Sharing Tool built with NestJS, PostgreSQL & Vue
 - [alex-drocks/time-tracking-app](https://github.com/alex-drocks/time-tracking-app) - Time Tracking Web App built with vanilla Javascript, HTML, CSS using the Parcel build tool as bundler. Simply calculate time elapsed in hours between two dates or use as toggle start/stop timer.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -5009,6 +5152,8 @@
 
 ## js 
 
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
+- [daniel-keogh/codebin](https://github.com/daniel-keogh/codebin) - Code Sharing Tool built with NestJS, PostgreSQL & Vue
 - [tobimori/dreams](https://github.com/tobimori/dreams) - 👻 Dreams is a beautiful and clean travel-inspired open-source theme for Ghost written with SCSS & Handlebars.
 - [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
 - [SakhriHoussem/vue-resume](https://github.com/SakhriHoussem/vue-resume) - a live resume builder using VueJs
@@ -5029,6 +5174,9 @@
 
 ## json 
 
+- [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
+- [robichaudc/json-resume-builder](https://github.com/robichaudc/json-resume-builder) - A set of tools and scripts to use with the JSON Resume project, in order to streamline to process of updating your resume
+- [makramkd/pastebin](https://github.com/makramkd/pastebin) - A simple implementation of a Pastebin-type service
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [shamilnabiyev/schema-visualizer](https://github.com/shamilnabiyev/schema-visualizer) - Data modeling tool for JSON Documents, JSON-Schema and document based NoSQL Databases
 - [SPARQL-Anything/sparql.anything](https://github.com/SPARQL-Anything/sparql.anything) - SPARQL Anything is a system for Semantic Web re-engineering that allows users to ... query anything with SPARQL.
@@ -5150,6 +5298,7 @@
 
 ## kotlin 
 
+- [dogbin/dogbin](https://github.com/dogbin/dogbin) - The sexiest pastebin and url shortener ever
 - [emansih/FireflyMobile](https://github.com/emansih/FireflyMobile) - Mobile Application for Firefly III written in Kotlin
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
@@ -5476,6 +5625,8 @@
 
 ## linux 
 
+- [screen-sbs/server](https://github.com/screen-sbs/server) - Self-hosted Screenshot, Video and Code sharing with clients for Windows & Linux
+- [dcousens/timeup](https://github.com/dcousens/timeup) - Terminal based time tracking software
 - [zigalenarcic/mangl](https://github.com/zigalenarcic/mangl) - An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs
 - [rouben/zfswatcher](https://github.com/rouben/zfswatcher) - ZFS pool monitoring and notification daemon
@@ -5782,6 +5933,14 @@
 
 ## markdown 
 
+- [wendoj/md-notes](https://github.com/wendoj/md-notes) - Open source note-taking markdown app made with NextJS, TailwindCSS, and PlanetScale
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [Xvezda/gh-card](https://github.com/Xvezda/gh-card) - :octocat: GitHub Repository Card for Every Web Site
+- [carbondigitalus/pawn-markdown](https://github.com/carbondigitalus/pawn-markdown) - In-browser Markdown editor. Forked from Stack Edit.
+- [yne/resume](https://github.com/yne/resume) - Markdown to resume with gist support
+- [JakeStanger/filexplorer](https://github.com/JakeStanger/filexplorer) - A lightweight highly extensible, and highly configurable NodeJS web-based file explorer and utility kit.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [TomasHubelbauer/markright](https://github.com/TomasHubelbauer/markright) - Didactic literate programming
 - [mlange-42/yarner](https://github.com/mlange-42/yarner) - Literate Programming command line tool for Markdown
@@ -6010,6 +6169,13 @@
 
 ## mongodb 
 
+- [c4lyp5o/calypsobin](https://github.com/c4lyp5o/calypsobin) - a bin to paste stuff for anon
+- [cleggacus/my-paste-bin](https://github.com/cleggacus/my-paste-bin) - A simple pastebin webapp made with tRPC, Next.js and MongoDB.
+- [kuro-vale/kuro-paste](https://github.com/kuro-vale/kuro-paste) - A PasteBin API made with NestJS
+- [kiosion/minbin](https://github.com/kiosion/minbin) - A minimal & self-hostable alternative to pastebin, intended for code or other text snippets
+- [rexxbin/rexxbin](https://github.com/rexxbin/rexxbin) - Just another pastebin written in Go
+- [hirako2000/gisteam](https://github.com/hirako2000/gisteam) - ⚡️ Fast server side rendering code beautifier, minifier, pastebin, encoder/decoder and hash generator ⚡️
+- [ragsav/copybin_backend](https://github.com/ragsav/copybin_backend) - Backend for Copy&gt;bin web app (similar to the legendary pastebin website)
 - [appleboy/docker-backup-database](https://github.com/appleboy/docker-backup-database) - Docker image to periodically backup your database (MySQL, Postgres, or MongoDB) to S3 or local disk.
 - [swisscom/backman](https://github.com/swisscom/backman) - :minidisc: a cloud-native app to backup and restore databases
 - [rtrevinnoc/FUTURE](https://github.com/rtrevinnoc/FUTURE) - A private, free, open-source search engine built on a P2P network
@@ -6051,6 +6217,8 @@
 
 ## mongoose 
 
+- [kiosion/minbin](https://github.com/kiosion/minbin) - A minimal & self-hostable alternative to pastebin, intended for code or other text snippets
+- [ragsav/copybin_backend](https://github.com/ragsav/copybin_backend) - Backend for Copy&gt;bin web app (similar to the legendary pastebin website)
 - [iamkumaran/KanbanApp](https://github.com/iamkumaran/KanbanApp) - Kanban App with server and client using Node.js, Javascript, GraphQL, Express, Apollo, Vue, Vuex, Angular
 - [indec-it/sivy](https://github.com/indec-it/sivy) - The survey synchronization server for MongoDB
 - [samuelAnimates/wheelchairWiki](https://github.com/samuelAnimates/wheelchairWiki) - Wheelchair accessibility wiki, using MongoDB, Express, React, and Node.
@@ -6161,6 +6329,9 @@
 
 ## mysql 
 
+- [syqu22/flask-pastebin](https://github.com/syqu22/flask-pastebin) - Simple flask web application
+- [justvmexit/doxbin](https://github.com/justvmexit/doxbin) - An minimalistic pastebin with an insight on doxxes.
+- [misterrager8/ClipBin](https://github.com/misterrager8/ClipBin) - Simple and intuitive code snippet and clipboard manager. It will save any text or code snippet in a MySQL database, allowing you to access it later. Comes with both a command-line and web-based interf
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [taylrun/graphql-directive-sql](https://github.com/taylrun/graphql-directive-sql) - Unify your SQL schema and your GraphQL Schema. Use GraphQL SDL as the lingua franca to define your data requirements.
 - [sqitchers/sqitch](https://github.com/sqitchers/sqitch) - Sensible database change management
@@ -6232,6 +6403,12 @@
 
 ## nextjs 
 
+- [wendoj/md-notes](https://github.com/wendoj/md-notes) - Open source note-taking markdown app made with NextJS, TailwindCSS, and PlanetScale
+- [cleggacus/my-paste-bin](https://github.com/cleggacus/my-paste-bin) - A simple pastebin webapp made with tRPC, Next.js and MongoDB.
+- [BytesToBits/CodeShare](https://github.com/BytesToBits/CodeShare) - 
+- [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [mrcaidev/paste](https://github.com/mrcaidev/paste) - A simple markdown pastebin.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [owncast/owncast-admin](https://github.com/owncast/owncast-admin) - The admin web application for managing an Owncast server.
@@ -6277,6 +6454,11 @@
 
 ## node 
 
+- [mojurasu/memocho](https://github.com/mojurasu/memocho) - Minimal pastebin alternative with no hard frontend JavaScript dependency
+- [imperialbin/imperial](https://github.com/imperialbin/imperial) - Official mono-repo for https://imperialb.in/
+- [JakeStanger/filexplorer](https://github.com/JakeStanger/filexplorer) - A lightweight highly extensible, and highly configurable NodeJS web-based file explorer and utility kit.
+- [paulgreg/mypastebin](https://github.com/paulgreg/mypastebin) - A simple pastebin in node, for personal usage
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [nhoizey/images-responsiver](https://github.com/nhoizey/images-responsiver) - Global solution for responsive images, transforming simple image HTML syntax into better responsive images syntax.
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - :smirk: simple emoji support for node.js projects
@@ -6331,6 +6513,20 @@
 
 ## nodejs 
 
+- [c4lyp5o/calypsobin](https://github.com/c4lyp5o/calypsobin) - a bin to paste stuff for anon
+- [ragsav/copybin_frontend](https://github.com/ragsav/copybin_frontend) - Frontend for Copy&gt;Bin web app( similar to legendary pastebin website)
+- [kiosion/minbin](https://github.com/kiosion/minbin) - A minimal & self-hostable alternative to pastebin, intended for code or other text snippets
+- [viperadnan-git/pasting](https://github.com/viperadnan-git/pasting) - Publishing tool made in nodejs using deta.
+- [imlinhanchao/code-snippet](https://github.com/imlinhanchao/code-snippet) - Code Snippet Share Web Site
+- [h5law/paste-site](https://github.com/h5law/paste-site) - Preact frontend site for the paste-server instance
+- [KMoene/a5-clipboard](https://github.com/KMoene/a5-clipboard) - Moene's Clipboard allows you to create E2E encrypted messages that can not be decrypted by the server administrator or your ISP.
+- [TheRedstoneRadiant/Kale](https://github.com/TheRedstoneRadiant/Kale) - Lightning Fast Pastebin Service
+- [anirudhgray/anibin](https://github.com/anirudhgray/anibin) - A pastebin + quick poll maker.
+- [okiba-org/backend](https://github.com/okiba-org/backend) - back-end for okiba bin.
+- [alok8bb/okiba](https://github.com/alok8bb/okiba) - [WIP] Simple pastebin and url shortener using NodeJs and Postgres.
+- [intern0t/storedin](https://github.com/intern0t/storedin) - A minimal and barebone Pastebin like application developed in NodeJS.
+- [Revoliaa/Revo-Haste](https://github.com/Revoliaa/Revo-Haste) - Fast and simple text sharing website.
+- [ragsav/copybin_backend](https://github.com/ragsav/copybin_backend) - Backend for Copy&gt;bin web app (similar to the legendary pastebin website)
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
 - [thesephist/litterate](https://github.com/thesephist/litterate) - Generate beautiful literate programming-style description of your code from comment annotations
@@ -6558,6 +6754,7 @@
 
 ## npm 
 
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
 - [p2panda/p2panda](https://github.com/p2panda/p2panda) - All the things a panda needs
 - [elbosso/elkjsmicroservice](https://github.com/elbosso/elkjsmicroservice) - This project is aimed at providing a microservice for laying out arbitrarily complex graphs. It builds on the project elk.js for the actual layout algorithms implementation.
 - [BretFisher/node-docker-good-defaults](https://github.com/BretFisher/node-docker-good-defaults) - sample node app for Docker examples
@@ -6610,6 +6807,8 @@
 
 ## open-source 
 
+- [Ghalbeyou/Paster](https://github.com/Ghalbeyou/Paster) - A app to save pastes in json without database written in python
+- [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
 - [Ethereal-Developers-Inc/OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - A privacy-friendly Document Scanner app
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -6718,6 +6917,60 @@
 
 ## others 
 
+- [th0rgall/movievisualization](https://github.com/th0rgall/movievisualization) - A visualization of the movies & documentaries I watched since 2015
+- [rsarai/hq](https://github.com/rsarai/hq) - This is the HeadQuarters of my digital info. HPI library got me inspired and I'm trying to play with the idea on a smaller scale for myself.
+- [ErikBjare/KnowTree](https://github.com/ErikBjare/KnowTree) - Crazy idea about visualizing what you (don't yet) know and create a great plan to learn anything.
+- [ErikBjare/chatalysis](https://github.com/ErikBjare/chatalysis) - Analyse (group)chat messages. Currently supports: Facebook Messenger. Planned: Signal, Discord, WhatsApp
+- [markwk/qs_mind_map](https://github.com/markwk/qs_mind_map) - Mind Map of Quantified Self and Self-Tracking Tech Space
+- [malav-mehta/safebin](https://github.com/malav-mehta/safebin) - A safer paste bin clone
+- [DarcJC/pastebin](https://github.com/DarcJC/pastebin) - A pastebin site powered by Vue2 & PrismJS & Directus
+- [anoncam/sheba](https://github.com/anoncam/sheba) - pastebin / {x} bin
+- [filippofinke/paste](https://github.com/filippofinke/paste) - 🗝️ Client side encrypted text sharing where the server has zero knowledge of the data.
+- [x0tf/server](https://github.com/x0tf/server) - 
+- [exler/fileigloo](https://github.com/exler/fileigloo) - ❄️ Small and simple online file sharing & pastebin
+- [lamehost/pastrami](https://github.com/lamehost/pastrami) - Pastebin web service
+- [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin) - The best way to send files, links, and more from one device to another.
+- [iamsdas/paste](https://github.com/iamsdas/paste) - Static pastebin service without any database.
+- [ThnksCJ/Catalyst-Paste](https://github.com/ThnksCJ/Catalyst-Paste) - Welcome to our Catalyst Paste service. The main purpose of this tool is to share code snippets, configs, server logs, errors...
+- [raftario/filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service
+- [zeloww/Zelow-Bin](https://github.com/zeloww/Zelow-Bin) - A simple Paste Bin!
+- [ryanwinchester/ctrlv](https://github.com/ryanwinchester/ctrlv) - Code paste-bin and editor.
+- [Rahuletto/binnium](https://github.com/Rahuletto/binnium) - This is a template to make a source bin site. But by yourself.
+- [maximeplante/vscode-pastery](https://github.com/maximeplante/vscode-pastery) - VSCode extension for Pastery, the sweetest pastebin in the world
+- [gabriel-samfira/gopherbin-web](https://github.com/gabriel-samfira/gopherbin-web) - Gopherbin Web UI
+- [clamiax/beans](https://github.com/clamiax/beans) - Simple pastebin server
+- [prolesoft/txt](https://github.com/prolesoft/txt) - Client-side encrypted (no server) text sharing
+- [MaximilianHeidenreich/Snipp](https://github.com/MaximilianHeidenreich/Snipp) - Snipp is a powerful, user friendly pastebin tool with a modern aesthetic.
+- [strellic/z3.is](https://github.com/strellic/z3.is) - z3.is a simple NodeJS webapp with cool functionality like a pastebin, URL shortener, ShareX compatibility, and more.
+- [teknologi-umum/polarite](https://github.com/teknologi-umum/polarite) - a Pastebin alternative made for simplicity written in Go.
+- [MKRhere/bin](https://github.com/MKRhere/bin) - Minimal pastebin alternative with no hard frontend JavaScript dependency
+- [PythonistaGuild/MystBin](https://github.com/PythonistaGuild/MystBin) - Easily share your code or text with syntax highlighting and themes for readability.
+- [pasteburn/pasteburn](https://github.com/pasteburn/pasteburn) - Pasteburn is a self-hosted, anonymous pastebin that features burn-after-read and end-to-end encryption.
+- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
+- [lucko/paste](https://github.com/lucko/paste) - paste is a simple web app for writing & sharing code.
+- [eona1301/productive-box](https://github.com/eona1301/productive-box) - Are you an early 🐤 or a night 🦉? Let's check out in gist
+- [Aveek-Saha/lang-stats-box](https://github.com/Aveek-Saha/lang-stats-box) - 💻 Update a pinned gist to show your most used programming languages.
+- [casperdcl/cdcl](https://github.com/casperdcl/cdcl) - `cron` & dashboard in cloud land
+- [ayushbasak/chotaurl-api](https://github.com/ayushbasak/chotaurl-api) - a url shortener / obfuscater REST API
+- [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
+- [binex-dsk/pacebin](https://github.com/binex-dsk/pacebin) - dead-simple,. super minimal pastebin in C
+- [joltcan/paste.se](https://github.com/joltcan/paste.se) - 
+- [brian-the-dev/Paste](https://github.com/brian-the-dev/Paste) - Pastebin clone.
+- [bsdlabs/bsd.to](https://github.com/bsdlabs/bsd.to) - Pastebin (dpaste) Service (hosted at https://bsd.to)
+- [Jameszdev/Codebin](https://github.com/Jameszdev/Codebin) - A simple and easy to use pastebin service.
+- [BricksAndPieces/paste](https://github.com/BricksAndPieces/paste) - A client side text pasting service (similar to websites like pastebin)
+- [BRAVO68WEB/LockNKey](https://github.com/BRAVO68WEB/LockNKey) - Pastebin alt. but a bit different
+- [Sid-Sun/ioctl](https://github.com/Sid-Sun/ioctl) - A Modern E2E Encrypted Pastebin
+- [nalexcastaneda/urlbin](https://github.com/nalexcastaneda/urlbin) - Hastebin like pastebin that stores the text/code encoded in the Url hash. https://url-bin.herokuapp.com/about
+- [vblinden/privbin](https://github.com/vblinden/privbin) - A simple private pastebin with (optional) client side encryption.
+- [ig1711/ryopaste](https://github.com/ig1711/ryopaste) - Pastebin made using Next.js
+- [theabbie/CookieBin](https://github.com/theabbie/CookieBin) - A Bin For Cookies
+- [CorentinTh/snut](https://github.com/CorentinTh/snut) - Another pastebin with a clean and minimalist ui.
+- [nguyenary/note.nguyenary.dev](https://github.com/nguyenary/note.nguyenary.dev) - Just like online Sublime Text, This allows you to store anything from texts, notes to the codes you have been dedicated to.
+- [AIndoria/volumen](https://github.com/AIndoria/volumen) - a personalized instance of termpad, self-hosted pastebin.
+- [it6c65/rainpaste](https://github.com/it6c65/rainpaste) - A Pastebin clone in Rails
+- [Strappazzon/nopaste](https://github.com/Strappazzon/nopaste) - :clipboard: Client-side pastebin
+- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
 - [TKLeuPT/Kanboard-Time-Track-To-Minutes](https://github.com/TKLeuPT/Kanboard-Time-Track-To-Minutes) - This plugin allows you to see the time tracking in minutes instead the normal decimal hours.
 - [Paradxil/tarry](https://github.com/Paradxil/tarry) - A simple time tracker and invoice creator.
 - [Mad-Cookies-Studio/mad-productivity](https://github.com/Mad-Cookies-Studio/mad-productivity) - Ever felt like being productive? No? Me neither.
@@ -14691,6 +14944,8 @@
 
 ## p2p 
 
+- [skorotkiewicz/gundpaste](https://github.com/skorotkiewicz/gundpaste) - Decentralized P2P Pastebin build with gundb
+- [demfabris/gistit](https://github.com/demfabris/gistit) - Easy code snippet sharing
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
@@ -14925,6 +15180,12 @@
 
 ## postgresql 
 
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
+- [Le36/PasteBag](https://github.com/Le36/PasteBag) - PasteBag is an online text storage site. Made with Python, Flask and PostgreSQL.
+- [okiba-org/backend](https://github.com/okiba-org/backend) - back-end for okiba bin.
+- [alok8bb/okiba](https://github.com/alok8bb/okiba) - [WIP] Simple pastebin and url shortener using NodeJs and Postgres.
+- [makramkd/pastebin](https://github.com/makramkd/pastebin) - A simple implementation of a Pastebin-type service
 - [BryanMorgan/time-tracking-api](https://github.com/BryanMorgan/time-tracking-api) - Go API for tracking time in tasks across multiple projects. See https://github.com/BryanMorgan/time-tracking-app for reference React app.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
@@ -15005,6 +15266,7 @@
 
 ## project-management 
 
+- [beatbrot/trackie](https://github.com/beatbrot/trackie) - ⏳ trackie is a private, daemon-less time tracker for your CLI.
 - [robsonperassoli/atomic_v2](https://github.com/robsonperassoli/atomic_v2) - A time tracking app built for teams
 - [bashup/loco](https://github.com/bashup/loco) - LOcally-configured COmmands with `loco`
 - [NicolasPetton/Projectify](https://github.com/NicolasPetton/Projectify) - Project management for TiddlyWiki
@@ -15030,6 +15292,7 @@
 
 ## publishing 
 
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [dita-ot/dita-ot](https://github.com/dita-ot/dita-ot) - DITA Open Toolkit — the open-source publishing engine for content authored in the Darwin Information Typing Architecture.
 - [pressbooks/pressbooks](https://github.com/pressbooks/pressbooks) - Open publishing. Open web. Open source.
 - [TryGhost/Argon](https://github.com/TryGhost/Argon) - A simple publishing theme for Ghost
@@ -15064,6 +15327,7 @@
 
 ## pwa 
 
+- [JP1016/Paper](https://github.com/JP1016/Paper) - 🚀A "no-cloud" note taking app with "networkless" sharing. https://paperapp.now.sh
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [ygoex/yetty](https://github.com/ygoex/yetty) - Yet another 11ty boilerplate to start a new website with optional blog. This boilerplate is based on eleventy-base-blog et al.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -15098,6 +15362,26 @@
 
 ## python 
 
+- [alella/browserhist](https://github.com/alella/browserhist) - A CLI tool to fetch local browser data
+- [ActivityWatch/aw-research](https://github.com/ActivityWatch/aw-research) - Tools to analyse and experiment with ActivityWatch data
+- [10xJSChad/Darkpaste](https://github.com/10xJSChad/Darkpaste) - Pastebin alternative made for use by me & friends. Made with Python using Flask
+- [parazyd/blck](https://github.com/parazyd/blck) - Ephemeral pastebin/url-shortener
+- [kstypik/PasteMate](https://github.com/kstypik/PasteMate) - Pastebin web app allowing users to post plain text with optional syntax highlighting for many programming languages and with a bunch of other features.
+- [Ghalbeyou/Paster](https://github.com/Ghalbeyou/Paster) - A app to save pastes in json without database written in python
+- [jorgebg/seenoevil](https://github.com/jorgebg/seenoevil) - 🙈 Client side encrypted pastebin
+- [dragdev-studios/PostBin](https://github.com/dragdev-studios/PostBin) - The git repo for https://pypi.org/project/PostBin/
+- [syqu22/flask-pastebin](https://github.com/syqu22/flask-pastebin) - Simple flask web application
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
+- [girish946/local-paste](https://github.com/girish946/local-paste) - Lightweight pastebin for home network which may or may not be connected to the internet.
+- [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin, written in Python using Quart.
+- [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
+- [rugvedkoshiya/Emergency-Save](https://github.com/rugvedkoshiya/Emergency-Save) - 
+- [malte70/flyingpaste](https://github.com/malte70/flyingpaste) - A simple Nopaste service
+- [supriyo-biswas/upaste](https://github.com/supriyo-biswas/upaste) - A tiny pastebin written using the Flask framework.
+- [makramkd/pastebin](https://github.com/makramkd/pastebin) - A simple implementation of a Pastebin-type service
+- [misterrager8/ClipBin](https://github.com/misterrager8/ClipBin) - Simple and intuitive code snippet and clipboard manager. It will save any text or code snippet in a MySQL database, allowing you to access it later. Comes with both a command-line and web-based interf
+- [Czarified/thymed](https://github.com/Czarified/thymed) - Simple time-tracking in pure python.
+- [epeters3/time-tracking](https://github.com/epeters3/time-tracking) - A minimal CLI for tracking work time.
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [mwouts/jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
@@ -15534,6 +15818,9 @@
 
 ## python3 
 
+- [Tronic/pastezi](https://github.com/Tronic/pastezi) - Pastebin
+- [girish946/local-paste](https://github.com/girish946/local-paste) - Lightweight pastebin for home network which may or may not be connected to the internet.
+- [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
 - [elchicodepython/python-nocodb](https://github.com/elchicodepython/python-nocodb) - NocoDB Python API Client
 - [nuxeo/nuxeo-drive](https://github.com/nuxeo/nuxeo-drive) - Cross-platform desktop synchronization client for the Nuxeo platform.
 - [bsolomon1124/demoji](https://github.com/bsolomon1124/demoji) - Accurately find/replace/remove emojis in text strings
@@ -15657,6 +15944,7 @@
 
 ## rails 
 
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 - [chrisvel/wreeto_official](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system.
 - [rhardih/pong](https://github.com/rhardih/pong) - Basic uptime monitoring system, with email alerts and/or push notifications
@@ -15751,6 +16039,17 @@
 
 ## react 
 
+- [skorotkiewicz/gundpaste](https://github.com/skorotkiewicz/gundpaste) - Decentralized P2P Pastebin build with gundb
+- [BytesToBits/CodeShare](https://github.com/BytesToBits/CodeShare) - 
+- [jackyzha0/ctrl-v](https://github.com/jackyzha0/ctrl-v) - 📋 a modern, open-source pastebin with latex and markdown rendering support
+- [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
+- [ayushbasak/chotaurl](https://github.com/ayushbasak/chotaurl) - URL shortener / obfuscater using the ChotaURL-api
+- [JakeStanger/filexplorer](https://github.com/JakeStanger/filexplorer) - A lightweight highly extensible, and highly configurable NodeJS web-based file explorer and utility kit.
+- [nisabmohd/pasteden](https://github.com/nisabmohd/pasteden) - Paste now and review later
+- [Sid-Sun/ioctl-frontend](https://github.com/Sid-Sun/ioctl-frontend) - A Modern E2E Encrypted Pastebin Frontend witten in React
+- [mat-sz/shadowbin-web](https://github.com/mat-sz/shadowbin-web) - 📝 Encrypted text hosting service (React.js/TypeScript frontend)
+- [anirudhgray/anibin](https://github.com/anirudhgray/anibin) - A pastebin + quick poll maker.
+- [okiba-org/frontend](https://github.com/okiba-org/frontend) - front-end code for okiba bin
 - [BryanMorgan/time-tracking-app](https://github.com/BryanMorgan/time-tracking-app) - Reference React application for tracking time in tasks across multiple projects. Leverages the Golang API in https://github.com/BryanMorgan/time-tracking-api.
 - [pitgrap/time-tracking-app](https://github.com/pitgrap/time-tracking-app) - Simple automatic time tracking app
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
@@ -15965,6 +16264,9 @@
 
 ## reactjs 
 
+- [wendoj/md-notes](https://github.com/wendoj/md-notes) - Open source note-taking markdown app made with NextJS, TailwindCSS, and PlanetScale
+- [ragsav/copybin_frontend](https://github.com/ragsav/copybin_frontend) - Frontend for Copy&gt;Bin web app( similar to legendary pastebin website)
+- [okiba-org/frontend](https://github.com/okiba-org/frontend) - front-end code for okiba bin
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [toddbirchard/couldweallbe.pizza](https://github.com/toddbirchard/couldweallbe.pizza) - :pizza: :thought_balloon: Music portfolio Gatsby theme.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
@@ -16030,6 +16332,10 @@
 
 ## rest-api 
 
+- [kuro-vale/kuro-paste](https://github.com/kuro-vale/kuro-paste) - A PasteBin API made with NestJS
+- [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin, written in Python using Quart.
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
+- [ayushbasak/chotaurl](https://github.com/ayushbasak/chotaurl) - URL shortener / obfuscater using the ChotaURL-api
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
 - [ForetagInc/alchemy](https://github.com/ForetagInc/alchemy) - [WIP] High performance, realtime BaaS with RBAC, graphing, full text search, S3 / B2 Storage and GIS with a GraphQL, gRPC and REST API
@@ -16091,6 +16397,9 @@
 
 ## ruby 
 
+- [chronicle-app/chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - 📜 A CLI toolkit for extracting and working with your digital history
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [paranoiaz/ruby-rails-pastebin](https://github.com/paranoiaz/ruby-rails-pastebin) - Share your notes through the web
 - [chrisvel/wreeto_official](https://github.com/chrisvel/wreeto_official) - Wreeto is an open source note-taking, knowledge management and wiki system.
 - [janlelis/unicode-sequence_name](https://github.com/janlelis/unicode-sequence_name) - Unicode sequence names in Ruby
 - [janlelis/unicode-name](https://github.com/janlelis/unicode-name) - Unicode character names in Ruby
@@ -16208,6 +16517,27 @@
 
 ## rust 
 
+- [Basicprogrammer10/plaster-box](https://github.com/Basicprogrammer10/plaster-box) - 📦 A clean and simple PasteBin
+- [bradfier/gestetner](https://github.com/bradfier/gestetner) - A netcat & HTTP pastebin
+- [tansly/rustpaste](https://github.com/tansly/rustpaste) - Pastebin service in Rust
+- [s-thom/paste](https://github.com/s-thom/paste) - 📓 A tiny pastebin/gist/tinypaste alternative for self-hosting. Use at your own peril.
+- [aeyoll/toothpaste](https://github.com/aeyoll/toothpaste) - A pastebin written in Rust
+- [jmbi/blit.io](https://github.com/jmbi/blit.io) - Easy to use public pastebin, for use on the command line.
+- [BBaoVanC/bobashare](https://github.com/BBaoVanC/bobashare) - Simple ephemeral file sharing service
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service.
+- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste
+- [Enter-tainer/rspb](https://github.com/Enter-tainer/rspb) - pastebin written in pure rust. A rewrite of ptpb/pb.
+- [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
+- [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
+- [merlinfuchs/vaultbin](https://github.com/merlinfuchs/vaultbin) - A blazingly fast and secure Pastebin alternative
+- [demfabris/gistit](https://github.com/demfabris/gistit) - Easy code snippet sharing
+- [fosslife/bin](https://github.com/fosslife/bin) - pastebin in rust
+- [nerosnm/punch-clock](https://github.com/nerosnm/punch-clock) - Lightweight terminal time-tracking utility
+- [eckyputrady/ttrack](https://github.com/eckyputrady/ttrack) - Command-line utility for time tracking and reporting
+- [leroycep/augr](https://github.com/leroycep/augr) - A simple command line time tracker
+- [beatbrot/trackie](https://github.com/beatbrot/trackie) - ⏳ trackie is a private, daemon-less time tracker for your CLI.
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -16376,6 +16706,8 @@
 
 ## sass 
 
+- [cleggacus/my-paste-bin](https://github.com/cleggacus/my-paste-bin) - A simple pastebin webapp made with tRPC, Next.js and MongoDB.
+- [dhzdhd/codebin](https://github.com/dhzdhd/codebin) - A pastebin like service with syntax highlighting and a public api
 - [Andy-set-studio/hylia](https://github.com/Andy-set-studio/hylia) - Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.
 - [ygoex/yetty](https://github.com/ygoex/yetty) - Yet another 11ty boilerplate to start a new website with optional blog. This boilerplate is based on eleventy-base-blog et al.
 - [negrel/hugo-theme-pico](https://github.com/negrel/hugo-theme-pico) - :black_circle: Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
@@ -16430,6 +16762,8 @@
 
 ## security 
 
+- [achedeuzot/temporar.io](https://github.com/achedeuzot/temporar.io) - A client-side encrypted pastebin backed by Phoenix & Elixir
+- [rugvedkoshiya/Emergency-Save](https://github.com/rugvedkoshiya/Emergency-Save) - 
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -16511,6 +16845,8 @@
 
 ## server 
 
+- [lus/pasty](https://github.com/lus/pasty) - pasty is a fast and lightweight code pasting server
+- [pls-shareit/api](https://github.com/pls-shareit/api) - The API server for shareit.
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust) - Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library.
 - [CZ-NIC/knot](https://github.com/CZ-NIC/knot) - A mirrored repository
@@ -16557,6 +16893,7 @@
 
 ## serverless 
 
+- [jozsefsallai/fastbin-rewritten](https://github.com/jozsefsallai/fastbin-rewritten) - modern self-hosted pastebin service - now serverless!
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Free and open. Also available in the cloud: https://app.databend.com
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -16600,6 +16937,7 @@
 
 ## shell 
 
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
@@ -16736,6 +17074,7 @@
 
 ## statistics 
 
+- [casperdcl/ghstat](https://github.com/casperdcl/ghstat) - Plot summaries of lines of code written
 - [DNS-OARC/dsp](https://github.com/DNS-OARC/dsp) - DNS Statistics Presenter
 - [DNS-OARC/dsc](https://github.com/DNS-OARC/dsc) - DNS Statistics Collector
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
@@ -16821,6 +17160,8 @@
 
 ## terminal 
 
+- [radude/rentry](https://github.com/radude/rentry) - Markdown pastebin from command line
+- [beatbrot/trackie](https://github.com/beatbrot/trackie) - ⏳ trackie is a private, daemon-less time tracker for your CLI.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -16936,6 +17277,24 @@
 
 ## typescript 
 
+- [MeerBiene/x0-extension](https://github.com/MeerBiene/x0-extension) - Who needs a frontend when you can have a browser extension. This extension helps you to interact with https://x0.tf/
+- [cleggacus/my-paste-bin](https://github.com/cleggacus/my-paste-bin) - A simple pastebin webapp made with tRPC, Next.js and MongoDB.
+- [kuro-vale/kuro-paste](https://github.com/kuro-vale/kuro-paste) - A PasteBin API made with NestJS
+- [kiosion/minbin](https://github.com/kiosion/minbin) - A minimal & self-hostable alternative to pastebin, intended for code or other text snippets
+- [guptavasu1213/PostHub](https://github.com/guptavasu1213/PostHub) - This repository contains a RESTful API and front-end for a text sharing web application where the users can share their posts with the public while maintaining anonymity.
+- [BytesToBits/CodeShare](https://github.com/BytesToBits/CodeShare) - 
+- [x0tf/vsx0](https://github.com/x0tf/vsx0) - Who needs a frontend when you can have a VSCode Extension
+- [daemon1024/paste.land](https://github.com/daemon1024/paste.land) - Paste tool made in deno
+- [imperialbin/imperial](https://github.com/imperialbin/imperial) - Official mono-repo for https://imperialb.in/
+- [zer0bin-dev/zer0bin](https://github.com/zer0bin-dev/zer0bin) - 🖊️ // Just a place to paste
+- [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
+- [JakeStanger/filexplorer](https://github.com/JakeStanger/filexplorer) - A lightweight highly extensible, and highly configurable NodeJS web-based file explorer and utility kit.
+- [mat-sz/shadowbin-api](https://github.com/mat-sz/shadowbin-api) - 📝 Encrypted text hosting service (Backend)
+- [mat-sz/shadowbin-web](https://github.com/mat-sz/shadowbin-web) - 📝 Encrypted text hosting service (React.js/TypeScript frontend)
+- [okiba-org/backend](https://github.com/okiba-org/backend) - back-end for okiba bin.
+- [alok8bb/okiba](https://github.com/alok8bb/okiba) - [WIP] Simple pastebin and url shortener using NodeJs and Postgres.
+- [okiba-org/frontend](https://github.com/okiba-org/frontend) - front-end code for okiba bin
+- [daniel-keogh/codebin](https://github.com/daniel-keogh/codebin) - Code Sharing Tool built with NestJS, PostgreSQL & Vue
 - [centerofci/mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 - [subzerocloud/showcase](https://github.com/subzerocloud/showcase) - REST api for your database (PostgreSQL/Sqlite/ClickHouse).
 - [bdebon/choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
@@ -17114,10 +17473,17 @@
 
 ## visual-studio-code 
 
+- [x0tf/vsx0](https://github.com/x0tf/vsx0) - Who needs a frontend when you can have a VSCode Extension
 - [Glitchbone/vscode-base16-term](https://github.com/Glitchbone/vscode-base16-term) - Base16 Terminal Colors for Visual Studio Code
 
 ## vue 
 
+- [GDGVIT/triton-web](https://github.com/GDGVIT/triton-web) - Frontend for DSCVIT's internal pastebin and URL shortener
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
+- [Gareth618/pastemd](https://github.com/Gareth618/pastemd) - An evolved PasteBin clone
+- [pls-shareit/web](https://github.com/pls-shareit/web) - A modern-looking web frontend for ShareIt.
+- [daniel-keogh/codebin](https://github.com/daniel-keogh/codebin) - Code Sharing Tool built with NestJS, PostgreSQL & Vue
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [jesusantguerrero/sunday](https://github.com/jesusantguerrero/sunday) - monday clone with laravel 8, jetstream, inertia and vue
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
@@ -17247,6 +17613,9 @@
 
 ## web 
 
+- [tansly/rustpaste](https://github.com/tansly/rustpaste) - Pastebin service in Rust
+- [zer0bin-dev/zer0](https://github.com/zer0bin-dev/zer0) - 🧑‍💻 // CLI client for zer0bin
+- [182exe/linkbandit](https://github.com/182exe/linkbandit) - Linkbandit is a tool that lets you generate links with many custom parameters.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -17332,6 +17701,8 @@
 
 ## webapp 
 
+- [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin, written in Python using Quart.
+- [okiba-org/frontend](https://github.com/okiba-org/frontend) - front-end code for okiba bin
 - [whiskyechobravo/kerko](https://github.com/whiskyechobravo/kerko) - A web application component that provides a faceted search interface for bibliographies managed with Zotero.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [EcrituresNumeriques/stylo](https://github.com/EcrituresNumeriques/stylo) - Stylo est un éditeur de textes pour articles scientifiques en sciences humaines et sociales.
@@ -17362,6 +17733,7 @@
 
 ## webpack 
 
+- [aeyoll/toothpaste](https://github.com/aeyoll/toothpaste) - A pastebin written in Rust
 - [11ta/11ta-template](https://github.com/11ta/11ta-template) - Deeply customizable, full-featured, ready to publish blog template built with 11ty, TailwindCSS, & Alpine.js
 - [ygoex/yetty](https://github.com/ygoex/yetty) - Yet another 11ty boilerplate to start a new website with optional blog. This boilerplate is based on eleventy-base-blog et al.
 - [jbritten/Bermuda](https://github.com/jbritten/Bermuda) - Ghost theme using Tailwind CSS and webpack
@@ -17397,6 +17769,10 @@
 
 ## website 
 
+- [Rstar284/rpaste](https://github.com/Rstar284/rpaste) - Rpaste is a pastebin that uses base64 to store the paste, thus making it a no-datastore pastebin. Currently very WIP.
+- [GreatWizard/gistlinktree](https://github.com/GreatWizard/gistlinktree) - Generate a link tree from a configuration file.
+- [pls-shareit/web](https://github.com/pls-shareit/web) - A modern-looking web frontend for ShareIt.
+- [182exe/linkbandit](https://github.com/182exe/linkbandit) - Linkbandit is a tool that lets you generate links with many custom parameters.
 - [11ta/11ta-template](https://github.com/11ta/11ta-template) - Deeply customizable, full-featured, ready to publish blog template built with 11ty, TailwindCSS, & Alpine.js
 - [qoomon/aws-s3-bucket-browser](https://github.com/qoomon/aws-s3-bucket-browser) - Single page application to browse AWS S3 bucket content
 - [denosaurs/website](https://github.com/denosaurs/website) - ✍️ Our official documentation site
@@ -17431,6 +17807,7 @@
 
 ## windows 
 
+- [screen-sbs/server](https://github.com/screen-sbs/server) - Self-hosted Screenshot, Video and Code sharing with clients for Windows & Linux
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
 - [ashaduri/gsmartcontrol](https://github.com/ashaduri/gsmartcontrol) - GSmartControl - Hard disk drive and SSD health inspection tool
 - [Pext/Pext](https://github.com/Pext/Pext) - Python-based extendable tool
@@ -17496,6 +17873,7 @@
 
 ## wordpress 
 
+- [carbondigitalus/pawn-markdown](https://github.com/carbondigitalus/pawn-markdown) - In-browser Markdown editor. Forked from Stack Edit.
 - [gocodebox/lifterlms](https://github.com/gocodebox/lifterlms) - LifterLMS, a WordPress LMS Solution: Easily create, sell, and protect engaging online courses.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 - [bitpoke/wordpress-operator](https://github.com/bitpoke/wordpress-operator) - Bitpoke Kubernetes operator for WordPress
